@@ -1,0 +1,663 @@
+[
+    {
+      "award_name": "National Book Award",
+      "registration_url": "https://www.nationalbook.org/national-book-awards/submissions/",
+      "categories": ["Fiction", "Nonfiction", "Poetry", "Translated Literature", "Young People's Literature"],
+      "organization": "National Book Foundation"
+    },
+    {
+      "award_name": "Pulitzer Prize",
+      "registration_url": "https://www.pulitzer.org/entry-information",
+      "categories": ["Fiction", "Drama", "History", "Biography", "Poetry", "General Nonfiction", "Music"],
+      "organization": "Columbia University"
+    },
+    {
+      "award_name": "PEN America Literary Awards",
+      "registration_url": "https://pen.org/literary-awards/submit/",
+      "categories": ["Fiction", "Essay", "Poetry", "Biography", "Science Writing", "Translation", "Debut Fiction"],
+      "organization": "PEN America"
+    },
+    {
+      "award_name": "American Book Awards",
+      "registration_url": "http://www.beforecolumbusfoundation.com/american-book-awards/",
+      "categories": ["Multiple Categories Without Restriction"],
+      "organization": "Before Columbus Foundation"
+    },
+    {
+      "award_name": "Lambda Literary Awards",
+      "registration_url": "https://www.lambdaliterary.org/awards/guidelines/",
+      "categories": ["Lesbian Fiction", "Gay Fiction", "Bisexual Fiction", "Transgender Fiction", "LGBTQ Nonfiction", "Gay Poetry", "Lesbian Poetry"],
+      "organization": "Lambda Literary Foundation"
+    },
+    {
+      "award_name": "Edgar Allan Poe Awards",
+      "registration_url": "https://mysterywriters.org/how-to-become-a-member/edgar-awards/",
+      "categories": ["Best Novel", "Best First Novel", "Best Paperback Original", "Best Fact Crime", "Best Critical/Biographical", "Best Short Story"],
+      "organization": "Mystery Writers of America"
+    },
+    {
+      "award_name": "Hugo Awards",
+      "registration_url": "https://www.thehugoawards.org/hugo-categories/",
+      "categories": ["Best Novel", "Best Novella", "Best Novelette", "Best Short Story", "Best Series", "Best Graphic Story"],
+      "organization": "World Science Fiction Society"
+    },
+    {
+      "award_name": "Nebula Awards",
+      "registration_url": "https://nebulas.sfwa.org/about-the-nebulas/nebula-rules/",
+      "categories": ["Novel", "Novella", "Novelette", "Short Story", "Game Writing", "Middle Grade/Young Adult Fiction"],
+      "organization": "Science Fiction and Fantasy Writers of America"
+    },
+    {
+      "award_name": "World Fantasy Awards",
+      "registration_url": "https://www.worldfantasy.org/awards/",
+      "categories": ["Novel", "Novella", "Short Fiction", "Collection", "Anthology", "Artist", "Special Award"],
+      "organization": "World Fantasy Convention"
+    },
+    {
+      "award_name": "Bram Stoker Awards",
+      "registration_url": "https://www.thebramstokerawards.com/submissions/",
+      "categories": ["Novel", "First Novel", "Young Adult Novel", "Graphic Novel", "Long Fiction", "Short Fiction", "Collection", "Poetry Collection"],
+      "organization": "Horror Writers Association"
+    },
+    {
+      "award_name": "Newbery Medal",
+      "registration_url": "http://www.ala.org/alsc/awardsgrants/bookmedia/newberymedal/newberymedal",
+      "categories": ["Children's Literature"],
+      "organization": "Association for Library Service to Children (ALSC)"
+    },
+    {
+      "award_name": "Caldecott Medal",
+      "registration_url": "http://www.ala.org/alsc/awardsgrants/bookmedia/caldecottmedal/caldecottmedal",
+      "categories": ["Picture Books"],
+      "organization": "Association for Library Service to Children (ALSC)"
+    },
+    {
+      "award_name": "National Book Critics Circle Awards",
+      "registration_url": "https://www.bookcritics.org/awards/",
+      "categories": ["Fiction", "Nonfiction", "Biography", "Autobiography", "Poetry", "Criticism"],
+      "organization": "National Book Critics Circle"
+    },
+    {
+      "award_name": "Los Angeles Times Book Prize",
+      "registration_url": "https://www.latimes.com/books/book-prizes",
+      "categories": ["Biography", "Current Interest", "Fiction", "First Fiction", "History", "Mystery/Thriller", "Poetry", "Science & Technology", "Young Adult Literature"],
+      "organization": "Los Angeles Times"
+    },
+    {
+      "award_name": "NAACP Image Awards (Literary)",
+      "registration_url": "https://www.naacpimageawards.net/submission-categories-and-rules/",
+      "categories": ["Fiction", "Nonfiction", "Debut Author", "Biography/Autobiography", "Instructional", "Poetry", "Children", "Youth/Teens"],
+      "organization": "National Association for the Advancement of Colored People"
+    },
+    {
+      "award_name": "PEN/Faulkner Award for Fiction",
+      "registration_url": "https://www.penfaulkner.org/award-for-fiction/submission-guidelines/",
+      "categories": ["Fiction"],
+      "organization": "PEN/Faulkner Foundation"
+    },
+    {
+      "award_name": "The Story Prize",
+      "registration_url": "https://thestoryprize.org/how-to-enter/",
+      "categories": ["Short Story Collections"],
+      "organization": "The Story Prize"
+    },
+    {
+      "award_name": "Kirkus Prize",
+      "registration_url": "https://www.kirkusreviews.com/prize/about/",
+      "categories": ["Fiction", "Nonfiction", "Young Readers' Literature"],
+      "organization": "Kirkus Reviews"
+    },
+    {
+      "award_name": "The Center for Fiction First Novel Prize",
+      "registration_url": "https://centerforfiction.org/awards/the-first-novel-prize/",
+      "categories": ["First Novel"],
+      "organization": "The Center for Fiction"
+    },
+    {
+      "award_name": "National Translation Award",
+      "registration_url": "https://www.literarytranslators.org/awards/nta",
+      "categories": ["Poetry", "Prose"],
+      "organization": "American Literary Translators Association"
+    },
+    {
+      "award_name": "Women's Prize for Fiction (U.S. Component)",
+      "registration_url": "https://www.womensprizeforfiction.co.uk/enter",
+      "categories": ["Fiction by Women"],
+      "organization": "Women's Prize Trust"
+    },
+    {
+      "award_name": "Pushcart Prize",
+      "registration_url": "https://www.pushcartprize.com/submission-guidelines.html",
+      "categories": ["Poetry", "Fiction", "Essays", "Memoirs"],
+      "organization": "Pushcart Press"
+    },
+    {
+      "award_name": "O. Henry Prize",
+      "registration_url": "https://www.ohenryprizestories.com/submission-guidelines",
+      "categories": ["Short Fiction"],
+      "organization": "O. Henry Prize Committee"
+    },
+    {
+      "award_name": "The Best American Series",
+      "registration_url": "https://www.hmhbooks.com/bestamerican/",
+      "categories": ["Short Stories", "Essays", "Science/Nature Writing", "Mystery Stories", "Poetry", "Comics"],
+      "organization": "Houghton Mifflin Harcourt"
+    },
+    {
+      "award_name": "PEN/Hemingway Award",
+      "registration_url": "https://pen.org/literary-awards/penhemingway-award/",
+      "categories": ["Debut Novel"],
+      "organization": "PEN America"
+    },
+    {
+      "award_name": "PEN/Robert W. Bingham Prize",
+      "registration_url": "https://pen.org/literary-awards/penrobert-w-bingham-prize/",
+      "categories": ["Debut Short Story Collection"],
+      "organization": "PEN America"
+    },
+    {
+      "award_name": "Andrew Carnegie Medal for Excellence",
+      "registration_url": "http://www.ala.org/rusa/awards/carnegie-medals",
+      "categories": ["Fiction", "Nonfiction"],
+      "organization": "American Library Association"
+    },
+    {
+      "award_name": "Anisfield-Wolf Book Awards",
+      "registration_url": "https://www.anisfield-wolf.org/submissions/",
+      "categories": ["Fiction", "Nonfiction", "Poetry", "Lifetime Achievement"],
+      "organization": "Cleveland Foundation"
+    },
+    {
+      "award_name": "Anthony Awards",
+      "registration_url": "https://bouchercon.com/2020/anthony-awards/",
+      "categories": ["Best Novel", "Best First Novel", "Best Paperback Original", "Best Short Story", "Best Critical Nonfiction"],
+      "organization": "Bouchercon World Mystery Convention"
+    },
+    {
+      "award_name": "Agatha Awards",
+      "registration_url": "https://www.malicedomestic.org/agatha-awards.html",
+      "categories": ["Best Contemporary Novel", "Best Historical Novel", "Best First Novel", "Best Short Story", "Best Nonfiction", "Best Children's/YA"],
+      "organization": "Malice Domestic"
+    },
+    {
+      "award_name": "Macavity Awards",
+      "registration_url": "https://mysteryreaders.org/macavity-awards/",
+      "categories": ["Best Mystery Novel", "Best First Mystery Novel", "Best Mystery Short Story", "Best Critical/Biographical", "Sue Feder Memorial Award for Best Historical Mystery"],
+      "organization": "Mystery Readers International"
+    },
+    {
+      "award_name": "Shamus Awards",
+      "registration_url": "https://www.privateeyewriters.com/the-shamus-awards",
+      "categories": ["Best Hardcover PI Novel", "Best First PI Novel", "Best Original Paperback PI Novel", "Best PI Short Story"],
+      "organization": "Private Eye Writers of America"
+    },
+    {
+      "award_name": "Thriller Awards",
+      "registration_url": "https://thrillerwriters.org/thriller-awards/submissions/",
+      "categories": ["Best Hardcover Novel", "Best Paperback Original Novel", "Best First Novel", "Best Short Story", "Best Young Adult Novel", "Best E-Book Original Novel"],
+      "organization": "International Thriller Writers"
+    },
+    {
+      "award_name": "Shirley Jackson Awards",
+      "registration_url": "https://www.shirleyjacksonawards.org/nominations/",
+      "categories": ["Novel", "Novella", "Novelette", "Short Fiction", "Single-Author Collection", "Edited Anthology"],
+      "organization": "Shirley Jackson Awards Board"
+    },
+    {
+      "award_name": "Philip K. Dick Award",
+      "registration_url": "https://www.philipkdickaward.org/submissions/",
+      "categories": ["Distinguished Science Fiction Published in Paperback Original"],
+      "organization": "Philadelphia SF Society and Philip K. Dick Trust"
+    },
+    {
+      "award_name": "Locus Awards",
+      "registration_url": "https://locusmag.com/locus-awards-about/",
+      "categories": ["Science Fiction Novel", "Fantasy Novel", "Horror Novel", "Young Adult Book", "First Novel", "Novella", "Novelette", "Short Story"],
+      "organization": "Locus Magazine"
+    },
+    {
+      "award_name": "Prometheus Award",
+      "registration_url": "http://lfs.org/awards.shtml",
+      "categories": ["Best Novel", "Hall of Fame"],
+      "organization": "Libertarian Futurist Society"
+    },
+    {
+      "award_name": "John W. Campbell Memorial Award",
+      "registration_url": "http://www.campbell-wood.com/award.htm",
+      "categories": ["Best Science Fiction Novel"],
+      "organization": "Center for the Study of Science Fiction"
+    },
+    {
+      "award_name": "Theodore Sturgeon Memorial Award",
+      "registration_url": "http://www.sfcenter.ku.edu/sturgeon.htm",
+      "categories": ["Best Short Science Fiction"],
+      "organization": "Center for the Study of Science Fiction"
+    },
+    {
+      "award_name": "Otherwise Award",
+      "registration_url": "https://otherwiseaward.org/about/",
+      "categories": ["Science Fiction or Fantasy that Explores Gender"],
+      "organization": "Otherwise Award Committee"
+    },
+    {
+      "award_name": "Mythopoeic Awards",
+      "registration_url": "https://www.mythsoc.org/awards.htm",
+      "categories": ["Adult Literature", "Children's Literature", "Scholarship (Inklings Studies)", "Scholarship (Myth and Fantasy Studies)"],
+      "organization": "Mythopoeic Society"
+    },
+    {
+      "award_name": "Spur Awards",
+      "registration_url": "https://westernwriters.org/spur-awards/",
+      "categories": ["Traditional Western Novel", "Contemporary Western Novel", "Western Romance Novel", "Historical Novel", "Biography", "Short Fiction", "Poetry"],
+      "organization": "Western Writers of America"
+    },
+    {
+      "award_name": "Western Heritage Awards",
+      "registration_url": "https://nationalcowboymuseum.org/western-heritage-awards/",
+      "categories": ["Western Novel", "Nonfiction Book", "Art Book", "Photography Book", "Juvenile Book", "Poetry Book"],
+      "organization": "National Cowboy & Western Heritage Museum"
+    },
+    {
+      "award_name": "Coretta Scott King Book Awards",
+      "registration_url": "http://www.ala.org/rt/emiert/cskbookawards",
+      "categories": ["Author Award", "Illustrator Award", "John Steptoe Award for New Talent", "Virginia Hamilton Award for Lifetime Achievement"],
+      "organization": "American Library Association"
+    },
+    {
+      "award_name": "Michael L. Printz Award",
+      "registration_url": "http://www.ala.org/yalsa/printz",
+      "categories": ["Young Adult Literature"],
+      "organization": "Young Adult Library Services Association"
+    },
+    {
+      "award_name": "National Jewish Book Awards",
+      "registration_url": "https://www.jewishbookcouncil.org/awards/national-jewish-book-award",
+      "categories": ["Fiction", "Autobiography/Memoir", "Biography", "Book Club", "Contemporary Jewish Life", "Education and Jewish Identity", "History", "Holocaust", "Poetry", "Scholarship", "Women's Studies"],
+      "organization": "Jewish Book Council"
+    },
+    {
+      "award_name": "John Burroughs Medal",
+      "registration_url": "https://www.johnburroughsassociation.org/awards",
+      "categories": ["Natural History Writing"],
+      "organization": "John Burroughs Association"
+    },
+    {
+      "award_name": "James Beard Foundation Book Awards",
+      "registration_url": "https://www.jamesbeard.org/awards/policies",
+      "categories": ["American", "Baking and Desserts", "Beverage", "General Cooking", "International", "Health and Special Diets", "Reference, History, and Scholarship", "Single Subject", "Vegetable-Focused Cooking", "Writing"],
+      "organization": "James Beard Foundation"
+    },
+    {
+      "award_name": "IACP Cookbook Awards",
+      "registration_url": "https://www.iacp.com/awards/cookbook-awards/",
+      "categories": ["American", "Baking", "Beverage", "Chefs and Restaurants", "Children, Youth and Family", "Compilations", "Culinary Travel", "Food Photography & Styling", "Food Writing", "General", "Health & Special Diet", "International", "Reference & Technical", "Single Subject"],
+      "organization": "International Association of Culinary Professionals"
+    },
+    {
+      "award_name": "Bancroft Prize",
+      "registration_url": "https://library.columbia.edu/about/awards/bancroft.html",
+      "categories": ["American History and Diplomacy"],
+      "organization": "Columbia University"
+    },
+    {
+      "award_name": "Francis Parkman Prize",
+      "registration_url": "https://www.sah.org/jobs-and-opportunities/prize-competitions",
+      "categories": ["American History"],
+      "organization": "Society of American Historians"
+    },
+    {
+      "award_name": "Lincoln Prize",
+      "registration_url": "https://www.gettysburg.edu/lincoln-prize",
+      "categories": ["American Civil War History"],
+      "organization": "Gettysburg College and the Gilder Lehrman Institute"
+    },
+    {
+      "award_name": "Frederick Douglass Prize",
+      "registration_url": "https://glc.yale.edu/frederick-douglass-book-prize",
+      "categories": ["History of Slavery or Abolition"],
+      "organization": "Gilder Lehrman Center at Yale University"
+    },
+    {
+      "award_name": "National Outdoor Book Awards",
+      "registration_url": "http://www.noba-web.org/entry_guidelines.htm",
+      "categories": ["History/Biography", "Outdoor Literature", "Natural History Literature", "Children's", "Design & Artistic Merit", "Classic", "Nature and Environment", "Outdoor Adventure Guidebook", "Instructional"],
+      "organization": "National Outdoor Book Awards Foundation"
+    },
+    {
+      "award_name": "Mark Twain Prize for American Humor",
+      "registration_url": "https://www.kennedy-center.org/whats-on/honors/mark-twain-prize/",
+      "categories": ["American Humor"],
+      "organization": "Kennedy Center for the Performing Arts"
+    },
+    {
+      "award_name": "Hurston/Wright Legacy Award",
+      "registration_url": "https://www.hurstonwright.org/legacy-award/",
+      "categories": ["Fiction", "Nonfiction", "Poetry", "Debut Fiction"],
+      "organization": "Hurston/Wright Foundation"
+    },
+    {
+      "award_name": "Flannery O'Connor Award for Short Fiction",
+      "registration_url": "https://ugapress.org/series/flannery-oconnor-award-for-short-fiction/",
+      "categories": ["Short Story Collection"],
+      "organization": "University of Georgia Press"
+    },
+    {
+      "award_name": "Iowa Short Fiction Award",
+      "registration_url": "https://uipress.uiowa.edu/iowa-short-fiction-award-john-simmons-short-fiction-award",
+      "categories": ["Short Story Collection"],
+      "organization": "University of Iowa Press"
+    },
+    {
+      "award_name": "AWP Award Series",
+      "registration_url": "https://www.awpwriter.org/contests/awp_award_series_overview",
+      "categories": ["Novel", "Short Fiction", "Creative Nonfiction", "Poetry"],
+      "organization": "Association of Writers & Writing Programs"
+    },
+    {
+      "award_name": "Katherine Anne Porter Prize",
+      "registration_url": "https://untpress.unt.edu/katherine-anne-porter-prize-short-fiction",
+      "categories": ["Short Fiction"],
+      "organization": "University of North Texas Press"
+    },
+    {
+      "award_name": "Balcones Fiction Prize",
+      "registration_url": "https://www.austincc.edu/departments/creative-writing/balcones-fiction-and-poetry-prizes",
+      "categories": ["Fiction"],
+      "organization": "Austin Community College"
+    },
+    {
+      "award_name": "The Believer Book Award",
+      "registration_url": "https://believermag.com/the-believer-book-award/",
+      "categories": ["Fiction"],
+      "organization": "The Believer Magazine"
+    },
+    {
+      "award_name": "PEN/Diamonstein-Spielvogel Award",
+      "registration_url": "https://pen.org/literary-awards/pendiamonsteinspielvogelaward/",
+      "categories": ["Art of the Essay"],
+      "organization": "PEN America"
+    },
+    {
+      "award_name": "Nautilus Book Awards",
+      "registration_url": "https://nautilusbookawards.com/guidelines/",
+      "categories": ["Fiction", "Nonfiction", "Children's", "Young Adult", "Gift/Specialty", "Art", "Business", "Ecology & Environment", "Green Living", "Health & Healing", "Journalism", "Memoir", "Multicultural", "Psychology", "Science", "Spirituality", "Women"],
+      "organization": "Nautilus Book Awards"
+    },
+    {
+      "award_name": "ForeWord INDIES Book of the Year",
+      "registration_url": "https://www.forewordreviews.com/awards/",
+      "categories": ["Fiction", "Nonfiction", "Poetry", "Children's"],
+      "organization": "ForeWord Reviews"
+    },
+    {
+      "award_name": "IPPY Awards",
+      "registration_url": "https://independentpublisher.com/enter-ippy-awards.php",
+      "categories": ["Popular Fiction", "Literary Fiction", "Mystery/Suspense", "Multicultural Fiction", "Historical Fiction", "Science Fiction", "Fantasy", "Horror", "Young Adult Fiction", "Juvenile Fiction", "Biography", "Autobiography/Memoir", "History", "Religion", "Science", "Business/Career", "Self-Help", "Health/Medicine", "Sports/Fitness", "Home/Garden", "Cookbooks", "Animals/Pets", "Crafts/Hobbies", "Fine Art", "Photography", "Architecture", "Design", "Reference", "Travel", "Humor", "Children's Picture Books", "Graphic Novels/Comics", "Poetry", "Essay", "Anthology", "Coffee Table Books"],
+      "organization": "Independent Publisher"
+    },
+    {
+      "award_name": "Benjamin Franklin Awards",
+      "registration_url": "https://www.ibpa-online.org/page/benfranklindigital",
+      "categories": ["Fiction", "Nonfiction", "Poetry", "Children's", "Young Adult", "Art", "Business", "Biography", "Crafts/Hobbies", "Cookbooks", "Health/Fitness", "History", "Home/Garden", "Humor", "Inspirational", "Memoir", "Nature/Environment", "New Age", "Parenting", "Psychology", "Religion", "Sports", "Travel", "Reference"],
+      "organization": "Independent Book Publishers Association"
+    },
+    {
+      "award_name": "National Indie Excellence Awards",
+      "registration_url": "https://www.indieexcellence.com/enter-the-contest",
+      "categories": ["Fiction", "Nonfiction", "Business", "Self-Help", "Health", "Memoir", "Poetry", "Spirituality", "Children's Books", "Art", "Photography", "Coffee Table Books"],
+      "organization": "National Indie Excellence Awards"
+    },
+    {
+      "award_name": "Next Generation Indie Book Awards",
+      "registration_url": "https://www.indiebookawards.com/guidelines.php",
+      "categories": ["Fiction", "Nonfiction", "Autobiography/Memoir", "Business", "Children's/Juvenile Fiction", "General Fiction", "Graphic Novel", "Health/Wellness", "Historical Fiction", "Inspirational", "Literary Fiction", "Mystery", "New Age", "Novella", "Poetry", "Regional Fiction", "Religious Fiction", "Romance", "Science Fiction", "Self-Help", "Spirituality", "Thriller", "Young Adult", "Visionary Fiction"],
+      "organization": "Independent Book Publishing Professionals Group"
+    },
+    {
+      "award_name": "Eric Hoffer Book Award",
+      "registration_url": "http://www.hofferaward.com/",
+      "categories": ["Art", "Business", "Culture", "Education", "Fiction", "Health", "History", "Home", "Humor", "Legacy", "Memoir", "Poetry", "Psychology", "Reference", "Religion", "Science", "Self-Help", "Spiritual"],
+      "organization": "Eric Hoffer Award"
+    },
+    {
+      "award_name": "Whiting Awards",
+      "registration_url": "https://www.whiting.org/awards/about",
+      "categories": ["Fiction", "Nonfiction", "Poetry", "Drama"],
+      "organization": "Whiting Foundation"
+    },
+    {
+      "award_name": "Janet Heidinger Kafka Prize",
+      "registration_url": "https://www.rochester.edu/college/wst/support/kafka-prize.html",
+      "categories": ["Fiction by American Women"],
+      "organization": "University of Rochester"
+    },
+    {
+      "award_name": "Eugene and Marilyn Glick Indiana Authors Award",
+      "registration_url": "https://www.indianaauthorsawards.org/submissions/",
+      "categories": ["Fiction", "Nonfiction", "Poetry", "Genre", "Children's", "Young Adult", "Drama"],
+      "organization": "Indiana Humanities"
+    },
+    {
+      "award_name": "Chautauqua Prize",
+      "registration_url": "https://chq.org/archives/this-week-on-the-grounds/the-chautauqua-prize/",
+      "categories": ["Fiction and Nonfiction"],
+      "organization": "Chautauqua Institution"
+    },
+    {
+      "award_name": "Willie Morris Award for Southern Fiction",
+      "registration_url": "https://libarts.olemiss.edu/willie-morris-award/",
+      "categories": ["Southern Fiction"],
+      "organization": "University of Mississippi"
+    },
+    {
+      "award_name": "Southern Book Prize",
+      "registration_url": "https://www.sibaweb.com/southern-book-prize-submissions",
+      "categories": ["Fiction", "Nonfiction", "Children's"],
+      "organization": "Southern Independent Booksellers Alliance"
+    },
+    {
+      "award_name": "Ernest J. Gaines Award for Literary Excellence",
+      "registration_url": "https://www.ernestjgainesaward.org/",
+      "categories": ["Fiction by African American Authors"],
+      "organization": "Baton Rouge Area Foundation"
+    },
+    {
+      "award_name": "Langston Hughes Medal",
+      "registration_url": "https://www.ccny.cuny.edu/langston-hughes-festival/medal",
+      "categories": ["Lifetime Achievement in Literature"],
+      "organization": "City College of New York"
+    },
+    {
+      "award_name": "Cave Canem Poetry Prize",
+      "registration_url": "https://cavecanempoets.org/awards-and-prizes/",
+      "categories": ["First Book by African American Poet"],
+      "organization": "Cave Canem Foundation"
+    },
+    {
+      "award_name": "Academy of American Poets Prizes",
+      "registration_url": "https://poets.org/academy-american-poets-prizes",
+      "categories": ["Various Poetry Awards"],
+      "organization": "Academy of American Poets"
+    },
+    {
+      "award_name": "Walt Whitman Award",
+      "registration_url": "https://poets.org/academy-american-poets/prizes/walt-whitman-award",
+      "categories": ["First Book of Poetry"],
+      "organization": "Academy of American Poets"
+    },
+    {
+      "award_name": "James Laughlin Award",
+      "registration_url": "https://poets.org/academy-american-poets/prizes/james-laughlin-award",
+      "categories": ["Second Book of Poetry"],
+      "organization": "Academy of American Poets"
+    },
+    {
+      "award_name": "Lenore Marshall Poetry Prize",
+      "registration_url": "https://poets.org/academy-american-poets/prizes/lenore-marshall-poetry-prize",
+      "categories": ["Poetry Collection"],
+      "organization": "Academy of American Poets"
+    },
+    {
+      "award_name": "Wallace Stevens Award",
+      "registration_url": "https://poets.org/academy-american-poets/prizes/wallace-stevens-award",
+      "categories": ["Lifetime Achievement in Poetry"],
+      "organization": "Academy of American Poets"
+    },
+    {
+      "award_name": "Ruth Lilly Poetry Prize",
+      "registration_url": "https://www.poetryfoundation.org/foundation/prizes-fellowship",
+      "categories": ["Lifetime Achievement in Poetry"],
+      "organization": "Poetry Foundation"
+    },
+    {
+      "award_name": "Kingsley Tufts Poetry Award",
+      "registration_url": "https://arts.cgu.edu/tufts-poetry-awards/",
+      "categories": ["Poetry Collection"],
+      "organization": "Claremont Graduate University"
+    },
+    {
+      "award_name": "Kate Tufts Discovery Award",
+      "registration_url": "https://arts.cgu.edu/tufts-poetry-awards/",
+      "categories": ["First Book of Poetry"],
+      "organization": "Claremont Graduate University"
+    },
+    {
+      "award_name": "T.S. Eliot Prize (U.S. component)",
+      "registration_url": "https://www.poetrysociety.org.uk/competitions/ts-eliot-prize/",
+      "categories": ["Poetry Collection"],
+      "organization": "Poetry Book Society"
+    },
+    {
+      "award_name": "Griffin Poetry Prize (U.S. component)",
+      "registration_url": "http://www.griffinpoetryprize.com/how-to-submit/",
+      "categories": ["Poetry Collection"],
+      "organization": "Griffin Trust for Excellence in Poetry"
+    },
+    {
+      "award_name": "Marfield Prize",
+      "registration_url": "https://www.artsclub.org/awards-programs/marfield-prize",
+      "categories": ["Arts Writing"],
+      "organization": "Arts Club of Washington"
+    },
+    {
+      "award_name": "E.B. White Read Aloud Award",
+      "registration_url": "https://www.bookweb.org/white-read-aloud-award",
+      "categories": ["Picture Books", "Middle Reader"],
+      "organization": "American Booksellers Association"
+    },
+    {
+      "award_name": "YALSA Award for Excellence in Nonfiction",
+      "registration_url": "http://www.ala.org/yalsa/nonfiction-award",
+      "categories": ["Young Adult Nonfiction"],
+      "organization": "Young Adult Library Services Association"
+    },
+    {
+      "award_name": "Pura Belpré Award",
+      "registration_url": "http://www.ala.org/alsc/awardsgrants/bookmedia/belpremedal",
+      "categories": ["Latino/Latina Writer", "Latino/Latina Illustrator"],
+      "organization": "Association for Library Service to Children"
+    },
+    {
+      "award_name": "Scott O'Dell Award for Historical Fiction",
+      "registration_url": "https://scottodell.com/the-scott-odell-award",
+      "categories": ["Historical Fiction for Young Readers"],
+      "organization": "Scott O'Dell Award Committee"
+    },
+    {
+      "award_name": "Jane Addams Children's Book Award",
+      "registration_url": "https://www.janeaddamspeace.org/jacba/",
+      "categories": ["Children's Books for Peace and Social Justice"],
+      "organization": "Jane Addams Peace Association"
+    },
+    {
+      "award_name": "Schneider Family Book Award",
+      "registration_url": "http://www.ala.org/awardsgrants/schneider-family-book-award",
+      "categories": ["Books Portraying Disability Experience"],
+      "organization": "American Library Association"
+    },
+    {
+      "award_name": "Theodor Seuss Geisel Award",
+      "registration_url": "http://www.ala.org/alsc/awardsgrants/bookmedia/geiselaward",
+      "categories": ["Beginning Reader Books"],
+      "organization": "Association for Library Service to Children"
+    },
+    {
+      "award_name": "Margaret A. Edwards Award",
+      "registration_url": "http://www.ala.org/yalsa/edwards",
+      "categories": ["Lifetime Contribution to Young Adult Literature"],
+      "organization": "Young Adult Library Services Association"
+    },
+    {
+      "award_name": "Robert F. Sibert Informational Book Medal",
+      "registration_url": "http://www.ala.org/alsc/awardsgrants/bookmedia/sibertmedal",
+      "categories": ["Informational Books for Children"],
+      "organization": "Association for Library Service to Children"
+    },
+    {
+      "award_name": "NCTE Award for Excellence in Poetry for Children",
+      "registration_url": "https://ncte.org/awards/ncte-excellence-in-poetry-for-children/",
+      "categories": ["Poetry for Children"],
+      "organization": "National Council of Teachers of English"
+    },
+    {
+      "award_name": "Phoenix Award",
+      "registration_url": "https://www.childlitassn.org/phoenix-award",
+      "categories": ["Children's Books Published 20 Years Previously"],
+      "organization": "Children's Literature Association"
+    },
+    {
+      "award_name": "Boston Globe-Horn Book Award",
+      "registration_url": "https://www.hbook.com/bghb",
+      "categories": ["Fiction and Poetry", "Nonfiction", "Picture Book"],
+      "organization": "The Boston Globe and The Horn Book Magazine"
+    },
+    {
+      "award_name": "Orbis Pictus Award",
+      "registration_url": "https://ncte.org/awards/orbis-pictus-award-nonfiction-for-children/",
+      "categories": ["Nonfiction for Children"],
+      "organization": "National Council of Teachers of English"
+    },
+    {
+      "award_name": "Charlotte Zolotow Award",
+      "registration_url": "https://ccbc.education.wisc.edu/the-charlotte-zolotow-award/",
+      "categories": ["Picture Book Text"],
+      "organization": "Cooperative Children's Book Center"
+    },
+    {
+      "award_name": "Asian/Pacific American Award for Literature",
+      "registration_url": "http://www.apalaweb.org/awards/literature-awards/",
+      "categories": ["Picture Book", "Children's Literature", "Young Adult Literature", "Adult Fiction", "Adult Non-Fiction"],
+      "organization": "Asian/Pacific American Librarians Association"
+    },
+    {
+      "award_name": "American Indian Youth Literature Award",
+      "registration_url": "https://ailanet.org/activities/american-indian-youth-literature-award/",
+      "categories": ["Picture Book", "Middle Grade", "Young Adult"],
+      "organization": "American Indian Library Association"
+    },
+    {
+      "award_name": "Arab American Book Award",
+      "registration_url": "https://arabamericanmuseum.org/book-awards/",
+      "categories": ["Fiction", "Non-Fiction", "Poetry", "Children's/Young Adult"],
+      "organization": "Arab American National Museum"
+    },
+    {
+      "award_name": "Tomás Rivera Mexican American Children's Book Award",
+      "registration_url": "https://www.education.txstate.edu/departments/C-P/center-for-multicultural-programs-and-services/Tomas-Rivera-Book-Award-Project.html",
+      "categories": ["Works for Younger Readers", "Works for Older Readers"],
+      "organization": "Texas State University College of Education"
+    },
+    {
+      "award_name": "Christopher Award",
+      "registration_url": "https://christophers.org/christopher-awards",
+      "categories": ["Books for Adults", "Books for Young People"],
+      "organization": "The Christophers"
+    },
+    {
+      "award_name": "Independent Publisher Book Awards (IPBA)",
+      "registration_url": "https://www.independentpublisher.com/enter-ippy-awards.php",
+      "categories": ["Over 85 Categories Including Regional and Subject Categories"],
+      "organization": "Jenkins Group"
+    }
+  ]
+  
