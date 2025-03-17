@@ -1,6 +1,8 @@
 # Book Award AI Scraper
 
-via Perplexity Deep Research
+1. Read a JSON list of generated (Perplexity Deep Research) 
+
+# Setup
 
 setup file `.env` with the API key:
 
