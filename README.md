@@ -1,6 +1,7 @@
 # Book Award AI Scraper
 
-1. Read a JSON list of generated (Perplexity Deep Research) 
+1. Read a [JSON list](./bookawards.json) of generated (Perplexity Deep Research) 
+
 
 # Setup
 
