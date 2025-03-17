@@ -35,4 +35,30 @@ headers = {
     "Content-Type": "application/json"
 }
 
-# Rest of your code remains the same
+response = requests.request("POST", url, json=payload, headers=headers)
+
+if response.status_code == 200:
+    data = response.json()
+    
+    # Pretty print the entire response
+    console.print("[bold blue]Full Response:[/bold blue]")
+    console.print(data)
+    
+    # Format and print messages content
+    console.print("\n[bold green]Formatted Messages:[/bold green]")
+    if 'choices' in data:
+        for choice in data['choices']:
+            if 'message' in choice:
+                console.print(f"[bold magenta]Role:[/bold magenta] {choice['message']['role']}")
+                markdown = Markdown(choice['message']['content'])
+                console.print(markdown)
+            if 'delta' in choice and choice['delta']['content']:
+                console.print(f"[bold magenta]Role:[/bold magenta] {choice['delta']['role']}")
+                markdown = Markdown(choice['delta']['content'])
+                console.print(markdown)
+    else:
+        console.print("[bold red]No 'choices' key found in the response.[/bold red]")
+else:
+    console.print(f"[bold red]Error with status code {response.status_code}[/bold red]")
+    console.print("Response Data:")
+    console.print(response.text)
