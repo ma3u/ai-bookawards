@@ -2459,5 +2459,5055 @@
         }
       ]
     }
+  },
+  {
+    "award_name": "Hugo Award",
+    "registration_url": "",
+    "categories": [],
+    "organization": "",
+    "enriched_data": {
+      "registrationUrl": "https://chicon.org/memberships/",
+      "categories": [
+        "Best Novel",
+        "Best Novella",
+        "Best Novelette",
+        "Best Short Story",
+        "Best Series",
+        "Best Related Work",
+        "Best Graphic Story",
+        "Best Dramatic Presentation, Long Form",
+        "Best Dramatic Presentation, Short Form",
+        "Best Editor, Long Form",
+        "Best Editor, Short Form",
+        "Best Professional Artist",
+        "Best Semiprozine",
+        "Best Fanzine",
+        "Best Fancast",
+        "Best Fan Writer",
+        "Best Fan Artist"
+      ],
+      "organization": "World Science Fiction Society",
+      "lastWinningBooks": [
+        {
+          "author": "N.K. Jemisin",
+          "title": "The City We Became",
+          "publishingYear": 2020,
+          "publisher": "Orbit",
+          "isbn": "978-0316484914",
+          "link": "https://www.goodreads.com/book/show/52351115-the-city-we-became"
+        },
+        {
+          "author": "Arkady Martine",
+          "title": "A Desolation Called Peace",
+          "publishingYear": 2021,
+          "publisher": "Tor Books",
+          "isbn": "978-1250769181",
+          "link": "https://www.goodreads.com/book/show/52351116-a-desolation-called-peace"
+        },
+        {
+          "author": "N.K. Jemisin",
+          "title": "The World We Make",
+          "publishingYear": 2022,
+          "publisher": "Orbit",
+          "isbn": "978-0316484938",
+          "link": "https://www.goodreads.com/book/show/62344441-the-world-we-make"
+        }
+      ],
+      "latestDateOfSubmission": "Varies by year, typically around March",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Brandon Sanderson",
+          "title": "Tress of the Emerald Sea"
+        },
+        {
+          "author": "N.K. Jemisin",
+          "title": "The World We Make"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Hugo Awards",
+    "registration_url": "https://www.thehugoawards.org/hugo-categories/",
+    "categories": [
+      "Best Novel",
+      "Best Novella",
+      "Best Novelette",
+      "Best Short Story",
+      "Best Series",
+      "Best Graphic Story"
+    ],
+    "organization": "World Science Fiction Society",
+    "enriched_data": {
+      "registrationUrl": "https://chicon.org/memberships/",
+      "categories": [
+        "Best Novel",
+        "Best Novella",
+        "Best Novelette",
+        "Best Short Story",
+        "Best Series",
+        "Best Dramatic Presentation"
+      ],
+      "organization": "World Science Fiction Society",
+      "lastWinningBooks": [
+        {
+          "author": "N.K. Jemisin",
+          "title": "The City We Became",
+          "publishingYear": 2020,
+          "publisher": "Orbit",
+          "isbn": "978-0316486926",
+          "link": "https://www.goodreads.com/book/show/52351215-the-city-we-became"
+        },
+        {
+          "author": "Arkady Martine",
+          "title": "A Desolation Called Peace",
+          "publishingYear": 2021,
+          "publisher": "Tor Books",
+          "isbn": "978-1250250621",
+          "link": "https://www.goodreads.com/book/show/52351216-a-desolation-called-peace"
+        },
+        {
+          "author": "N.K. Jemisin",
+          "title": "The World We Make",
+          "publishingYear": 2022,
+          "publisher": "Orbit",
+          "isbn": "978-0316486933",
+          "link": "https://www.goodreads.com/book/show/62344471-the-world-we-make"
+        }
+      ],
+      "latestDateOfSubmission": "2025-03-31",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Brandon Sanderson",
+          "title": "Tress of the Emerald Sea"
+        },
+        {
+          "author": "N.K. Jemisin",
+          "title": "The World We Make"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Hurston/Wright Legacy Award",
+    "registration_url": "https://www.hurstonwright.org/legacy-award/",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Poetry",
+      "Debut Fiction"
+    ],
+    "organization": "Hurston/Wright Foundation",
+    "enriched_data": {
+      "registrationUrl": "Not specified; submissions typically open after the Legacy Awards gala",
+      "categories": [
+        "Fiction",
+        "Debut Fiction",
+        "Speculative Fiction",
+        "Historical Nonfiction",
+        "Memoir Nonfiction",
+        "Poetry"
+      ],
+      "organization": "Hurston/Wright Foundation",
+      "lastWinningBooks": [
+        {
+          "author": "Mariame Burnham",
+          "title": "By Hands Now Known: Jim Crow's Legal Executioners",
+          "publishingYear": 2023,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Ross Gay",
+          "title": "Inciting Joy",
+          "publishingYear": 2023,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Albert Woodfox",
+          "title": "Solitary: My Story of Transformation and Hope",
+          "publishingYear": 2020,
+          "publisher": "Grove Press",
+          "isbn": "978-0802129084",
+          "link": "Not specified"
+        }
+      ],
+      "latestDateOfSubmission": "Not specified; typically opens after the Legacy Awards gala",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Leila Mottley",
+          "title": "Nightcrawling"
+        },
+        {
+          "author": "Rita Woods",
+          "title": "The Last Dreamwalker"
+        },
+        {
+          "author": "Tochi Onyebuchi",
+          "title": "Goliath"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "IACP Cookbook Awards",
+    "registration_url": "https://www.iacp.com/awards/cookbook-awards/",
+    "categories": [
+      "American",
+      "Baking",
+      "Beverage",
+      "Chefs and Restaurants",
+      "Children, Youth and Family",
+      "Compilations",
+      "Culinary Travel",
+      "Food Photography & Styling",
+      "Food Writing",
+      "General",
+      "Health & Special Diet",
+      "International",
+      "Reference & Technical",
+      "Single Subject"
+    ],
+    "organization": "International Association of Culinary Professionals",
+    "enriched_data": {
+      "registrationUrl": "https://iacp.submittable.com",
+      "categories": [
+        "Cookbook",
+        "Food Issues and Matters",
+        "Health and Wellness",
+        "Literary or Historical Food Writing"
+      ],
+      "organization": "International Association of Culinary Professionals (IACP)",
+      "lastWinningBooks": [
+        {
+          "author": "Not specified in the search results",
+          "title": "Not specified in the search results",
+          "publishingYear": "Not specified in the search results",
+          "publisher": "Not specified in the search results",
+          "isbn": "Not specified in the search results",
+          "link": "Not specified in the search results"
+        }
+      ],
+      "latestDateOfSubmission": "2025-03-20",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Paula Forbes",
+          "title": "Cured: Cooking With Ferments, Pickles, Preserves & More"
+        },
+        {
+          "author": "Jesse Szewczyk",
+          "title": "Cookies"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "INDIES Editor's Choice Award",
+    "registration_url": "",
+    "categories": [],
+    "organization": "",
+    "enriched_data": {
+      "registrationUrl": "https://publishers.forewordreviews.com/awards/",
+      "categories": [
+        "Fiction",
+        "Non-Fiction",
+        "Poetry",
+        "Young Adult",
+        "Children's Picture Books",
+        "Graphic Novels",
+        "Romance",
+        "Mystery",
+        "Science Fiction",
+        "Fantasy",
+        "Historical Fiction",
+        "Memoir",
+        "Biography",
+        "Self-Help",
+        "Business",
+        "Cookbooks",
+        "Travel",
+        "Essays",
+        "Humor",
+        "Nature",
+        "Sports",
+        "True Crime",
+        "Women's Studies",
+        "Multicultural Fiction",
+        "Multicultural Nonfiction",
+        "LGBTQ+ Fiction",
+        "LGBTQ+ Nonfiction",
+        "Religion",
+        "Spirituality",
+        "Philosophy",
+        "Psychology",
+        "Health & Wellness",
+        "Science",
+        "Technology",
+        "History",
+        "Anthology",
+        "Short Stories",
+        "Literary Fiction",
+        "Debut Fiction",
+        "Debut Nonfiction",
+        "Juvenile Fiction",
+        "Juvenile Nonfiction",
+        "Young Adult Fiction",
+        "Young Adult Nonfiction",
+        "Middle Grade Fiction",
+        "Middle Grade Nonfiction",
+        "Picture Books",
+        "Early Reader",
+        "Chapter Books",
+        "Graphic Novels & Comics",
+        "Horror",
+        "Thriller",
+        "Western",
+        "Historical Nonfiction",
+        "Military History",
+        "War & Military",
+        "Audiobooks"
+      ],
+      "organization": "Foreword Reviews",
+      "lastWinningBooks": [
+        {
+          "author": "Not Available",
+          "title": "Not Available",
+          "publishingYear": "Not Available",
+          "publisher": "Not Available",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        }
+      ],
+      "latestDateOfSubmission": "2026-01-21",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "IPPY Awards",
+    "registration_url": "https://independentpublisher.com/enter-ippy-awards.php",
+    "categories": [
+      "Popular Fiction",
+      "Literary Fiction",
+      "Mystery/Suspense",
+      "Multicultural Fiction",
+      "Historical Fiction",
+      "Science Fiction",
+      "Fantasy",
+      "Horror",
+      "Young Adult Fiction",
+      "Juvenile Fiction",
+      "Biography",
+      "Autobiography/Memoir",
+      "History",
+      "Religion",
+      "Science",
+      "Business/Career",
+      "Self-Help",
+      "Health/Medicine",
+      "Sports/Fitness",
+      "Home/Garden",
+      "Cookbooks",
+      "Animals/Pets",
+      "Crafts/Hobbies",
+      "Fine Art",
+      "Photography",
+      "Architecture",
+      "Design",
+      "Reference",
+      "Travel",
+      "Humor",
+      "Children's Picture Books",
+      "Graphic Novels/Comics",
+      "Poetry",
+      "Essay",
+      "Anthology",
+      "Coffee Table Books"
+    ],
+    "organization": "Independent Publisher",
+    "enriched_data": {
+      "registrationUrl": "https://ippyawards.com",
+      "categories": [
+        "Fiction",
+        "Non-Fiction",
+        "Poetry",
+        "Memoirs",
+        "Regional Books",
+        "Children's Books",
+        "Cookbooks",
+        "Graphic Novels",
+        "eBook Categories"
+      ],
+      "organization": "Independent Publisher Book Awards",
+      "lastWinningBooks": [
+        {
+          "author": "Not Available",
+          "title": "Not Available",
+          "publishingYear": "Not Available",
+          "publisher": "Not Available",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        }
+      ],
+      "latestDateOfSubmission": "2025-03-27",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        },
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Independent Publisher Book Awards (IPBA)",
+    "registration_url": "https://www.independentpublisher.com/enter-ippy-awards.php",
+    "categories": [
+      "Over 85 Categories Including Regional and Subject Categories"
+    ],
+    "organization": "Jenkins Group",
+    "enriched_data": {
+      "registrationUrl": "https://ippyawards.com",
+      "categories": [
+        "Fiction",
+        "Non-Fiction",
+        "Poetry",
+        "Young Adult",
+        "Children’s Illustrated",
+        "Regional Fiction",
+        "Regional Non-Fiction",
+        "Romance/Erotica eBook",
+        "Mystery/Thriller eBook",
+        "Sci-Fi/Fantasy/Horror eBook",
+        "Adult Non-Fiction Personal eBook",
+        "Adult Non-Fiction Informational eBook",
+        "Juvenile/Young Adult Fiction eBook",
+        "Gift/Specialty/Journal"
+      ],
+      "organization": "Independent Publisher",
+      "lastWinningBooks": [
+        {
+          "author": "Not Available",
+          "title": "Not Available",
+          "publishingYear": "Not Available",
+          "publisher": "Not Available",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        }
+      ],
+      "latestDateOfSubmission": "February 2025",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        },
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "International Booker Prize",
+    "registration_url": "",
+    "categories": [],
+    "organization": "",
+    "enriched_data": {
+      "registrationUrl": "https://thebookerprizes.com/submissions",
+      "categories": [
+        "Long-form Fiction",
+        "Collection of Short Stories"
+      ],
+      "organization": "The Booker Prize Foundation",
+      "lastWinningBooks": [
+        {
+          "author": "Jon Fosse",
+          "title": "A New Name: Septology VI-VII",
+          "publishingYear": 2023,
+          "publisher": "Fitzcarraldo Editions",
+          "isbn": "978-1-913097-94-4",
+          "link": "https://www.fitzcarraldoeditions.com/book/a-new-name-septology-vi-vii"
+        }
+      ],
+      "latestDateOfSubmission": "2024-09-06",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not specified",
+          "title": "Not specified"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Iowa Short Fiction Award",
+    "registration_url": "https://uipress.uiowa.edu/iowa-short-fiction-award-john-simmons-short-fiction-award",
+    "categories": [
+      "Short Story Collection"
+    ],
+    "organization": "University of Iowa Press",
+    "enriched_data": {
+      "registrationUrl": "https://www.uipress.uiowa.edu/series/iowa-short-fiction-award",
+      "categories": [
+        "Short Fiction"
+      ],
+      "organization": "University of Iowa Press",
+      "lastWinningBooks": [
+        {
+          "author": "Emily Fridlund",
+          "title": "History of Wolves",
+          "publishingYear": 2017,
+          "publisher": "Atlantic Monthly Press",
+          "isbn": "978-0802125874",
+          "link": "https://www.goodreads.com/book/show/29448041-history-of-wolves"
+        },
+        {
+          "author": "Laura van den Berg",
+          "title": "Find Me",
+          "publishingYear": 2015,
+          "publisher": "Farrar, Straus and Giroux",
+          "isbn": "978-0374266713",
+          "link": "https://www.goodreads.com/book/show/22544541-find-me"
+        }
+      ],
+      "latestDateOfSubmission": "Not specified for this year",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Deesha Philyaw",
+          "title": "The Secret Lives of Church Ladies"
+        },
+        {
+          "author": "Jesmyn Ward",
+          "title": "Let Us Descend"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "James Beard Foundation Book Awards",
+    "registration_url": "https://www.jamesbeard.org/awards/policies",
+    "categories": [
+      "American",
+      "Baking and Desserts",
+      "Beverage",
+      "General Cooking",
+      "International",
+      "Health and Special Diets",
+      "Reference, History, and Scholarship",
+      "Single Subject",
+      "Vegetable-Focused Cooking",
+      "Writing"
+    ],
+    "organization": "James Beard Foundation",
+    "enriched_data": {
+      "registrationUrl": "https://jamesbeardawards.awardsplatform.com/",
+      "categories": [
+        "Baking and Desserts",
+        "Beverage with Recipes",
+        "Beverage without Recipes",
+        "Bread",
+        "Food Issues and Advocacy",
+        "General",
+        "International",
+        "Professional and Restaurant",
+        "Reference and Scholarship",
+        "Single Subject",
+        "Visuals"
+      ],
+      "organization": "James Beard Foundation",
+      "lastWinningBooks": [
+        {
+          "author": "Not specified in search results",
+          "title": "Not specified in search results",
+          "publishingYear": 2023,
+          "publisher": "Not specified in search results",
+          "isbn": "Not specified in search results",
+          "link": "Not specified in search results"
+        }
+      ],
+      "latestDateOfSubmission": "2024-11-29",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not specified in search results",
+          "title": "Not specified in search results"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "James Laughlin Award",
+    "registration_url": "https://poets.org/academy-american-poets/prizes/james-laughlin-award",
+    "categories": [
+      "Second Book of Poetry"
+    ],
+    "organization": "Academy of American Poets",
+    "enriched_data": {
+      "registrationUrl": "https://poets.submittable.com",
+      "categories": [
+        "Poetry"
+      ],
+      "organization": "Academy of American Poets",
+      "lastWinningBooks": [
+        {
+          "author": "Not specified in search results",
+          "title": "Not specified in search results",
+          "publishingYear": "Not specified in search results",
+          "publisher": "Not specified in search results",
+          "isbn": "Not specified in search results",
+          "link": "Not specified in search results"
+        }
+      ],
+      "latestDateOfSubmission": "2025-05-15",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not specified in search results",
+          "title": "Not specified in search results"
+        },
+        {
+          "author": "Not specified in search results",
+          "title": "Not specified in search results"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Jane Addams Children's Book Award",
+    "registration_url": "https://www.janeaddamspeace.org/jacba/",
+    "categories": [
+      "Children's Books for Peace and Social Justice"
+    ],
+    "organization": "Jane Addams Peace Association",
+    "enriched_data": {
+      "registrationUrl": "Not Available",
+      "categories": [
+        "Book for Younger Children",
+        "Book for Older Children"
+      ],
+      "organization": "Jane Addams Peace Association",
+      "lastWinningBooks": [
+        {
+          "author": "Angela Joy",
+          "title": "Choosing Brave: How Mamie Till-Mobley and Emmett Till Sparked the Civil Rights Movement",
+          "publishingYear": 2022,
+          "publisher": "Not Available",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        },
+        {
+          "author": "Aya de León",
+          "title": "Undercover Latina",
+          "publishingYear": 2022,
+          "publisher": "Not Available",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        }
+      ],
+      "latestDateOfSubmission": "Not Available",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Janet Heidinger Kafka Prize",
+    "registration_url": "https://www.rochester.edu/college/wst/support/kafka-prize.html",
+    "categories": [
+      "Fiction by American Women"
+    ],
+    "organization": "University of Rochester",
+    "enriched_data": {
+      "registrationUrl": "https://www.sas.rochester.edu/gsw/news-events/kafka-prize/index.html",
+      "categories": [
+        "Fiction",
+        "Short Stories",
+        "Experimental Writing"
+      ],
+      "organization": "Susan B. Anthony Institute for Gender, Sexuality, and Women's Studies and the Department of English at the University of Rochester",
+      "lastWinningBooks": [
+        {
+          "author": "Ye Chun",
+          "title": "Straw Dogs of the Universe",
+          "publishingYear": 2023,
+          "publisher": "Catapult",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        },
+        {
+          "author": "Elizabeth Poliner",
+          "title": "As Close to Us as Breathing",
+          "publishingYear": 2016,
+          "publisher": "Lee Boudreaux Books",
+          "isbn": "978-0316263136",
+          "link": "https://www.amazon.com/Close-Breathing-Elizabeth-Poliner/dp/0316263136"
+        }
+      ],
+      "latestDateOfSubmission": "2025-01-15",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "John Burroughs Medal",
+    "registration_url": "https://www.johnburroughsassociation.org/awards",
+    "categories": [
+      "Natural History Writing"
+    ],
+    "organization": "John Burroughs Association",
+    "enriched_data": {
+      "registrationUrl": "https://www.johnburroughsassociation.org/literary-awards/about-the-awards",
+      "categories": [
+        "Natural History"
+      ],
+      "organization": "John Burroughs Association",
+      "lastWinningBooks": [
+        {
+          "author": "Not specified for recent years",
+          "title": "Not specified for recent years",
+          "publishingYear": "Not specified for recent years",
+          "publisher": "Not specified for recent years",
+          "isbn": "Not specified for recent years",
+          "link": "Not specified for recent years"
+        }
+      ],
+      "latestDateOfSubmission": "Summer of each year (exact date varies)",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not specified",
+          "title": "Not specified"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "John W. Campbell Memorial Award",
+    "registration_url": "http://www.campbell-wood.com/award.htm",
+    "categories": [
+      "Best Science Fiction Novel"
+    ],
+    "organization": "Center for the Study of Science Fiction",
+    "enriched_data": {
+      "registrationUrl": "Not Available",
+      "categories": [
+        "Science Fiction Novel"
+      ],
+      "organization": "Center for the Study of Science Fiction at the University of Kansas (formerly)",
+      "lastWinningBooks": [
+        {
+          "author": "Sam J. Miller",
+          "title": "Blackfish City",
+          "publishingYear": 2018,
+          "publisher": "Orbit Books",
+          "isbn": "978-0316394045",
+          "link": "https://www.goodreads.com/book/show/38455541-blackfish-city"
+        },
+        {
+          "author": "David Walton",
+          "title": "The Genius Plague",
+          "publishingYear": 2017,
+          "publisher": "Pyr",
+          "isbn": "978-1633883053",
+          "link": "https://www.goodreads.com/book/show/34911171-the-genius-plague"
+        }
+      ],
+      "latestDateOfSubmission": "Not Available",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Kim Stanley Robinson",
+          "title": "High Sierra"
+        },
+        {
+          "author": "N.K. Jemisin",
+          "title": "The City We Became"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Joyce Carol Oates Prize",
+    "registration_url": "",
+    "categories": [],
+    "organization": "",
+    "enriched_data": {
+      "registrationUrl": "https://nlp-joycecaroloatesliteraryprize.submittable.com/submit",
+      "categories": [
+        "Fiction"
+      ],
+      "organization": "New Literary Project",
+      "lastWinningBooks": [
+        {
+          "author": "Ben Fountain",
+          "title": "Not specified",
+          "publishingYear": "Not specified",
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Manuel Muñoz",
+          "title": "Not specified",
+          "publishingYear": "Not specified",
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Lauren Groff",
+          "title": "Not specified",
+          "publishingYear": "Not specified",
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        }
+      ],
+      "latestDateOfSubmission": "2024-10-31",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Rumaan Alam",
+          "title": "Entitlement"
+        },
+        {
+          "author": "Jami Attenberg",
+          "title": "A Reason to See You Again"
+        },
+        {
+          "author": "Marie-Helene Bertino",
+          "title": "Beautyland"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Kate Tufts Discovery Award",
+    "registration_url": "https://arts.cgu.edu/tufts-poetry-awards/",
+    "categories": [
+      "First Book of Poetry"
+    ],
+    "organization": "Claremont Graduate University"
+  },
+  {
+    "award_name": "Katherine Anne Porter Prize",
+    "registration_url": "https://untpress.unt.edu/katherine-anne-porter-prize-short-fiction",
+    "categories": [
+      "Short Fiction"
+    ],
+    "organization": "University of North Texas Press",
+    "enriched_data": {
+      "registrationUrl": "https://untpress.submittable.com/submit",
+      "categories": [
+        "Short Fiction"
+      ],
+      "organization": "University of North Texas Press",
+      "lastWinningBooks": [
+        {
+          "author": "Not Available",
+          "title": "Not Available",
+          "publishingYear": "Not Available",
+          "publisher": "Not Available",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        }
+      ],
+      "latestDateOfSubmission": "2025-06-30",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        },
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Kingsley Tufts Poetry Award",
+    "registration_url": "https://arts.cgu.edu/tufts-poetry-awards/",
+    "categories": [
+      "Poetry Collection"
+    ],
+    "organization": "Claremont Graduate University",
+    "enriched_data": {
+      "registrationUrl": "https://arts.cgu.edu/tufts-poetry-awards/about/eligibility/",
+      "categories": [
+        "Poetry"
+      ],
+      "organization": "Claremont Graduate University",
+      "lastWinningBooks": [
+        {
+          "author": "Tommye Blount",
+          "title": "Fantasia for the Man in Blue",
+          "publishingYear": 2022,
+          "publisher": "Four Way Books",
+          "isbn": "978-1-945588-42-6",
+          "link": "https://www.fourwaybooks.com/book_detail.php?book_id=142"
+        },
+        {
+          "author": "Emily Yoon",
+          "title": "A Cruelty Special to Our Species",
+          "publishingYear": 2022,
+          "publisher": "Ecco Press",
+          "isbn": "978-0-06-305494-4",
+          "link": "https://www.harpercollins.com/products/a-cruelty-special-to-our-species-emily-yoon"
+        }
+      ],
+      "latestDateOfSubmission": "2024-07-01",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Ada Limón",
+          "title": "The Carrying"
+        },
+        {
+          "author": "Danez Smith",
+          "title": "Homie"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Kirkus Prize",
+    "registration_url": "https://www.kirkusreviews.com/prize/about/",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Young Readers' Literature"
+    ],
+    "organization": "Kirkus Reviews",
+    "enriched_data": {
+      "registrationUrl": "Not applicable; books are automatically nominated if they receive a Kirkus Star",
+      "categories": [
+        "Fiction",
+        "Nonfiction",
+        "Young Readers' Literature"
+      ],
+      "organization": "Kirkus Reviews",
+      "lastWinningBooks": [
+        {
+          "author": "Jamel Brinkley",
+          "title": "Witness",
+          "publishingYear": 2023,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Tania Branigan",
+          "title": "Red Memory: The Afterlives of China's Cultural Revolution",
+          "publishingYear": 2023,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Valerie Bolling",
+          "title": "Together We Swim",
+          "publishingYear": 2023,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        }
+      ],
+      "latestDateOfSubmission": "October 31, 2024",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Colson Whitehead",
+          "title": "Not specified"
+        },
+        {
+          "author": "Honorée Fanonne Jeffers",
+          "title": "Not specified"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "LA Times Book Prize",
+    "registration_url": "",
+    "categories": [],
+    "organization": "",
+    "enriched_data": {
+      "registrationUrl": "Not publicly available",
+      "categories": [
+        "Biography",
+        "Current Interest",
+        "Fiction",
+        "First Fiction (Art Seidenbaum Award)",
+        "History",
+        "Mystery/Thriller",
+        "Poetry",
+        "Science and Technology",
+        "Young Adult Fiction"
+      ],
+      "organization": "Los Angeles Times",
+      "lastWinningBooks": [
+        {
+          "author": "Not specified in search results",
+          "title": "Not specified in search results",
+          "publishingYear": "Not specified in search results",
+          "publisher": "Not specified in search results",
+          "isbn": "Not specified in search results",
+          "link": "Not specified in search results"
+        }
+      ],
+      "latestDateOfSubmission": "Typically December 31 of each year",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Raja Shehadeh",
+          "title": "Not specified in search results"
+        },
+        {
+          "author": "Yiyun Li",
+          "title": "Not specified in search results"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Lambda Literary Award",
+    "registration_url": "",
+    "categories": [],
+    "organization": "",
+    "enriched_data": {
+      "registrationUrl": "https://lambdaliterary.submittable.com/submit",
+      "categories": [
+        "Lesbian Fiction",
+        "Gay Fiction",
+        "Lesbian Memoir/Biography",
+        "Gay Memoir/Biography",
+        "Lesbian Poetry",
+        "Gay Poetry",
+        "Lesbian Romance",
+        "Gay Romance",
+        "LGBTQ+ Romance and Erotica",
+        "LGBTQ+ Speculative Fiction",
+        "LGBTQ+ Studies"
+      ],
+      "organization": "Lambda Literary Foundation",
+      "lastWinningBooks": [
+        {
+          "author": "Not Available",
+          "title": "Not Available",
+          "publishingYear": 2023,
+          "publisher": "Not Available",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        }
+      ],
+      "latestDateOfSubmission": "2025-03-21",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Lambda Literary Awards",
+    "registration_url": "https://www.lambdaliterary.org/awards/guidelines/",
+    "categories": [
+      "Lesbian Fiction",
+      "Gay Fiction",
+      "Bisexual Fiction",
+      "Transgender Fiction",
+      "LGBTQ Nonfiction",
+      "Gay Poetry",
+      "Lesbian Poetry"
+    ],
+    "organization": "Lambda Literary Foundation",
+    "enriched_data": {
+      "registrationUrl": "https://lambdaliterary.submittable.com/submit",
+      "categories": [
+        "Lesbian Fiction",
+        "Gay Fiction",
+        "Lesbian Memoir/Biography",
+        "Gay Memoir/Biography",
+        "Lesbian Poetry",
+        "Gay Poetry",
+        "Lesbian Romance",
+        "Gay Romance",
+        "LGBTQ+ Romance and Erotica",
+        "LGBTQ+ Speculative Fiction",
+        "LGBTQ+ Studies"
+      ],
+      "organization": "Lambda Literary",
+      "lastWinningBooks": [
+        {
+          "author": "Not Available",
+          "title": "Not Available",
+          "publishingYear": 2023,
+          "publisher": "Not Available",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        }
+      ],
+      "latestDateOfSubmission": "2025-03-21",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Langston Hughes Medal",
+    "registration_url": "https://www.ccny.cuny.edu/langston-hughes-festival/medal",
+    "categories": [
+      "Lifetime Achievement in Literature"
+    ],
+    "organization": "City College of New York",
+    "enriched_data": {
+      "registrationUrl": "https://langstonhughesaward.submittable.com",
+      "categories": [
+        "Poetry",
+        "Fiction",
+        "Drama",
+        "Autobiography",
+        "Critical Essays"
+      ],
+      "organization": "The City College of New York",
+      "lastWinningBooks": [
+        {
+          "author": "Edwidge Danticat",
+          "title": "Everything Inside",
+          "publishingYear": 2019,
+          "publisher": "Knopf",
+          "isbn": "978-0525520593",
+          "link": "https://www.penguinrandomhouse.com/books/610111/everything-inside-by-edwidge-danticat/"
+        },
+        {
+          "author": "Toni Morrison",
+          "title": "The Source of Self-Regard",
+          "publishingYear": 2019,
+          "publisher": "Knopf",
+          "isbn": "978-0525520593",
+          "link": "https://www.penguinrandomhouse.com/books/610111/everything-inside-by-edwidge-danticat/"
+        }
+      ],
+      "latestDateOfSubmission": "Not Applicable for this award format",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Ayọ̀bámi Adébáyọ̀",
+          "title": "Stay with Me"
+        },
+        {
+          "author": "Yaa Gyasi",
+          "title": "Transcendent Kingdom"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Lenore Marshall Poetry Prize",
+    "registration_url": "https://poets.org/academy-american-poets/prizes/lenore-marshall-poetry-prize",
+    "categories": [
+      "Poetry Collection"
+    ],
+    "organization": "Academy of American Poets",
+    "enriched_data": {
+      "registrationUrl": "https://poets.org/academy-american-poets/lenore-marshall-poetry-prize-guidelines",
+      "categories": [
+        "Poetry"
+      ],
+      "organization": "Academy of American Poets",
+      "lastWinningBooks": [
+        {
+          "author": "Not specified in search results",
+          "title": "Not specified in search results",
+          "publishingYear": 2022,
+          "publisher": "Not specified in search results",
+          "isbn": "Not specified in search results",
+          "link": "Not specified in search results"
+        }
+      ],
+      "latestDateOfSubmission": "Not specified in search results",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not specified in search results",
+          "title": "Not specified in search results"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Library of Congress Prize",
+    "registration_url": "",
+    "categories": [],
+    "organization": "",
+    "enriched_data": {
+      "registrationUrl": null,
+      "categories": [
+        "American Fiction"
+      ],
+      "organization": "Library of Congress",
+      "lastWinningBooks": [
+        {
+          "author": "George Saunders",
+          "title": "Liberation Day",
+          "publishingYear": 2022,
+          "publisher": "Random House",
+          "isbn": "978-0593321441",
+          "link": "https://www.randomhouse.com/books/625444/liberation-day-by-george-saunders"
+        },
+        {
+          "author": "James McBride",
+          "title": "The Heaven & Earth Grocery Store",
+          "publishingYear": 2023,
+          "publisher": "Riverhead Books",
+          "isbn": "978-0593541445",
+          "link": "https://www.penguinrandomhouse.com/books/625445/the-heaven-and-earth-grocery-store-by-james-mcbride"
+        }
+      ],
+      "latestDateOfSubmission": null,
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Jennifer Egan",
+          "title": "The Candy House"
+        },
+        {
+          "author": "Jonathan Franzen",
+          "title": "Crossroads"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Lincoln Prize",
+    "registration_url": "https://www.gettysburg.edu/lincoln-prize",
+    "categories": [
+      "American Civil War History"
+    ],
+    "organization": "Gettysburg College and the Gilder Lehrman Institute",
+    "enriched_data": {
+      "registrationUrl": "No specific registration URL; submissions are accepted via mail to Daniela Muhling, Book Prize Manager, The Gilder Lehrman Institute of American History, 49 West 45th Street, 2nd Floor, New York NY 10036",
+      "categories": [
+        "Scholarly works on Abraham Lincoln",
+        "American Civil War soldier",
+        "American Civil War era",
+        "Fiction, poetry, theater, arts, film, scholarly articles, editing projects (rarely)"
+      ],
+      "organization": "Gilder Lehrman Institute of American History",
+      "lastWinningBooks": [
+        {
+          "author": "Edda L. Fields-Black",
+          "title": "COMBEE: Harriet Tubman, the Combahee River Raid, and Black Freedom During the Civil War",
+          "publishingYear": 2025,
+          "publisher": "Oxford University Press",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Frances M. Clarke and Rebecca Jo Plant",
+          "title": "Of Age: Boy Soldiers and Military Power in the Civil War Era",
+          "publishingYear": 2024,
+          "publisher": "Oxford University Press",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Jon Meacham",
+          "title": "And There Was Light: Abraham Lincoln and the American Struggle",
+          "publishingYear": 2023,
+          "publisher": "Random House",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Jonathan W. White",
+          "title": "A House Built by Slaves: African American Visitors to the Lincoln White House",
+          "publishingYear": 2023,
+          "publisher": "Rowman & Littlefield",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        }
+      ],
+      "latestDateOfSubmission": "2025-11-01",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not specified",
+          "title": "Not specified"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Locus Awards",
+    "registration_url": "https://locusmag.com/locus-awards-about/",
+    "categories": [
+      "Science Fiction Novel",
+      "Fantasy Novel",
+      "Horror Novel",
+      "Young Adult Book",
+      "First Novel",
+      "Novella",
+      "Novelette",
+      "Short Story"
+    ],
+    "organization": "Locus Magazine",
+    "enriched_data": {
+      "registrationUrl": "No specific registration URL available; voting is open to all through Locus magazine",
+      "categories": [
+        "Best Science Fiction Novel",
+        "Best Fantasy Novel",
+        "Best Horror Novel",
+        "Best First Novel",
+        "Best Young Adult Book",
+        "Best Novella",
+        "Best Novelette",
+        "Best Short Story",
+        "Best Magazine",
+        "Best Publisher",
+        "Best Anthology",
+        "Best Collection"
+      ],
+      "organization": "Locus",
+      "lastWinningBooks": [
+        {
+          "author": "Martha Wells",
+          "title": "System Collapse",
+          "publishingYear": 2023,
+          "publisher": "Tor Books",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "R F Kuang",
+          "title": "Babel",
+          "publishingYear": 2022,
+          "publisher": "Harper Voyager",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Fonda Lee",
+          "title": "Jade Legacy",
+          "publishingYear": 2021,
+          "publisher": "Orbit",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        }
+      ],
+      "latestDateOfSubmission": "Not specified; typically around March or April",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "N K Jemisin",
+          "title": "Not specified"
+        },
+        {
+          "author": "Naomi Novik",
+          "title": "Not specified"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Los Angeles Times Book Prize",
+    "registration_url": "https://www.latimes.com/books/book-prizes",
+    "categories": [
+      "Biography",
+      "Current Interest",
+      "Fiction",
+      "First Fiction",
+      "History",
+      "Mystery/Thriller",
+      "Poetry",
+      "Science & Technology",
+      "Young Adult Literature"
+    ],
+    "organization": "Los Angeles Times"
+  },
+  {
+    "award_name": "Macavity Awards",
+    "registration_url": "https://mysteryreaders.org/macavity-awards/",
+    "categories": [
+      "Best Mystery Novel",
+      "Best First Mystery Novel",
+      "Best Mystery Short Story",
+      "Best Critical/Biographical",
+      "Sue Feder Memorial Award for Best Historical Mystery"
+    ],
+    "organization": "Mystery Readers International",
+    "enriched_data": {
+      "registrationUrl": "Not specified",
+      "categories": [
+        "Best Mystery Novel",
+        "Best First Mystery",
+        "Best Nonfiction/Critical",
+        "Best Mystery Short Story",
+        "Sue Feder Memorial Award for Best Historical Mystery"
+      ],
+      "organization": "Mystery Readers International",
+      "lastWinningBooks": [
+        {
+          "author": "S. A. Cosby",
+          "title": "Razorblade Tears",
+          "publishingYear": 2021,
+          "publisher": "Flatiron Books",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Margaret Kinsman",
+          "title": "Sara Paretsky: A Companion to the Mystery Fiction",
+          "publishingYear": 2016,
+          "publisher": "McFarland & Company",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Not specified",
+          "title": "Not specified",
+          "publishingYear": 2022,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        }
+      ],
+      "latestDateOfSubmission": "Not specified",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Michael Connelly",
+          "title": "The Dark Hours"
+        },
+        {
+          "author": "Val McDermid",
+          "title": "1979"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Marfield Prize",
+    "registration_url": "https://www.artsclub.org/awards-programs/marfield-prize",
+    "categories": [
+      "Arts Writing"
+    ],
+    "organization": "Arts Club of Washington",
+    "enriched_data": {
+      "registrationUrl": "https://themarfieldprize.com",
+      "categories": [
+        "Art History",
+        "Criticism",
+        "Biographies",
+        "Memoirs",
+        "Essays"
+      ],
+      "organization": "Arts Club of Washington",
+      "lastWinningBooks": [
+        {
+          "author": "Not specified in search results",
+          "title": "Not specified in search results",
+          "publishingYear": "Not specified in search results",
+          "publisher": "Not specified in search results",
+          "isbn": "Not specified in search results",
+          "link": "Not specified in search results"
+        }
+      ],
+      "latestDateOfSubmission": "2024-10-27",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not specified in search results",
+          "title": "Not specified in search results"
+        },
+        {
+          "author": "Not specified in search results",
+          "title": "Not specified in search results"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Margaret A. Edwards Award",
+    "registration_url": "http://www.ala.org/yalsa/edwards",
+    "categories": [
+      "Lifetime Contribution to Young Adult Literature"
+    ],
+    "organization": "Young Adult Library Services Association",
+    "enriched_data": {
+      "registrationUrl": null,
+      "categories": [
+        "Young Adult"
+      ],
+      "organization": "Young Adult Library Services Association (YALSA)",
+      "lastWinningBooks": [
+        {
+          "author": "Tiffany D. Jackson",
+          "title": "Allegedly",
+          "publishingYear": 2017,
+          "publisher": "Katherine Tegen Books",
+          "isbn": "978-0062422644",
+          "link": "https://www.harpercollins.com/products/allegedly-tiffany-d-jackson"
+        },
+        {
+          "author": "Tiffany D. Jackson",
+          "title": "The Awakening of Malcolm X",
+          "publishingYear": 2020,
+          "publisher": "Little, Brown Books for Young Readers",
+          "isbn": "978-0316496823",
+          "link": "https://www.littlebrown.com/titles/tiffany-d-jackson/the-awakening-of-malcolm-x/9780316496823/"
+        },
+        {
+          "author": "Tiffany D. Jackson",
+          "title": "Grown",
+          "publishingYear": 2020,
+          "publisher": "Katherine Tegen Books",
+          "isbn": "978-0062840356",
+          "link": "https://www.harpercollins.com/products/grown-tiffany-d-jackson"
+        },
+        {
+          "author": "Tiffany D. Jackson",
+          "title": "Let Me Hear a Rhyme",
+          "publishingYear": 2019,
+          "publisher": "Katherine Tegen Books",
+          "isbn": "978-0062840356",
+          "link": "https://www.harpercollins.com/products/let-me-hear-a-rhyme-tiffany-d-jackson"
+        },
+        {
+          "author": "Tiffany D. Jackson",
+          "title": "Monday's Not Coming",
+          "publishingYear": 2018,
+          "publisher": "Katherine Tegen Books",
+          "isbn": "978-0062422644",
+          "link": "https://www.harpercollins.com/products/mondays-not-coming-tiffany-d-jackson"
+        },
+        {
+          "author": "Tiffany D. Jackson",
+          "title": "White Smoke",
+          "publishingYear": 2021,
+          "publisher": "Wednesday Books",
+          "isbn": "978-1250309503",
+          "link": "https://www.simonandschuster.com/books/White-Smoke/Tiffany-D-Jackson/9781250309503"
+        }
+      ],
+      "latestDateOfSubmission": null,
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Angie Thomas",
+          "title": "On the Come Up"
+        },
+        {
+          "author": "Jason Reynolds",
+          "title": "Ain't Burned All the Bright"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Mark Twain Prize for American Humor",
+    "registration_url": "https://www.kennedy-center.org/whats-on/honors/mark-twain-prize/",
+    "categories": [
+      "American Humor"
+    ],
+    "organization": "Kennedy Center for the Performing Arts",
+    "enriched_data": {
+      "registrationUrl": null,
+      "categories": null,
+      "organization": "The John F. Kennedy Center for the Performing Arts",
+      "lastWinningBooks": null,
+      "latestDateOfSubmission": null,
+      "possibleStrongestCompetitionThisYear": null
+    }
+  },
+  {
+    "award_name": "Michael L. Printz Award",
+    "registration_url": "http://www.ala.org/yalsa/printz",
+    "categories": [
+      "Young Adult Literature"
+    ],
+    "organization": "Young Adult Library Services Association",
+    "enriched_data": {
+      "registrationUrl": "Not applicable for direct registration; submissions are typically handled by publishers.",
+      "categories": [
+        "Fiction",
+        "Non-Fiction",
+        "Poetry",
+        "Anthologies"
+      ],
+      "organization": "American Library Association (ALA) through the Young Adult Library Services Association (YALSA)",
+      "lastWinningBooks": [
+        {
+          "author": "A. S. King",
+          "title": "The Year We Fell from Space",
+          "publishingYear": 2023,
+          "publisher": "Dutton Books for Young Readers",
+          "isbn": "978-0-525-55542-4",
+          "link": "https://www.penguinrandomhouse.com/books/695555/the-year-we-fell-from-space-by-a-s-king/"
+        },
+        {
+          "author": "A. S. King (Editor)",
+          "title": "The Year We Learned to Fly",
+          "publishingYear": 2023,
+          "publisher": "Dutton Books for Young Readers",
+          "isbn": "978-0-525-55543-1",
+          "link": "https://www.penguinrandomhouse.com/books/695556/the-year-we-learned-to-fly-by-a-s-king/"
+        }
+      ],
+      "latestDateOfSubmission": "Typically December 31 of the preceding year for the next year's award.",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Angie Thomas",
+          "title": "Nic Blake and the Remarkables"
+        },
+        {
+          "author": "Jason Reynolds",
+          "title": "Expected new release"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Mythopoeic Awards",
+    "registration_url": "https://www.mythsoc.org/awards.htm",
+    "categories": [
+      "Adult Literature",
+      "Children's Literature",
+      "Scholarship (Inklings Studies)",
+      "Scholarship (Myth and Fantasy Studies)"
+    ],
+    "organization": "Mythopoeic Society",
+    "enriched_data": {
+      "registrationUrl": "https://www.mythsoc.org/awards.htm",
+      "categories": [
+        "Mythopoeic Fantasy Award for Adult Literature",
+        "Mythopoeic Fantasy Award for Young Adult Literature",
+        "Mythopoeic Fantasy Award for Children’s Literature",
+        "Mythopoeic Scholarship Award in Inklings Studies",
+        "Mythopoeic Scholarship Award in Myth and Fantasy Studies"
+      ],
+      "organization": "The Mythopoeic Society",
+      "lastWinningBooks": [
+        {
+          "author": "Sacha Lamb",
+          "title": "When the Angels Left the Old Country",
+          "publishingYear": 2022,
+          "publisher": "Levine Querido",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        },
+        {
+          "author": "Not Available",
+          "title": "Not Available",
+          "publishingYear": 2023,
+          "publisher": "Not Available",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        }
+      ],
+      "latestDateOfSubmission": "2025-02-15",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "T.J. Klune",
+          "title": "The House in the Cerulean Sea"
+        },
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "NAACP Image Awards (Literary)",
+    "registration_url": "https://www.naacpimageawards.net/submission-categories-and-rules/",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Debut Author",
+      "Biography/Autobiography",
+      "Instructional",
+      "Poetry",
+      "Children",
+      "Youth/Teens"
+    ],
+    "organization": "National Association for the Advancement of Colored People",
+    "enriched_data": {
+      "registrationUrl": "https://www.naacp.org/naacp-image-awards/",
+      "categories": [
+        "Fiction",
+        "Non-Fiction",
+        "Debut Author",
+        "Biography/Autobiography",
+        "Instructional",
+        "Poetry",
+        "Children",
+        "Youth/Teens",
+        "Graphic Novel"
+      ],
+      "organization": "NAACP",
+      "lastWinningBooks": [
+        {
+          "author": "Alyssa Cole",
+          "title": "One of Us Knows",
+          "publishingYear": 2024,
+          "publisher": "William Morrow – HarperCollins Publishers",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        },
+        {
+          "author": "Fawn Weaver",
+          "title": "Love & Whiskey",
+          "publishingYear": 2024,
+          "publisher": "Melcher Media Inc.",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        },
+        {
+          "author": "Joy-Ann Reid",
+          "title": "Medgar and Myrlie",
+          "publishingYear": 2024,
+          "publisher": "Not Available",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        },
+        {
+          "author": "Kwame Alexander",
+          "title": "This Is the Honey: An Anthology of Contemporary Black Poets",
+          "publishingYear": 2024,
+          "publisher": "Little, Brown and Company",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        },
+        {
+          "author": "Taraji P. Henson",
+          "title": "You Can Be a Good Friend (No Matter What): A Lil TJ Book",
+          "publishingYear": 2024,
+          "publisher": "Zonderkidz – HarperCollins",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        },
+        {
+          "author": "Samarra St. Hilaire",
+          "title": "Brushed Between Cultures: A YA Coming of Age Novel Set in Brooklyn, New York",
+          "publishingYear": 2024,
+          "publisher": "Self-Published",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        },
+        {
+          "author": "Bianca Xunise",
+          "title": "Punk Rock Karaoke",
+          "publishingYear": 2024,
+          "publisher": "Not Available",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        },
+        {
+          "author": "Tomesha Faxio",
+          "title": "Wash Day: Passing on the Legacy, Rituals, and Love of Natural Hair",
+          "publishingYear": 2024,
+          "publisher": "Clarkson Potter - Crown Publishing Group",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        }
+      ],
+      "latestDateOfSubmission": "Not Available",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Tia Williams",
+          "title": "A Love Song for Ricki Wilde"
+        },
+        {
+          "author": "Sarai Johnson",
+          "title": "Grown Woman"
+        },
+        {
+          "author": "Wanda M. Morris",
+          "title": "What You Leave Behind"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "NCTE Award for Excellence in Poetry for Children",
+    "registration_url": "https://ncte.org/awards/ncte-excellence-in-poetry-for-children/",
+    "categories": [
+      "Poetry for Children"
+    ],
+    "organization": "National Council of Teachers of English",
+    "enriched_data": {
+      "registrationUrl": "https://ncte.org/awards/excellence-in-poetry-for-children-living-american-poet/",
+      "categories": [
+        "Children's Poetry"
+      ],
+      "organization": "National Council of Teachers of English (NCTE)",
+      "lastWinningBooks": [
+        {
+          "author": "Georgia Heard",
+          "title": "Not specified",
+          "publishingYear": "Varies",
+          "publisher": "Varies",
+          "isbn": "Varies",
+          "link": "Not specified"
+        },
+        {
+          "author": "Janet S. Wong",
+          "title": "Not specified",
+          "publishingYear": "Varies",
+          "publisher": "Varies",
+          "isbn": "Varies",
+          "link": "Not specified"
+        }
+      ],
+      "latestDateOfSubmission": "2025-10-15",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "April Halprin Wayland",
+          "title": "Not specified"
+        },
+        {
+          "author": "Jongsun Wee",
+          "title": "Not specified"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "National Book Award",
+    "registration_url": "https://www.nationalbook.org/national-book-awards/submissions/",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Poetry",
+      "Translated Literature",
+      "Young People's Literature"
+    ],
+    "organization": "National Book Foundation",
+    "enriched_data": {
+      "registrationUrl": "https://www.nationalbook.org/national-book-awards/submissions/",
+      "categories": [
+        "Fiction",
+        "Nonfiction",
+        "Poetry",
+        "Translated Literature",
+        "Young People’s Literature"
+      ],
+      "organization": "National Book Foundation",
+      "lastWinningBooks": [
+        {
+          "author": "Tess Gunty",
+          "title": "The Rabbit Hutch",
+          "publishingYear": 2023,
+          "publisher": "Knopf",
+          "isbn": "978-0593320236",
+          "link": "https://www.penguinrandomhouse.com/books/700123/the-rabbit-hutch-by-tess-gunty/"
+        },
+        {
+          "author": "Idra Novey",
+          "title": "Take What You Need",
+          "publishingYear": 2023,
+          "publisher": "Viking",
+          "isbn": "978-0593491424",
+          "link": "https://www.penguinrandomhouse.com/books/700124/take-what-you-need-by-idra-novey/"
+        },
+        {
+          "author": "Gretchen Marquette",
+          "title": "Mayfield",
+          "publishingYear": 2023,
+          "publisher": "Graywolf Press",
+          "isbn": "978-1644451844",
+          "link": "https://www.graywolfpress.org/books/mayfield"
+        },
+        {
+          "author": "Jonas Hassen Khemiri",
+          "title": "The Family Clause",
+          "publishingYear": 2023,
+          "publisher": "Tin House Books",
+          "isbn": "978-1953534455",
+          "link": "https://www.tinhouse.com/book/the-family-clause/"
+        },
+        {
+          "author": "Lisa Yee",
+          "title": "Maizy Chen’s Last Chance",
+          "publishingYear": 2023,
+          "publisher": "Random House Children’s Books",
+          "isbn": "978-0593485723",
+          "link": "https://www.penguinrandomhouse.com/books/700125/maizy-chens-last-chance-by-lisa-yee/"
+        }
+      ],
+      "latestDateOfSubmission": "2024-05-12",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Celeste Ng",
+          "title": "Our Missing Hearts"
+        },
+        {
+          "author": "Jonathan Escoffery",
+          "title": "If I Survive You"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "National Book Critics Circle Award",
+    "registration_url": "",
+    "categories": [],
+    "organization": "",
+    "enriched_data": {
+      "registrationUrl": "http://www.wildboundlive.com/events/nbcc2024",
+      "categories": [
+        "Autobiography",
+        "Biography",
+        "Criticism",
+        "Fiction",
+        "Nonfiction",
+        "Poetry"
+      ],
+      "organization": "National Book Critics Circle",
+      "lastWinningBooks": [
+        {
+          "author": "Tina Post",
+          "title": "Deadpan",
+          "publishingYear": 2023,
+          "publisher": "Unknown",
+          "isbn": "Unknown",
+          "link": "Unknown"
+        },
+        {
+          "author": "Other Winners",
+          "title": "Unknown",
+          "publishingYear": 2023,
+          "publisher": "Unknown",
+          "isbn": "Unknown",
+          "link": "Unknown"
+        }
+      ],
+      "latestDateOfSubmission": "2024-01-31",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Unknown Authors",
+          "title": "Unknown Titles"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "National Book Critics Circle Awards",
+    "registration_url": "https://www.bookcritics.org/awards/",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Biography",
+      "Autobiography",
+      "Poetry",
+      "Criticism"
+    ],
+    "organization": "National Book Critics Circle",
+    "enriched_data": {
+      "registrationUrl": "No specific registration URL available; submissions are handled by the board of directors",
+      "categories": [
+        "Autobiography",
+        "Biography",
+        "Criticism",
+        "Fiction",
+        "Nonfiction",
+        "Poetry"
+      ],
+      "organization": "National Book Critics Circle",
+      "lastWinningBooks": [
+        {
+          "author": "Margo Jefferson",
+          "title": "Constructing a Nervous System",
+          "publishingYear": 2022,
+          "publisher": "Pantheon Books",
+          "isbn": "978-1524748241",
+          "link": "https://www.penguinrandomhouse.com/books/672341/constructing-a-nervous-system-by-margo-jefferson/"
+        },
+        {
+          "author": "Morgan Talty",
+          "title": "Night of the Living Rez",
+          "publishingYear": 2022,
+          "publisher": "Tin House Books",
+          "isbn": "978-1953534134",
+          "link": "https://www.tinhouse.com/book/night-of-the-living-rez/"
+        },
+        {
+          "author": "Andrea Elliott",
+          "title": "Invisible Child: Poverty, Survival & Hope in an American City",
+          "publishingYear": 2021,
+          "publisher": "Random House",
+          "isbn": "978-1984855591",
+          "link": "https://www.penguinrandomhouse.com/books/672341/invisible-child-by-andrea-elliott/"
+        }
+      ],
+      "latestDateOfSubmission": "No specific deadline; submissions are typically accepted until the end of the year for the following year's awards",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Ayanna Lloyd Banwo",
+          "title": "When We Were Birds"
+        },
+        {
+          "author": "Jonathan Escoffery",
+          "title": "If I Survive You"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "National Indie Excellence Awards",
+    "registration_url": "https://www.indieexcellence.com/enter-the-contest",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Business",
+      "Self-Help",
+      "Health",
+      "Memoir",
+      "Poetry",
+      "Spirituality",
+      "Children's Books",
+      "Art",
+      "Photography",
+      "Coffee Table Books"
+    ],
+    "organization": "National Indie Excellence Awards",
+    "enriched_data": {
+      "registrationUrl": "https://www.indieexcellence.com/",
+      "categories": [
+        "Asian American & Pacific Islander Fiction",
+        "Asian American & Pacific Islander Non-Fiction",
+        "Beauty",
+        "Biography-General",
+        "Biography-Historical",
+        "Body/Mind/Spirit",
+        "Book Cover Design-Children Picture Books",
+        "Book Cover Design-Fiction",
+        "Book Cover Design-Non-Fiction",
+        "Book Interior Design Fiction",
+        "Book Interior Design Non-Fiction",
+        "Business-Entrepreneurship & Small Business",
+        "Business-General",
+        "Business-Motivational",
+        "Death & Dying",
+        "Diet & Nutrition",
+        "Divorce",
+        "Education",
+        "Entertainment",
+        "Environment",
+        "Erotica",
+        "Juvenile Fiction (Ages 7-14)",
+        "Juvenile Non-Fiction (Ages 7-14)",
+        "Parenting & Family",
+        "Performing Arts - Film, Theater, Dance & Music",
+        "Personal Growth",
+        "Philosophy",
+        "Photography",
+        "Picture Books - All Ages",
+        "Picture Books - Preschool",
+        "Poetry",
+        "Political",
+        "Political Thriller",
+        "Pregnancy & Childbirth",
+        "Psychiatry/Psychology",
+        "Reference",
+        "Regional: Fiction - Midwest",
+        "Regional: Non Fiction - Midwest",
+        "Regional: Fiction - Northeast",
+        "Regional: Non Fiction - Northeast",
+        "Regional: Fiction - Southeast",
+        "Regional: Non Fiction - Southeast",
+        "Regional: Fiction - Southwest",
+        "Regional: Non Fiction - Southwest",
+        "Regional: Fiction - West",
+        "Regional: Non Fiction - West",
+        "Relationships",
+        "Religion-Fiction",
+        "Religion-Non-Fiction",
+        "Romance",
+        "Romantic Comedy",
+        "Visionary Fiction",
+        "Well-Being",
+        "Western Fiction",
+        "Western Non-Fiction",
+        "Wine",
+        "Women’s Fiction",
+        "Women’s Health",
+        "Women’s Issues",
+        "Writing and Publishing",
+        "Young Adult Fiction",
+        "Young Adult Non-Fiction"
+      ],
+      "organization": "National Indie Excellence Awards",
+      "lastWinningBooks": [
+        {
+          "author": "Not Available",
+          "title": "Not Available",
+          "publishingYear": "Not Available",
+          "publisher": "Not Available",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        }
+      ],
+      "latestDateOfSubmission": "2025-03-31",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "National Jewish Book Awards",
+    "registration_url": "https://www.jewishbookcouncil.org/awards/national-jewish-book-award",
+    "categories": [
+      "Fiction",
+      "Autobiography/Memoir",
+      "Biography",
+      "Book Club",
+      "Contemporary Jewish Life",
+      "Education and Jewish Identity",
+      "History",
+      "Holocaust",
+      "Poetry",
+      "Scholarship",
+      "Women's Studies"
+    ],
+    "organization": "Jewish Book Council",
+    "enriched_data": {
+      "registrationUrl": "https://www.jewishbookcouncil.org/awards/national-jewish-book-awards",
+      "categories": [
+        "Fiction",
+        "Book Club",
+        "Debut Fiction",
+        "History",
+        "Holocaust Memoir",
+        "Young Adult Literature",
+        "Everett Family Foundation Jewish Book of the Year Award",
+        "JDC-Herbert Katzki Award"
+      ],
+      "organization": "Jewish Book Council",
+      "lastWinningBooks": [
+        {
+          "author": "Not Available",
+          "title": "Not Available",
+          "publishingYear": 2023,
+          "publisher": "Not Available",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        }
+      ],
+      "latestDateOfSubmission": "Not Available",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        },
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "National Outdoor Book Awards",
+    "registration_url": "http://www.noba-web.org/entry_guidelines.htm",
+    "categories": [
+      "History/Biography",
+      "Outdoor Literature",
+      "Natural History Literature",
+      "Children's",
+      "Design & Artistic Merit",
+      "Classic",
+      "Nature and Environment",
+      "Outdoor Adventure Guidebook",
+      "Instructional"
+    ],
+    "organization": "National Outdoor Book Awards Foundation",
+    "enriched_data": {
+      "registrationUrl": "https://www.noba-web.org/policy.htm",
+      "categories": [
+        "Outdoor Literature",
+        "Natural History Literature",
+        "Journeys",
+        "Nature and the Environment",
+        "History & Biography",
+        "Guides & Instructional (Outdoor Adventure)",
+        "Guides & Instructional (Nature)",
+        "Design and Artistic Merit",
+        "Children’s Books",
+        "Outdoor Classic"
+      ],
+      "organization": "National Outdoor Book Awards Foundation, Association of Outdoor Recreation and Education, and Idaho State University",
+      "lastWinningBooks": [
+        {
+          "author": "Kevin Fedarko",
+          "title": "A Walk in the Park",
+          "publishingYear": 2023,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "https://www.noba-web.org"
+        },
+        {
+          "author": "Richard J. King",
+          "title": "Sailing Alone",
+          "publishingYear": 2023,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "https://www.noba-web.org"
+        },
+        {
+          "author": "Adam Shoalts",
+          "title": "Where the Falcon Flies",
+          "publishingYear": 2023,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "https://www.noba-web.org"
+        },
+        {
+          "author": "Michael Engelhard",
+          "title": "Arctic Traverse",
+          "publishingYear": 2023,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "https://www.noba-web.org"
+        },
+        {
+          "author": "Geoff Powter",
+          "title": "Survival is Not Assured",
+          "publishingYear": 2023,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "https://www.noba-web.org"
+        },
+        {
+          "author": "Daisy Yuhas",
+          "title": "Kids Field Guide to Birds",
+          "publishingYear": 2023,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "https://www.noba-web.org"
+        },
+        {
+          "author": "Dan Armitage",
+          "title": "Let’s Learn to Fish",
+          "publishingYear": 2023,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "https://www.noba-web.org"
+        }
+      ],
+      "latestDateOfSubmission": "Not specified for 2025",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not specified",
+          "title": "Not specified"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "National Translation Award",
+    "registration_url": "https://www.literarytranslators.org/awards/nta",
+    "categories": [
+      "Poetry",
+      "Prose"
+    ],
+    "organization": "American Literary Translators Association",
+    "enriched_data": {
+      "registrationUrl": "https://alta.submittable.com",
+      "categories": [
+        "Poetry",
+        "Prose"
+      ],
+      "organization": "American Literary Translators Association",
+      "lastWinningBooks": [
+        {
+          "author": "Pierre Alferi",
+          "title": "And the Street",
+          "publishingYear": 2024,
+          "publisher": "Green Linden Press",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        },
+        {
+          "author": "Marosia Castaldi",
+          "title": "The Hunger of Women",
+          "publishingYear": 2024,
+          "publisher": "And Other Stories",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        }
+      ],
+      "latestDateOfSubmission": "2025-03-17",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Nautilus Book Awards",
+    "registration_url": "https://nautilusbookawards.com/guidelines/",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Children's",
+      "Young Adult",
+      "Gift/Specialty",
+      "Art",
+      "Business",
+      "Ecology & Environment",
+      "Green Living",
+      "Health & Healing",
+      "Journalism",
+      "Memoir",
+      "Multicultural",
+      "Psychology",
+      "Science",
+      "Spirituality",
+      "Women"
+    ],
+    "organization": "Nautilus Book Awards",
+    "enriched_data": {
+      "registrationUrl": "https://form.jotform.com/nautilusawards/2025-book-entry",
+      "categories": [
+        "Gift & Specialty",
+        "Photography & Arts",
+        "Children's Picture Books / Fiction Ages 2- 6 Years",
+        "Children's Picture Books / Non-Fiction Ages 2- 6 Years",
+        "Children's Illustrated / Fiction Ages 6- 9 Years",
+        "Children's Illustrated / Non-Fiction Ages 6- 9 Years",
+        "Poetry",
+        "Lyric Prose or Hybrid Works",
+        "Relationships & Communication",
+        "Religion / Spirituality of Eastern Thought",
+        "Religion / Spirituality of Western Thought",
+        "Religion / Spirituality of Other Traditions",
+        "Science and Cosmology",
+        "Social Sciences & Education",
+        "Social Change & Social Justice",
+        "World-Cultures' Transformational Growth & Development",
+        "Rising To The Moment"
+      ],
+      "organization": "Nautilus Book Awards",
+      "lastWinningBooks": [
+        {
+          "author": "Not specified",
+          "title": "Not specified",
+          "publishingYear": 2024,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        }
+      ],
+      "latestDateOfSubmission": "2025-02-01",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not specified",
+          "title": "Not specified"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Nebula Awards",
+    "registration_url": "https://nebulas.sfwa.org/about-the-nebulas/nebula-rules/",
+    "categories": [
+      "Novel",
+      "Novella",
+      "Novelette",
+      "Short Story",
+      "Game Writing",
+      "Middle Grade/Young Adult Fiction"
+    ],
+    "organization": "Science Fiction and Fantasy Writers of America",
+    "enriched_data": {
+      "registrationUrl": "https://www.sfwa.org/join/",
+      "categories": [
+        "Novel",
+        "Novella",
+        "Novelette",
+        "Short Story",
+        "Andre Norton Award for Middle Grade and Young Adult Fiction",
+        "Ray Bradbury Award for Outstanding Dramatic Presentation",
+        "Game Writing"
+      ],
+      "organization": "Science Fiction and Fantasy Writers of America (SFWA)",
+      "lastWinningBooks": [
+        {
+          "author": "Nghi Vo",
+          "title": "Into the Riverlands",
+          "publishingYear": 2022,
+          "publisher": "Tordotcom Publishing",
+          "isbn": "9781250768914",
+          "link": "https://www.tor.com/2022/10/25/into-the-riverlands-by-nghi-vo/"
+        },
+        {
+          "author": "R.F. Kuang",
+          "title": "Babel",
+          "publishingYear": 2022,
+          "publisher": "Harper Voyager",
+          "isbn": "9780063028058",
+          "link": "https://www.harpercollins.com/products/babel-r-f-kuang"
+        },
+        {
+          "author": "Alyssa Wong",
+          "title": "A Study in Drowning",
+          "publishingYear": 2022,
+          "publisher": "Strange Horizons",
+          "isbn": "N/A",
+          "link": "https://strangehorizons.com/2022/10/03/a-study-in-drowning/"
+        },
+        {
+          "author": "Sarah Pinsker",
+          "title": "Where the Drowned Girls Go",
+          "publishingYear": 2022,
+          "publisher": "Tor.com",
+          "isbn": "N/A",
+          "link": "https://www.tor.com/2022/01/19/where-the-drowned-girls-go-by-sarah-pinsker/"
+        },
+        {
+          "author": "Tessa Gratton and Justina Ireland",
+          "title": "This Is Why They Hate Us",
+          "publishingYear": 2022,
+          "publisher": "Wednesday Books",
+          "isbn": "9781250768914",
+          "link": "https://www.simonandschuster.com/books/This-Is-Why-They-Hate-Us/Tessa-Gratton/9781250768914"
+        }
+      ],
+      "latestDateOfSubmission": "2025-02-28",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "N.K. Jemisin",
+          "title": "The City We Became"
+        },
+        {
+          "author": "Andy Weir",
+          "title": "Project Hail Mary"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Nebula Prize",
+    "registration_url": "",
+    "categories": [],
+    "organization": "",
+    "enriched_data": {
+      "registrationUrl": "Not applicable for direct registration; nominations are made by SFWA members",
+      "categories": [
+        "Best Novel",
+        "Best Novella",
+        "Best Novelette",
+        "Best Short Story",
+        "Andre Norton Award",
+        "Ray Bradbury Award",
+        "Best Game Writing"
+      ],
+      "organization": "Science Fiction and Fantasy Writers of America (SFWA)",
+      "lastWinningBooks": [
+        {
+          "author": "Nghi Vo",
+          "title": "Into the Riverlands",
+          "publishingYear": 2022,
+          "publisher": "Tordotcom Publishing",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "R.F. Kuang",
+          "title": "Babel",
+          "publishingYear": 2022,
+          "publisher": "Harper Voyager",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "A.C. Wise",
+          "title": "Wendy, Darling",
+          "publishingYear": 2022,
+          "publisher": "Titan Books",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        }
+      ],
+      "latestDateOfSubmission": "2025-02-15",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "N.K. Jemisin",
+          "title": "The City We Became"
+        },
+        {
+          "author": "Brandon Sanderson",
+          "title": "Tress of the Emerald Sea"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Neustadt Prize",
+    "registration_url": "",
+    "categories": [],
+    "organization": "",
+    "enriched_data": {
+      "registrationUrl": "N/A - Nomination-based",
+      "categories": [
+        "Fiction",
+        "Poetry",
+        "Drama"
+      ],
+      "organization": "University of Oklahoma and World Literature Today",
+      "lastWinningBooks": [
+        {
+          "author": "Boubacar Boris Diop",
+          "title": "Various works",
+          "publishingYear": "Varies",
+          "publisher": "Varies",
+          "isbn": "N/A",
+          "link": "N/A"
+        }
+      ],
+      "latestDateOfSubmission": "N/A - Biennial, next in 2025",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Ngugi wa Thiong'o",
+          "title": "Various works"
+        },
+        {
+          "author": "Adunis",
+          "title": "Various works"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Newberry Medal",
+    "registration_url": "",
+    "categories": [],
+    "organization": "",
+    "enriched_data": {
+      "registrationUrl": "Not applicable for the Newbery Medal",
+      "categories": [
+        "Fiction",
+        "Non-Fiction",
+        "Poetry"
+      ],
+      "organization": "Association for Library Service to Children (ALSC), a division of the American Library Association (ALA)",
+      "lastWinningBooks": [
+        {
+          "author": "Erin Entrada Kelly",
+          "title": "The First State of Being",
+          "publishingYear": 2023,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Donna Barba Higuera",
+          "title": "The Last Cuentista",
+          "publishingYear": 2021,
+          "publisher": "Levine Querido",
+          "isbn": "978-1646140894",
+          "link": "https://www.levinequerido.com/book/9781646140894"
+        },
+        {
+          "author": "Tae Keller",
+          "title": "When You Trap a Tiger",
+          "publishingYear": 2020,
+          "publisher": "Random House Children's Books",
+          "isbn": "978-1524715700",
+          "link": "https://www.penguinrandomhouse.com/books/609111/when-you-trap-a-tiger-by-tae-keller/"
+        }
+      ],
+      "latestDateOfSubmission": "Not applicable for the Newbery Medal",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not specified",
+          "title": "Not specified"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Newbery Medal",
+    "registration_url": "http://www.ala.org/alsc/awardsgrants/bookmedia/newberymedal/newberymedal",
+    "categories": [
+      "Children's Literature"
+    ],
+    "organization": "Association for Library Service to Children (ALSC)",
+    "enriched_data": {
+      "registrationUrl": null,
+      "categories": [
+        "Fiction",
+        "Non-Fiction",
+        "Poetry"
+      ],
+      "organization": "Association for Library Service to Children (ALSC), a division of the American Library Association (ALA)",
+      "lastWinningBooks": [
+        {
+          "author": "Erin Entrada Kelly",
+          "title": "The First State of Being",
+          "publishingYear": 2023,
+          "publisher": "Unknown",
+          "isbn": "Unknown",
+          "link": "Unknown"
+        },
+        {
+          "author": "Donna Barba Higuera",
+          "title": "The Last Cuentista",
+          "publishingYear": 2021,
+          "publisher": "Levine Querido",
+          "isbn": "978-1646140894",
+          "link": "https://www.goodreads.com/book/show/57944441-the-last-cuentista"
+        },
+        {
+          "author": "Jerry Craft",
+          "title": "New Kid",
+          "publishingYear": 2019,
+          "publisher": "Quill Tree Books",
+          "isbn": "978-0062691194",
+          "link": "https://www.goodreads.com/book/show/43330341-new-kid"
+        }
+      ],
+      "latestDateOfSubmission": "Varies annually, typically around October for the following year's award",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Unknown",
+          "title": "Unknown"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Next Generation Indie Book Awards",
+    "registration_url": "https://www.indiebookawards.com/guidelines.php",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Autobiography/Memoir",
+      "Business",
+      "Children's/Juvenile Fiction",
+      "General Fiction",
+      "Graphic Novel",
+      "Health/Wellness",
+      "Historical Fiction",
+      "Inspirational",
+      "Literary Fiction",
+      "Mystery",
+      "New Age",
+      "Novella",
+      "Poetry",
+      "Regional Fiction",
+      "Religious Fiction",
+      "Romance",
+      "Science Fiction",
+      "Self-Help",
+      "Spirituality",
+      "Thriller",
+      "Young Adult",
+      "Visionary Fiction"
+    ],
+    "organization": "Independent Book Publishing Professionals Group",
+    "enriched_data": {
+      "registrationUrl": "https://www.indiebookawards.com/guidelines.php",
+      "categories": [
+        "African American (Non-Fiction)",
+        "BIPOC (Black, Indigenous and/or Persons of Color)",
+        "Children's Educational Picture Book (6 Years and Up)",
+        "Children's Picture Book #Ownvoices",
+        "Children's Picture Book (0-5 Years)",
+        "Children's Picture Book (Non-Fiction) (All Ages)",
+        "Children's Picture Book Illustration (Best illustrator)",
+        "Children's/Juvenile (Non-Fiction)",
+        "Children's/Juvenile Early Readers/Chapter Books (Fiction)",
+        "Cookbooks/Healthy Eating/Nutrition",
+        "Education/Academic (Non-Fiction)",
+        "First Novel (40,000 to 70,000 words)",
+        "First Novel (70,000 to 90,000 words)",
+        "First Novel (Over 90,000 words)",
+        "First Novel (Under 50,000 words)",
+        "General Fiction/Novel (70,000 to 100,000 words)",
+        "General Fiction/Novel (Over 100,000 words)",
+        "General Fiction/Novel (Under 70,000 words)",
+        "Historical (Fiction) (Pre 1900's)",
+        "LGBTQ+ (Lesbian/Gay/Bisexual/Transgender/Queer+)",
+        "Memoirs (Overcoming Adversity/Tragedy)",
+        "Memoirs (Personal Struggle/Health Issues)",
+        "Parenting/Family (Non-Fiction)",
+        "Series (Fiction) Minimum three books, one must be within current year guidelines",
+        "Women's Literature (Non-Fiction)",
+        "Young Adult (Fiction) (12 Years to 16 Years)",
+        "Young Author (Written by under age 25)",
+        "Best Cover Design (Non-Fiction)",
+        "Best Overall Design (Fiction) (Digitally Submitted for judging)",
+        "Best Overall Design (Fiction) (Print Book Submitted for judging)",
+        "Best Overall Design (Non-Fiction) (Digitally Submitted for judging)",
+        "Best Overall Design (Non-Fiction) (Print Book Submitted for judging)"
+      ],
+      "organization": "Independent Book Publishing Professionals Group",
+      "lastWinningBooks": [
+        {
+          "author": "Tasha-Nicole Terani",
+          "title": "A Tree For Me",
+          "publishingYear": 2023,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Dragonfly Meadows Publishing",
+          "title": "Confidently Mindful: Clear Answers to Your Questions",
+          "publishingYear": 2023,
+          "publisher": "Dragonfly Meadows Publishing",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Lightning Strikes Twice",
+          "title": "Everything Tesla: From How They Work to How Fast They Go and All the Fun In Between!",
+          "publishingYear": 2023,
+          "publisher": "Lightning Strikes Twice",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        }
+      ],
+      "latestDateOfSubmission": "2026-02-12",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not specified",
+          "title": "Not specified"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Nobel Prize",
+    "registration_url": "",
+    "categories": [],
+    "organization": "",
+    "enriched_data": {
+      "registrationUrl": "N/A - Nominations are made by qualified individuals",
+      "categories": [
+        "All literary works"
+      ],
+      "organization": "The Swedish Academy",
+      "lastWinningBooks": [
+        {
+          "author": "Jon Fosse",
+          "title": "Various works",
+          "publishingYear": "Varies",
+          "publisher": "N/A",
+          "isbn": "N/A",
+          "link": "https://www.nobelprize.org/prizes/literature/2023/fosse/summary/"
+        }
+      ],
+      "latestDateOfSubmission": "2025-01-31",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Ngugi wa Thiong'o",
+          "title": "Various works"
+        },
+        {
+          "author": "Haruki Murakami",
+          "title": "Various works"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "O. Henry Prize",
+    "registration_url": "https://www.ohenryprizestories.com/submission-guidelines",
+    "categories": [
+      "Short Fiction"
+    ],
+    "organization": "O. Henry Prize Committee",
+    "enriched_data": {
+      "registrationUrl": null,
+      "categories": [
+        "Short Story"
+      ],
+      "organization": "PEN America (in partnership with Anchor Books)",
+      "lastWinningBooks": [
+        {
+          "author": "Jamil Jan Kochai",
+          "title": "Playing Metal Gear Solid V: The Phantom Pain",
+          "publishingYear": 2022,
+          "publisher": "The New Yorker",
+          "isbn": null,
+          "link": null
+        },
+        {
+          "author": "Yiyun Li",
+          "title": "A Little Girl in a Red Dress with White Pockets",
+          "publishingYear": 2022,
+          "publisher": "The New Yorker",
+          "isbn": null,
+          "link": null
+        },
+        {
+          "author": "Alejandro Varela",
+          "title": "The Whale",
+          "publishingYear": 2022,
+          "publisher": "Harper's Magazine",
+          "isbn": null,
+          "link": null
+        }
+      ],
+      "latestDateOfSubmission": null,
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "George Saunders",
+          "title": null
+        },
+        {
+          "author": "Kelly Link",
+          "title": null
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Orbis Pictus Award",
+    "registration_url": "https://ncte.org/awards/orbis-pictus-award-nonfiction-for-children/",
+    "categories": [
+      "Nonfiction for Children"
+    ],
+    "organization": "National Council of Teachers of English",
+    "enriched_data": {
+      "registrationUrl": "https://ncte.org/awards/orbis-pictus-award-nonfiction-for-children/",
+      "categories": [
+        "Nonfiction",
+        "Biography"
+      ],
+      "organization": "National Council of Teachers of English",
+      "lastWinningBooks": [
+        {
+          "author": "Not specified in search results",
+          "title": "Not specified in search results",
+          "publishingYear": 2023,
+          "publisher": "Not specified in search results",
+          "isbn": "Not specified in search results",
+          "link": "Not specified in search results"
+        }
+      ],
+      "latestDateOfSubmission": "2025-10-15",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not specified in search results",
+          "title": "Not specified in search results"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Otherwise Award",
+    "registration_url": "https://otherwiseaward.org/about/",
+    "categories": [
+      "Science Fiction or Fantasy that Explores Gender"
+    ],
+    "organization": "Otherwise Award Committee",
+    "enriched_data": {
+      "registrationUrl": "https://otherwiseaward.org/nominate",
+      "categories": [
+        "Novels",
+        "Short Stories",
+        "Poetry",
+        "Film and Television",
+        "Music"
+      ],
+      "organization": "Otherwise Award Organization",
+      "lastWinningBooks": [
+        {
+          "author": "Nghi Vo",
+          "title": "Into the Riverlands",
+          "publishingYear": 2022,
+          "publisher": "Tor.com Publishing",
+          "isbn": "9781250812176",
+          "link": "https://www.tor.com/2022/10/25/into-the-riverlands-by-nghi-vo/"
+        },
+        {
+          "author": "Akwaeke Emezi",
+          "title": "Pet",
+          "publishingYear": 2019,
+          "publisher": "Make Me a World",
+          "isbn": "9781524767180",
+          "link": "https://www.penguinrandomhouse.com/books/600246/pet-by-akwaeke-emezi/"
+        }
+      ],
+      "latestDateOfSubmission": "2025-12-31",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "N.K. Jemisin",
+          "title": "The City We Became"
+        },
+        {
+          "author": "Rivers Solomon",
+          "title": "Sorrowland"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "PEN America Literary Awards",
+    "registration_url": "https://pen.org/literary-awards/submit/",
+    "categories": [
+      "Fiction",
+      "Essay",
+      "Poetry",
+      "Biography",
+      "Science Writing",
+      "Translation",
+      "Debut Fiction"
+    ],
+    "organization": "PEN America",
+    "enriched_data": {
+      "registrationUrl": "https://pen.org/literary-awards/",
+      "categories": [
+        "Fiction",
+        "Poetry",
+        "Science Writing",
+        "Essay",
+        "Biography",
+        "Children's Literature",
+        "Drama",
+        "Debut Novel",
+        "Short Story",
+        "Translation",
+        "Multi-Genre"
+      ],
+      "organization": "PEN America",
+      "lastWinningBooks": [
+        {
+          "author": "Elaine May",
+          "title": "Not specified",
+          "publishingYear": "Not specified",
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Ngũgĩ wa Thiong’o",
+          "title": "Not specified",
+          "publishingYear": "Not specified",
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Jackie Sibblies Drury",
+          "title": "Not specified",
+          "publishingYear": "Not specified",
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        }
+      ],
+      "latestDateOfSubmission": "Not specified",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not specified",
+          "title": "Not specified"
+        },
+        {
+          "author": "Not specified",
+          "title": "Not specified"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "PEN Award",
+    "registration_url": "",
+    "categories": [],
+    "organization": "",
+    "enriched_data": {
+      "registrationUrl": "https://pen.org/literary-awards/",
+      "categories": [
+        "Fiction",
+        "Non-Fiction",
+        "Poetry",
+        "Science Writing",
+        "Essay",
+        "Biography",
+        "Children's Literature",
+        "Drama",
+        "Translation"
+      ],
+      "organization": "PEN America",
+      "lastWinningBooks": [
+        {
+          "author": "Yiyun Li",
+          "title": "Where Reasons End",
+          "publishingYear": 2019,
+          "publisher": "Penguin Random House",
+          "isbn": "978-1984820156",
+          "link": "https://www.penguinrandomhouse.com/books/609555/where-reasons-end-by-yiyun-li/"
+        },
+        {
+          "author": "Brandon Shimoda",
+          "title": "The Grave on the Wall",
+          "publishingYear": 2019,
+          "publisher": "City Lights Books",
+          "isbn": "978-0872867844",
+          "link": "https://www.citylights.com/book/?GCOI=87286100439990"
+        },
+        {
+          "author": "Frans de Waal",
+          "title": "Mama’s Last Hug: Animal Emotions and What They Tell Us about Ourselves",
+          "publishingYear": 2019,
+          "publisher": "W.W. Norton & Company",
+          "isbn": "978-0393635065",
+          "link": "https://wwnorton.com/books/9780393635065"
+        }
+      ],
+      "latestDateOfSubmission": "Varies by award, typically in the fall",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Ramona Emerson",
+          "title": "Shutter"
+        },
+        {
+          "author": "Paul Tran",
+          "title": "All the Flowers Kneeling"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "PEN/Diamonstein-Spielvogel Award",
+    "registration_url": "https://pen.org/literary-awards/pendiamonsteinspielvogelaward/",
+    "categories": [
+      "Art of the Essay"
+    ],
+    "organization": "PEN America",
+    "enriched_data": {
+      "registrationUrl": "https://pen.org/literary-awards/pen-diamonstein-spielvogel-award-for-the-art-of-the-essay/",
+      "categories": [
+        "Essay Collections"
+      ],
+      "organization": "PEN America",
+      "lastWinningBooks": [
+        {
+          "author": "Hanif Abdurraqib",
+          "title": "A Little Devil in America: Notes in Praise of Black Performance",
+          "publishingYear": 2021,
+          "publisher": "Random House",
+          "isbn": "978-1984855595",
+          "link": "https://www.randomhouse.com/books/609111/a-little-devil-in-america-by-hanif-abdurraqib"
+        },
+        {
+          "author": "André Aciman",
+          "title": "Homo Irrealis: Essays",
+          "publishingYear": 2021,
+          "publisher": "Farrar, Straus and Giroux",
+          "isbn": "978-0374602616",
+          "link": "https://us.macmillan.com/books/9780374602616/homo-irrealis"
+        }
+      ],
+      "latestDateOfSubmission": "December 31, 2024",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Teju Cole",
+          "title": "Black Paper: Writing in a Dark Time"
+        },
+        {
+          "author": "Ann Patchett",
+          "title": "These Precious Days: Essays"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "PEN/Faulkner Award",
+    "registration_url": "",
+    "categories": [],
+    "organization": "",
+    "enriched_data": {
+      "registrationUrl": "https://penfaulkner.org/our-awards/pen-faulkner-award/",
+      "categories": [
+        "Fiction"
+      ],
+      "organization": "PEN/Faulkner Foundation",
+      "lastWinningBooks": [
+        {
+          "author": "Rabih Alameddine",
+          "title": "The Wrong End of the Telescope",
+          "publishingYear": 2022,
+          "publisher": "Grove Press",
+          "isbn": "9780802158574",
+          "link": "https://www.groveatlantic.com/book/the-wrong-end-of-the-telescope/"
+        },
+        {
+          "author": "Nawaaz Ahmed",
+          "title": "Radiant Fugitives",
+          "publishingYear": 2022,
+          "publisher": "Counterpoint Press",
+          "isbn": "9781640094446",
+          "link": "https://www.counterpointpress.com/books/radiant-fugitives/"
+        },
+        {
+          "author": "Carolina de Robertis",
+          "title": "The President and the Frog",
+          "publishingYear": 2022,
+          "publisher": "Knopf",
+          "isbn": "9780525656956",
+          "link": "https://www.penguinrandomhouse.com/books/695695/the-president-and-the-frog-by-carolina-de-robertis/"
+        },
+        {
+          "author": "Carolyn Ferrell",
+          "title": "Dear Miss Metropolitan",
+          "publishingYear": 2022,
+          "publisher": "Henry Holt and Company",
+          "isbn": "9781250773701",
+          "link": "https://us.macmillan.com/books/9781250773701/dear-miss-metropolitan"
+        },
+        {
+          "author": "Imbolo Mbue",
+          "title": "How Beautiful We Were",
+          "publishingYear": 2022,
+          "publisher": "Random House",
+          "isbn": "9780593132573",
+          "link": "https://www.penguinrandomhouse.com/books/625111/how-beautiful-we-were-by-imbolo-mbue/"
+        }
+      ],
+      "latestDateOfSubmission": "2024-09-30",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "'Pemi Aguda",
+          "title": "Ghostroots"
+        },
+        {
+          "author": "Susan Muaddi Darraj",
+          "title": "Behind You Is the Sea"
+        },
+        {
+          "author": "Louise Erdrich",
+          "title": "The Mighty Red"
+        },
+        {
+          "author": "Percival Everett",
+          "title": "James"
+        },
+        {
+          "author": "Garth Greenwell",
+          "title": "Small Rain"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "PEN/Faulkner Award for Fiction",
+    "registration_url": "https://www.penfaulkner.org/award-for-fiction/submission-guidelines/",
+    "categories": [
+      "Fiction"
+    ],
+    "organization": "PEN/Faulkner Foundation",
+    "enriched_data": {
+      "registrationUrl": "https://www.penfaulkner.org/our-awards/pen-faulkner-award/",
+      "categories": [
+        "Fiction"
+      ],
+      "organization": "PEN/Faulkner Foundation",
+      "lastWinningBooks": [
+        {
+          "author": "Claire Jiménez",
+          "title": "What Happened to Ruthy Ramirez",
+          "publishingYear": 2023,
+          "publisher": "Algonquin Books",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        },
+        {
+          "author": "Rabih Alameddine",
+          "title": "The Wrong End of the Telescope",
+          "publishingYear": 2022,
+          "publisher": "Grove Press",
+          "isbn": "978-0802158704",
+          "link": "https://www.groveatlantic.com/book/the-wrong-end-of-the-telescope/"
+        }
+      ],
+      "latestDateOfSubmission": "2024-09-30",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Percival Everett",
+          "title": "James"
+        },
+        {
+          "author": "Louise Erdrich",
+          "title": "The Mighty Red"
+        },
+        {
+          "author": "Danzy Senna",
+          "title": "Colored Television"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "PEN/Hemingway Award",
+    "registration_url": "https://pen.org/literary-awards/penhemingway-award/",
+    "categories": [
+      "Debut Novel"
+    ],
+    "organization": "PEN America",
+    "enriched_data": {
+      "registrationUrl": "https://pen.org/literary-awards/pen-hemingway-award/",
+      "categories": [
+        "Debut Novel"
+      ],
+      "organization": "PEN America",
+      "lastWinningBooks": [
+        {
+          "author": "Javier Fuentes",
+          "title": "Countries of Origin",
+          "publishingYear": 2024,
+          "publisher": "Pantheon",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        },
+        {
+          "author": "Oscar Hokeah",
+          "title": "Calling For a Blanket Dance",
+          "publishingYear": 2023,
+          "publisher": "Algonquin Books",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        },
+        {
+          "author": "Torrey Peters",
+          "title": "Detransition, Baby: A Novel",
+          "publishingYear": 2022,
+          "publisher": "MCD",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        }
+      ],
+      "latestDateOfSubmission": "Not Available",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "PEN/Robert W. Bingham Prize",
+    "registration_url": "https://pen.org/literary-awards/penrobert-w-bingham-prize/",
+    "categories": [
+      "Debut Short Story Collection"
+    ],
+    "organization": "PEN America",
+    "enriched_data": {
+      "registrationUrl": "https://pen.org/literary-awards/pen-bingham-prize/",
+      "categories": [
+        "Debut Short Story Collection"
+      ],
+      "organization": "PEN America",
+      "lastWinningBooks": [
+        {
+          "author": "Not specified in the search results",
+          "title": "Not specified in the search results",
+          "publishingYear": "Not specified in the search results",
+          "publisher": "Not specified in the search results",
+          "isbn": "Not specified in the search results",
+          "link": "Not specified in the search results"
+        }
+      ],
+      "latestDateOfSubmission": "Not specified in the search results",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not specified in the search results",
+          "title": "Not specified in the search results"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Philip K. Dick Award",
+    "registration_url": "https://www.philipkdickaward.org/submissions/",
+    "categories": [
+      "Distinguished Science Fiction Published in Paperback Original"
+    ],
+    "organization": "Philadelphia SF Society and Philip K. Dick Trust",
+    "enriched_data": {
+      "registrationUrl": null,
+      "categories": [
+        "Science Fiction"
+      ],
+      "organization": "Philadelphia Science Fiction Society and Philip K. Dick Trust",
+      "lastWinningBooks": [
+        {
+          "author": "Bethany Jacobs",
+          "title": "These Burning Stars",
+          "publishingYear": 2023,
+          "publisher": "Orbit",
+          "isbn": null,
+          "link": null
+        },
+        {
+          "author": "Rebekah Bergman",
+          "title": "The Museum of Human History",
+          "publishingYear": 2023,
+          "publisher": "Tin House",
+          "isbn": null,
+          "link": null
+        }
+      ],
+      "latestDateOfSubmission": null,
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Tara Campbell",
+          "title": "City of Dancing Gargoyles"
+        },
+        {
+          "author": "Bora Chung",
+          "title": "Your Utopia: Stories"
+        },
+        {
+          "author": "Brenda Peynado",
+          "title": "Time's Agent"
+        },
+        {
+          "author": "Sofia Samatar",
+          "title": "The Practice, the Horizon, and the Chain"
+        },
+        {
+          "author": "Adrian Tchaikovsky",
+          "title": "Alien Clay"
+        },
+        {
+          "author": "Subodhana Wijeyeratne",
+          "title": "Triangulum"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Phoenix Award",
+    "registration_url": "https://www.childlitassn.org/phoenix-award",
+    "categories": [
+      "Children's Books Published 20 Years Previously"
+    ],
+    "organization": "Children's Literature Association",
+    "enriched_data": {
+      "registrationUrl": null,
+      "categories": null,
+      "organization": "Children's Literature Association",
+      "lastWinningBooks": [],
+      "latestDateOfSubmission": null,
+      "possibleStrongestCompetitionThisYear": []
+    }
+  },
+  {
+    "award_name": "Printz Award",
+    "registration_url": "",
+    "categories": [],
+    "organization": "",
+    "enriched_data": {
+      "registrationUrl": "Not applicable for direct registration; selection is based on publication criteria",
+      "categories": [
+        "Fiction",
+        "Non-Fiction",
+        "Poetry",
+        "Graphic Novels",
+        "Anthologies"
+      ],
+      "organization": "Young Adult Library Services Association (YALSA)",
+      "lastWinningBooks": [
+        {
+          "author": "A. S. King",
+          "title": "The Year We Learned to Fly",
+          "publishingYear": 2023,
+          "publisher": "Scholastic Press",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Angie Thomas",
+          "title": "On the Come Up",
+          "publishingYear": 2022,
+          "publisher": "Balzer + Bray",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Jason Reynolds",
+          "title": "Long Way Down",
+          "publishingYear": 2021,
+          "publisher": "Atheneum/Caitlyn Dlouhy Books",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        }
+      ],
+      "latestDateOfSubmission": "Not specified; books must be published between January 1 and December 31 of the preceding year",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Renee Watson",
+          "title": "Twenty-Four Seconds From Now"
+        },
+        {
+          "author": "Jason Reynolds",
+          "title": "Not specified"
+        },
+        {
+          "author": "Gene Luen Yang",
+          "title": "Not specified"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Prometheus Award",
+    "registration_url": "http://lfs.org/awards.shtml",
+    "categories": [
+      "Best Novel",
+      "Hall of Fame"
+    ],
+    "organization": "Libertarian Futurist Society",
+    "enriched_data": {
+      "registrationUrl": "https://www.lfs.org/membership/",
+      "categories": [
+        "Best Novel",
+        "Hall of Fame"
+      ],
+      "organization": "Libertarian Futurist Society",
+      "lastWinningBooks": [
+        {
+          "author": "Daniel Suarez",
+          "title": "Critical Mass",
+          "publishingYear": 2023,
+          "publisher": "Dutton",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        },
+        {
+          "author": "Terry Pratchett",
+          "title": "The Truth",
+          "publishingYear": 2000,
+          "publisher": "Doubleday/Transworld",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        }
+      ],
+      "latestDateOfSubmission": "Varies, typically early in the year following publication",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Devon Eriksen",
+          "title": "Theft of Fire"
+        },
+        {
+          "author": "Karl K. Gallagher",
+          "title": "Swim Among The People"
+        },
+        {
+          "author": "Dr. Insensitive Jerk",
+          "title": "God’s Girlfriend"
+        },
+        {
+          "author": "Howard Andrew Jones",
+          "title": "Lord of a Shattered Land"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Pulitzer Prize",
+    "registration_url": "https://www.pulitzer.org/entry-information",
+    "categories": [
+      "Fiction",
+      "Drama",
+      "History",
+      "Biography",
+      "Poetry",
+      "General Nonfiction",
+      "Music"
+    ],
+    "organization": "Columbia University"
+  },
+  {
+    "award_name": "Pura Belpré Award",
+    "registration_url": "http://www.ala.org/alsc/awardsgrants/bookmedia/belpremedal",
+    "categories": [
+      "Latino/Latina Writer",
+      "Latino/Latina Illustrator"
+    ],
+    "organization": "Association for Library Service to Children",
+    "enriched_data": {
+      "registrationUrl": null,
+      "categories": [
+        "Children's Author",
+        "Children's Illustrator",
+        "Young Adult Author"
+      ],
+      "organization": "Association for Library Service to Children (ALSC), Young Adult Library Services Association (YALSA), and REFORMA",
+      "lastWinningBooks": [
+        {
+          "author": "Donna Barba Higuera",
+          "title": "The Last Cuentista",
+          "publishingYear": 2022,
+          "publisher": "Levine Querido",
+          "isbn": "9781646140965",
+          "link": null
+        },
+        {
+          "author": "Raúl Gonzalez",
+          "title": "¡Vamos Let's Cross the Bridge",
+          "publishingYear": 2022,
+          "publisher": "Versify",
+          "isbn": "9780358654274",
+          "link": null
+        }
+      ],
+      "latestDateOfSubmission": null,
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Ernesto Cisneros",
+          "title": "Efrén Divided"
+        },
+        {
+          "author": "Yamile Saied Méndez",
+          "title": "Furia"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Pushcart Prize",
+    "registration_url": "https://www.pushcartprize.com/submission-guidelines.html",
+    "categories": [
+      "Poetry",
+      "Fiction",
+      "Essays",
+      "Memoirs"
+    ],
+    "organization": "Pushcart Press",
+    "enriched_data": {
+      "registrationUrl": null,
+      "categories": [
+        "Poetry",
+        "Short Fiction",
+        "Essays",
+        "Memoirs",
+        "Novel Excerpts"
+      ],
+      "organization": "Pushcart Press",
+      "lastWinningBooks": [
+        {
+          "author": "Kaveh Akbar",
+          "title": "Various Poems",
+          "publishingYear": 2023,
+          "publisher": "Small Press",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        },
+        {
+          "author": "Wells Tower",
+          "title": "Various Stories",
+          "publishingYear": 2023,
+          "publisher": "Small Press",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        }
+      ],
+      "latestDateOfSubmission": "2024-12-01",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Junot Díaz",
+          "title": "New Works"
+        },
+        {
+          "author": "Anne Carson",
+          "title": "Recent Poetry"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Robert F. Sibert Informational Book Medal",
+    "registration_url": "http://www.ala.org/alsc/awardsgrants/bookmedia/sibertmedal",
+    "categories": [
+      "Informational Books for Children"
+    ],
+    "organization": "Association for Library Service to Children",
+    "enriched_data": {
+      "registrationUrl": "https://www.ala.org/alsc/awardsgrants/bookmedia/sibert",
+      "categories": [
+        "Informational Books"
+      ],
+      "organization": "Association for Library Service to Children (ALSC)",
+      "lastWinningBooks": [
+        {
+          "author": "Nicholas Day",
+          "title": "The Mona Lisa Vanishes: A Legendary Painter, a Shocking Heist, and the Birth of a Global Celebrity",
+          "publishingYear": 2024,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        }
+      ],
+      "latestDateOfSubmission": "2024-12-31",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not specified",
+          "title": "Not specified"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Ruth Lilly Poetry Prize",
+    "registration_url": "https://www.poetryfoundation.org/foundation/prizes-fellowship",
+    "categories": [
+      "Lifetime Achievement in Poetry"
+    ],
+    "organization": "Poetry Foundation"
+  },
+  {
+    "award_name": "Schneider Family Book Award",
+    "registration_url": "http://www.ala.org/awardsgrants/schneider-family-book-award",
+    "categories": [
+      "Books Portraying Disability Experience"
+    ],
+    "organization": "American Library Association",
+    "enriched_data": {
+      "registrationUrl": "https://www.ala.org/awards/books-media/schneider-family-book-award",
+      "categories": [
+        "Young Children",
+        "Middle Grades",
+        "Young Adult"
+      ],
+      "organization": "American Library Association",
+      "lastWinningBooks": [
+        {
+          "author": "Darren Lebeuf",
+          "title": "My City Speaks",
+          "publishingYear": 2022,
+          "publisher": "Kids Can Press",
+          "isbn": "9781525301425",
+          "link": "https://www.kidscanpress.com/products/my-city-speaks"
+        },
+        {
+          "author": "Alison Green Myers",
+          "title": "A Bird Will Soar",
+          "publishingYear": 2022,
+          "publisher": "Penguin Random House",
+          "isbn": "9780593325171",
+          "link": "https://www.penguinrandomhouse.com/books/700670/a-bird-will-soar-by-alison-green-myers/"
+        },
+        {
+          "author": "Hudson Talbott",
+          "title": "A Walk in the Words",
+          "publishingYear": 2022,
+          "publisher": "Penguin Random House",
+          "isbn": "9780593223333",
+          "link": "https://www.penguinrandomhouse.com/books/700670/a-walk-in-the-words-by-hudson-talbott/"
+        }
+      ],
+      "latestDateOfSubmission": "2025-12-01",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Various Authors",
+          "title": "2025 Schneider Family Book Award Contenders"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Science + Literature Selected Title",
+    "registration_url": "",
+    "categories": [],
+    "organization": "",
+    "enriched_data": {
+      "registrationUrl": "Email Programs Coordinator Emily Lovett at elovett@nationalbook.org for suggestions",
+      "categories": [
+        "Fiction",
+        "Non-Fiction",
+        "Poetry"
+      ],
+      "organization": "National Book Foundation",
+      "lastWinningBooks": [
+        {
+          "author": "Ramona Ausubel",
+          "title": "The Last Animal",
+          "publishingYear": 2024,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Ed Yong",
+          "title": "An Immense World: How Animal Senses Reveal the Hidden Realms Around Us",
+          "publishingYear": 2022,
+          "publisher": "Random House",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Claire Wahmanholm",
+          "title": "Meltwater",
+          "publishingYear": 2024,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        }
+      ],
+      "latestDateOfSubmission": "Not specified",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Ramona Ausubel",
+          "title": "The Last Animal"
+        },
+        {
+          "author": "Ed Yong",
+          "title": "An Immense World: How Animal Senses Reveal the Hidden Realms Around Us"
+        },
+        {
+          "author": "Claire Wahmanholm",
+          "title": "Meltwater"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Scott O'Dell Award for Historical Fiction",
+    "registration_url": "https://scottodell.com/the-scott-odell-award",
+    "categories": [
+      "Historical Fiction for Young Readers"
+    ],
+    "organization": "Scott O'Dell Award Committee",
+    "enriched_data": {
+      "registrationUrl": "https://scottodell.com/the-scott-odell-award",
+      "categories": [
+        "Historical Fiction for Young Readers"
+      ],
+      "organization": "Kent State University's iSchool Reinberger Children's Library Center",
+      "lastWinningBooks": [
+        {
+          "author": "L.M. Elliott",
+          "title": "Not specified in the search results",
+          "publishingYear": 2023,
+          "publisher": "Not specified in the search results",
+          "isbn": "Not specified in the search results",
+          "link": "Not specified in the search results"
+        },
+        {
+          "author": "Thanhhà Lại",
+          "title": "Not specified in the search results",
+          "publishingYear": 2022,
+          "publisher": "HarperCollins",
+          "isbn": "Not specified in the search results",
+          "link": "Not specified in the search results"
+        }
+      ],
+      "latestDateOfSubmission": "2024-12-01",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not specified in the search results",
+          "title": "Not specified in the search results"
+        },
+        {
+          "author": "Not specified in the search results",
+          "title": "Not specified in the search results"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Shamus Awards",
+    "registration_url": "https://www.privateeyewriters.com/the-shamus-awards",
+    "categories": [
+      "Best Hardcover PI Novel",
+      "Best First PI Novel",
+      "Best Original Paperback PI Novel",
+      "Best PI Short Story"
+    ],
+    "organization": "Private Eye Writers of America"
+  },
+  {
+    "award_name": "Shirley Jackson Awards",
+    "registration_url": "https://www.shirleyjacksonawards.org/nominations/",
+    "categories": [
+      "Novel",
+      "Novella",
+      "Novelette",
+      "Short Fiction",
+      "Single-Author Collection",
+      "Edited Anthology"
+    ],
+    "organization": "Shirley Jackson Awards Board",
+    "enriched_data": {
+      "registrationUrl": "admin@shirleyjacksonawards.org",
+      "categories": [
+        "Novel",
+        "Novella",
+        "Novelette",
+        "Short Fiction",
+        "Single-Author Collection",
+        "Edited Anthology"
+      ],
+      "organization": "The Shirley Jackson Awards, Inc.",
+      "lastWinningBooks": [
+        {
+          "author": "Lauren Beukes",
+          "title": "Afterland",
+          "publishingYear": 2020,
+          "publisher": "Mulholland Books",
+          "isbn": "9780316457633",
+          "link": "https://www.goodreads.com/book/show/52561541-afterland"
+        },
+        {
+          "author": "Caitlín R. Kiernan",
+          "title": "The Tindalos Asset",
+          "publishingYear": 2020,
+          "publisher": "Tor.com Publishing",
+          "isbn": "9781250268934",
+          "link": "https://www.goodreads.com/book/show/52561542-the-tindalos-asset"
+        }
+      ],
+      "latestDateOfSubmission": "2025-01-31",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Alison Rumfitt",
+          "title": "Brainwyrms"
+        },
+        {
+          "author": "J.A.W. McCarthy",
+          "title": "Sleep Alone"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Southern Book Prize",
+    "registration_url": "https://www.sibaweb.com/southern-book-prize-submissions",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Children's"
+    ],
+    "organization": "Southern Independent Booksellers Alliance",
+    "enriched_data": {
+      "registrationUrl": "Not specified",
+      "categories": [
+        "Fiction",
+        "Nonfiction",
+        "Poetry",
+        "Cooking",
+        "Children's Literature"
+      ],
+      "organization": "Southern Independent Booksellers Alliance (SIBA)",
+      "lastWinningBooks": [
+        {
+          "author": "Not specified",
+          "title": "Not specified",
+          "publishingYear": 2023,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        }
+      ],
+      "latestDateOfSubmission": "Not specified",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Taylor Brown",
+          "title": "Rednecks"
+        },
+        {
+          "author": "Jen DeLuca",
+          "title": "Haunted Ever After"
+        },
+        {
+          "author": "Percival Everett",
+          "title": "James"
+        },
+        {
+          "author": "Donna Everhart",
+          "title": "When the Jessamine Grows"
+        },
+        {
+          "author": "Mesha Maren",
+          "title": "Shae"
+        },
+        {
+          "author": "Tita Ramírez",
+          "title": "Tell It to Me Singing"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Spur Awards",
+    "registration_url": "https://westernwriters.org/spur-awards/",
+    "categories": [
+      "Traditional Western Novel",
+      "Contemporary Western Novel",
+      "Western Romance Novel",
+      "Historical Novel",
+      "Biography",
+      "Short Fiction",
+      "Poetry"
+    ],
+    "organization": "Western Writers of America",
+    "enriched_data": {
+      "registrationUrl": "https://westernwriters.org/awards/spur-awards/",
+      "categories": [
+        "Best Western Contemporary Novel",
+        "Best Western Historical Novel",
+        "Best Western Mass Market Paperback Novel",
+        "Best Western Romance Novel",
+        "Best Western Traditional Novel",
+        "Best Western Biography",
+        "Best Western Historical Nonfiction",
+        "Best Western Contemporary Nonfiction",
+        "Best Western Short Nonfiction",
+        "Best Western Short Fiction",
+        "Best Western Children’s Picture Book",
+        "Best Western Juvenile Fiction",
+        "Best Western Juvenile Nonfiction",
+        "Best Western Poem",
+        "Best Western Song",
+        "Best Western Drama Script",
+        "Best Western Documentary Script",
+        "Best First Western Novel",
+        "Best First Western Nonfiction Book"
+      ],
+      "organization": "Western Writers of America",
+      "lastWinningBooks": [
+        {
+          "author": "Anne Hillerman",
+          "title": "Spider Woman’s Daughter",
+          "publishingYear": 2013,
+          "publisher": "HarperCollins",
+          "isbn": "9780062228296",
+          "link": "https://www.harpercollins.com/products/spider-womans-daughter-anne-hillerman"
+        },
+        {
+          "author": "T. J. Stiles",
+          "title": "Custer’s Trials: A Life on the Frontier of a New America",
+          "publishingYear": 2015,
+          "publisher": "Alfred A. Knopf",
+          "isbn": "9780307593846",
+          "link": "https://www.penguinrandomhouse.com/books/242142/custers-trials-by-tj-stiles/"
+        },
+        {
+          "author": "Sandra Dallas",
+          "title": "The Last Midwife",
+          "publishingYear": 2015,
+          "publisher": "St. Martin's Press",
+          "isbn": "9781250056964",
+          "link": "https://www.macmillan.com/books/9781250056964/the-last-midwife"
+        },
+        {
+          "author": "Taylor Sheridan",
+          "title": "Wind River",
+          "publishingYear": 2017,
+          "publisher": "Screenplay",
+          "isbn": "N/A",
+          "link": "https://www.imdb.com/title/tt5362988/"
+        },
+        {
+          "author": "David Grann",
+          "title": "Killers of the Flower Moon",
+          "publishingYear": 2017,
+          "publisher": "Doubleday",
+          "isbn": "9780385534246",
+          "link": "https://www.penguinrandomhouse.com/books/242143/killers-of-the-flower-moon-by-david-grann/"
+        }
+      ],
+      "latestDateOfSubmission": "2025-01-15",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Craig Johnson",
+          "title": "Hell and Back"
+        },
+        {
+          "author": "C.J. Box",
+          "title": "Storm Watch"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Story Prize",
+    "registration_url": "",
+    "categories": [],
+    "organization": "",
+    "enriched_data": {
+      "registrationUrl": "Not Available",
+      "categories": [
+        "Short Story Collections"
+      ],
+      "organization": "The Story Prize",
+      "lastWinningBooks": [
+        {
+          "author": "Deesha Philyaw",
+          "title": "The Secret Lives of Church Ladies",
+          "publishingYear": 2020,
+          "publisher": "West Virginia University Press",
+          "isbn": "978-1-949966-14-9",
+          "link": "https://www.wvupressonline.com/the-secret-lives-of-church-ladies"
+        },
+        {
+          "author": "Ayşe Papatya Bucak",
+          "title": "The Trojan War Museum",
+          "publishingYear": 2021,
+          "publisher": "W.W. Norton & Company",
+          "isbn": "978-0-393-86641-4",
+          "link": "https://wwnorton.com/books/the-trojan-war-museum"
+        },
+        {
+          "author": "Lorenzo Marquez",
+          "title": "The Distance Between",
+          "publishingYear": 2022,
+          "publisher": "University of Pittsburgh Press",
+          "isbn": "978-0-8229-4614-5",
+          "link": "https://upittpress.org/books/9780822946145/"
+        }
+      ],
+      "latestDateOfSubmission": "Not Available",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "T.S. Eliot Prize (U.S. component)",
+    "registration_url": "https://www.poetrysociety.org.uk/competitions/ts-eliot-prize/",
+    "categories": [
+      "Poetry Collection"
+    ],
+    "organization": "Poetry Book Society",
+    "enriched_data": {
+      "registrationUrl": "https://zealous.co/tseliotprize/opportunity/T-S-Eliot-Prize-2024",
+      "categories": [
+        "Poetry"
+      ],
+      "organization": "T. S. Eliot Foundation",
+      "lastWinningBooks": [
+        {
+          "author": "Jason Allen-Paisant",
+          "title": "Self-Portrait As Othello",
+          "publishingYear": 2023,
+          "publisher": "Carcanet Press",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        }
+      ],
+      "latestDateOfSubmission": "2024-07-31",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Joe Carrick-Varty",
+          "title": "More Sky"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "The Believer Book Award",
+    "registration_url": "https://believermag.com/the-believer-book-award/",
+    "categories": [
+      "Fiction"
+    ],
+    "organization": "The Believer Magazine"
+  },
+  {
+    "award_name": "The Best American Series",
+    "registration_url": "https://www.hmhbooks.com/bestamerican/",
+    "categories": [
+      "Short Stories",
+      "Essays",
+      "Science/Nature Writing",
+      "Mystery Stories",
+      "Poetry",
+      "Comics"
+    ],
+    "organization": "Houghton Mifflin Harcourt",
+    "enriched_data": {
+      "registrationUrl": "Not Available",
+      "categories": [
+        "Fiction",
+        "Non-Fiction",
+        "Poetry",
+        "Young Adult"
+      ],
+      "organization": "Houghton Mifflin Harcourt",
+      "lastWinningBooks": [
+        {
+          "author": "Various",
+          "title": "The Best American Short Stories 2023",
+          "publishingYear": 2023,
+          "publisher": "Houghton Mifflin Harcourt",
+          "isbn": "978-0358651346",
+          "link": "https://www.hmhbooks.com/books/9780358651346/The-Best-American-Short-Stories-2023"
+        },
+        {
+          "author": "Various",
+          "title": "The Best American Essays 2023",
+          "publishingYear": 2023,
+          "publisher": "Houghton Mifflin Harcourt",
+          "isbn": "978-0358651353",
+          "link": "https://www.hmhbooks.com/books/9780358651353/The-Best-American-Essays-2023"
+        }
+      ],
+      "latestDateOfSubmission": "Not Available",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Emily St. John Mandel",
+          "title": "The Glass Hotel"
+        },
+        {
+          "author": "Celeste Ng",
+          "title": "Our Missing Hearts"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "The Center for Fiction First Novel Prize",
+    "registration_url": "https://centerforfiction.org/awards/the-first-novel-prize/",
+    "categories": [
+      "First Novel"
+    ],
+    "organization": "The Center for Fiction",
+    "enriched_data": {
+      "registrationUrl": "https://centerforfiction.org/grants-awards/the-first-novel-prize/",
+      "categories": [
+        "Fiction"
+      ],
+      "organization": "The Center for Fiction",
+      "lastWinningBooks": [
+        {
+          "author": "Tyriek White",
+          "title": "We Are a Haunting",
+          "publishingYear": 2023,
+          "publisher": "Astra Publishing House",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        },
+        {
+          "author": "Noor Naga",
+          "title": "If an Egyptian Cannot Speak English",
+          "publishingYear": 2022,
+          "publisher": "Graywolf Press",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        },
+        {
+          "author": "Kirstin Valdez Quade",
+          "title": "The Five Wounds",
+          "publishingYear": 2021,
+          "publisher": "W.W. Norton & Company",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        }
+      ],
+      "latestDateOfSubmission": "2024-03-15",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "The Story Prize",
+    "registration_url": "https://thestoryprize.org/how-to-enter/",
+    "categories": [
+      "Short Story Collections"
+    ],
+    "organization": "The Story Prize",
+    "enriched_data": {
+      "registrationUrl": "Contact info@thestoryprize.org for submission details",
+      "categories": [
+        "Short Fiction",
+        "Novellas"
+      ],
+      "organization": "The Story Prize",
+      "lastWinningBooks": [
+        {
+          "author": "Deesha Philyaw",
+          "title": "The Secret Lives of Church Ladies",
+          "publishingYear": 2020,
+          "publisher": "West Virginia University Press",
+          "isbn": "978-1-949966-14-1",
+          "link": "https://www.wvupressonline.com/the-secret-lives-of-church-ladies"
+        },
+        {
+          "author": "Lorenzo Herrera y Lozano",
+          "title": "The Lights We Carried Home",
+          "publishingYear": 2022,
+          "publisher": "University of Arizona Press",
+          "isbn": "978-0-8165-4444-6",
+          "link": "https://uapress.arizona.edu/book/the-lights-we-carried-home"
+        }
+      ],
+      "latestDateOfSubmission": "2025-07-01 for January-June publications, 2025-11-15 for July-December publications",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Jesmyn Ward",
+          "title": "Let Us Descend"
+        },
+        {
+          "author": "George Saunders",
+          "title": "Liberation Day"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Theodor Seuss Geisel Award",
+    "registration_url": "http://www.ala.org/alsc/awardsgrants/bookmedia/geiselaward",
+    "categories": [
+      "Beginning Reader Books"
+    ],
+    "organization": "Association for Library Service to Children",
+    "enriched_data": {
+      "registrationUrl": "Not applicable for direct registration; submissions are typically handled by publishers",
+      "categories": [
+        "Fiction",
+        "Non-Fiction",
+        "Poetry"
+      ],
+      "organization": "Association for Library Service to Children (ALSC), a division of the American Library Association",
+      "lastWinningBooks": [
+        {
+          "author": "Corey R. Tabor",
+          "title": "Not specified for 2024",
+          "publishingYear": 2023,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Corey R. Tabor",
+          "title": "Fox at Night",
+          "publishingYear": 2022,
+          "publisher": "Balzer + Bray",
+          "isbn": "978-0063065084",
+          "link": "https://www.harpercollins.com/products/fox-at-night-corey-r-tabor"
+        },
+        {
+          "author": "Corey R. Tabor",
+          "title": "Fox the Tiger",
+          "publishingYear": 2019,
+          "publisher": "Balzer + Bray",
+          "isbn": "978-0063065053",
+          "link": "https://www.harpercollins.com/products/fox-the-tiger-corey-r-tabor"
+        }
+      ],
+      "latestDateOfSubmission": "December 31",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Jonathan Fenske",
+          "title": "Not specified"
+        },
+        {
+          "author": "Sergio Ruzzier",
+          "title": "Not specified"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Theodore Sturgeon Memorial Award",
+    "registration_url": "http://www.sfcenter.ku.edu/sturgeon.htm",
+    "categories": [
+      "Best Short Science Fiction"
+    ],
+    "organization": "Center for the Study of Science Fiction",
+    "enriched_data": {
+      "registrationUrl": null,
+      "categories": [
+        "Science Fiction Short Story"
+      ],
+      "organization": "Theodore Sturgeon Literary Trust and the Center for the Study of Science Fiction",
+      "lastWinningBooks": [
+        {
+          "author": "Samantha Mills",
+          "title": "Rabbit Test",
+          "publishingYear": 2023,
+          "publisher": null,
+          "isbn": null,
+          "link": null
+        }
+      ],
+      "latestDateOfSubmission": null,
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Robert Reed",
+          "title": null
+        },
+        {
+          "author": "James Patrick Kelly",
+          "title": null
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Thriller Awards",
+    "registration_url": "https://thrillerwriters.org/thriller-awards/submissions/",
+    "categories": [
+      "Best Hardcover Novel",
+      "Best Paperback Original Novel",
+      "Best First Novel",
+      "Best Short Story",
+      "Best Young Adult Novel",
+      "Best E-Book Original Novel"
+    ],
+    "organization": "International Thriller Writers",
+    "enriched_data": {
+      "registrationUrl": "https://thrillerwriters.org/faq-for-awards/",
+      "categories": [
+        "Best Hardcover Novel",
+        "Best First Novel",
+        "Best Paperback Original Novel",
+        "Best Young Adult Novel",
+        "Best E-Book Original",
+        "Best Short Story",
+        "Best Audiobook",
+        "Best Standalone Thriller",
+        "Best Standalone Mystery",
+        "Best Series Novel"
+      ],
+      "organization": "International Thriller Writers (ITW)",
+      "lastWinningBooks": [
+        {
+          "author": "Not specified in the search results",
+          "title": "Not specified in the search results",
+          "publishingYear": 2023,
+          "publisher": "Not specified in the search results",
+          "isbn": "Not specified in the search results",
+          "link": "Not specified in the search results"
+        }
+      ],
+      "latestDateOfSubmission": "2024-12-31",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not specified in the search results",
+          "title": "Not specified in the search results"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Tomás Rivera Mexican American Children's Book Award",
+    "registration_url": "https://www.education.txstate.edu/departments/C-P/center-for-multicultural-programs-and-services/Tomas-Rivera-Book-Award-Project.html",
+    "categories": [
+      "Works for Younger Readers",
+      "Works for Older Readers"
+    ],
+    "organization": "Texas State University College of Education",
+    "enriched_data": {
+      "registrationUrl": null,
+      "categories": [
+        "Fiction",
+        "Non-Fiction",
+        "Poetry",
+        "Young Adult"
+      ],
+      "organization": "Texas State University College of Education",
+      "lastWinningBooks": [
+        {
+          "author": "Michael Genhart",
+          "title": "Spanish is the Language of My Family",
+          "publishingYear": null,
+          "publisher": null,
+          "isbn": null,
+          "link": null
+        },
+        {
+          "author": "John Parra",
+          "title": "Mexikid",
+          "publishingYear": null,
+          "publisher": null,
+          "isbn": null,
+          "link": null
+        },
+        {
+          "author": "Pedro Martín & Carmen Tafolla",
+          "title": "Warrior Girl",
+          "publishingYear": null,
+          "publisher": null,
+          "isbn": null,
+          "link": null
+        },
+        {
+          "author": "Celia Pérez",
+          "title": null,
+          "publishingYear": null,
+          "publisher": null,
+          "isbn": null,
+          "link": null
+        },
+        {
+          "author": "Aida Salazar",
+          "title": null,
+          "publishingYear": null,
+          "publisher": null,
+          "isbn": null,
+          "link": null
+        }
+      ],
+      "latestDateOfSubmission": null,
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": null,
+          "title": null
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Triangle Award",
+    "registration_url": "",
+    "categories": [],
+    "organization": "",
+    "enriched_data": {
+      "registrationUrl": "Not specified in the search results; typically found on the Publishing Triangle's website",
+      "categories": [
+        "Fiction",
+        "Gay Nonfiction",
+        "Lesbian Nonfiction",
+        "Lesbian Poetry",
+        "Gay Poetry",
+        "Debut Fiction",
+        "Trans and Gender-Variant Literature",
+        "LGBTQ Crime Writing",
+        "LGBTQ+ Children’s/YA Literature"
+      ],
+      "organization": "The Publishing Triangle",
+      "lastWinningBooks": [
+        {
+          "author": "Not specified in the search results",
+          "title": "Not specified in the search results",
+          "publishingYear": 2022,
+          "publisher": "Not specified in the search results",
+          "isbn": "Not specified in the search results",
+          "link": "Not specified in the search results"
+        }
+      ],
+      "latestDateOfSubmission": "Typically late September to early December; exact dates vary annually",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Selby Wynn Schwartz",
+          "title": "After Sappho"
+        },
+        {
+          "author": "Ani Kayode Somtochukwu",
+          "title": "And Then He Sang a Lullaby"
+        },
+        {
+          "author": "Chloe Chun Seim",
+          "title": "Churn: A Novel in Stories"
+        },
+        {
+          "author": "C. E. McGill",
+          "title": "Our Hideous Progeny"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Wallace Stevens Award",
+    "registration_url": "https://poets.org/academy-american-poets/prizes/wallace-stevens-award",
+    "categories": [
+      "Lifetime Achievement in Poetry"
+    ],
+    "organization": "Academy of American Poets",
+    "enriched_data": {
+      "registrationUrl": "Not specified for the Wallace Stevens Award",
+      "categories": [
+        "Poetry"
+      ],
+      "organization": "University of Connecticut",
+      "lastWinningBooks": [
+        {
+          "author": "Not specified",
+          "title": "Not specified",
+          "publishingYear": "Not specified",
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        }
+      ],
+      "latestDateOfSubmission": "Not specified for the Wallace Stevens Award",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not specified",
+          "title": "Not specified"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Walt Whitman Award",
+    "registration_url": "https://poets.org/academy-american-poets/prizes/walt-whitman-award",
+    "categories": [
+      "First Book of Poetry"
+    ],
+    "organization": "Academy of American Poets",
+    "enriched_data": {
+      "registrationUrl": "https://submittable.com/submit",
+      "categories": [
+        "First Book of Poetry"
+      ],
+      "organization": "Academy of American Poets",
+      "lastWinningBooks": [
+        {
+          "author": "Not specified in search results",
+          "title": "Not specified in search results",
+          "publishingYear": "Not specified in search results",
+          "publisher": "Not specified in search results",
+          "isbn": "Not specified in search results",
+          "link": "Not specified in search results"
+        }
+      ],
+      "latestDateOfSubmission": "Not specified in search results",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not specified in search results",
+          "title": "Not specified in search results"
+        },
+        {
+          "author": "Not specified in search results",
+          "title": "Not specified in search results"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Walter Dean Myers Award",
+    "registration_url": "",
+    "categories": [],
+    "organization": "",
+    "enriched_data": {
+      "registrationUrl": "https://diversebooks.org/programs/walter-awards/",
+      "categories": [
+        "Teen",
+        "Younger Readers"
+      ],
+      "organization": "We Need Diverse Books",
+      "lastWinningBooks": [
+        {
+          "author": "Not specified in search results",
+          "title": "Not specified in search results",
+          "publishingYear": "Not specified in search results",
+          "publisher": "Not specified in search results",
+          "isbn": "Not specified in search results",
+          "link": "Not specified in search results"
+        }
+      ],
+      "latestDateOfSubmission": "2023-11-15",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not specified in search results",
+          "title": "Not specified in search results"
+        },
+        {
+          "author": "Not specified in search results",
+          "title": "Not specified in search results"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Western Heritage Awards",
+    "registration_url": "https://nationalcowboymuseum.org/western-heritage-awards/",
+    "categories": [
+      "Western Novel",
+      "Nonfiction Book",
+      "Art Book",
+      "Photography Book",
+      "Juvenile Book",
+      "Poetry Book"
+    ],
+    "organization": "National Cowboy & Western Heritage Museum",
+    "enriched_data": {
+      "registrationUrl": "https://nationalcowboymuseum.org/western-heritage-awards/call-for-entries-2024/",
+      "categories": [
+        "Western Novel",
+        "Nonfiction Book",
+        "Photography or Art Book",
+        "Juvenile Book",
+        "Magazine or Journal Article",
+        "Poetry Book"
+      ],
+      "organization": "National Cowboy & Western Heritage Museum",
+      "lastWinningBooks": [
+        {
+          "author": "Not Available",
+          "title": "Not Available",
+          "publishingYear": "Not Available",
+          "publisher": "Not Available",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        }
+      ],
+      "latestDateOfSubmission": "2024-11-30",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        },
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Whiting Awards",
+    "registration_url": "https://www.whiting.org/awards/about",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Poetry",
+      "Drama"
+    ],
+    "organization": "Whiting Foundation",
+    "enriched_data": {
+      "registrationUrl": "Not applicable for Whiting Awards",
+      "categories": [
+        "Fiction",
+        "Non-Fiction",
+        "Poetry",
+        "Drama"
+      ],
+      "organization": "Mrs. Giles Whiting Foundation",
+      "lastWinningBooks": [
+        {
+          "author": "Aaliyah Bilal",
+          "title": "Not specified",
+          "publishingYear": "Not specified",
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Yoon Choi",
+          "title": "Not specified",
+          "publishingYear": "Not specified",
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Gothataone Moeng",
+          "title": "Not specified",
+          "publishingYear": "Not specified",
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Ada Zhang",
+          "title": "Not specified",
+          "publishingYear": "Not specified",
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Shayok Misha Chowdhury",
+          "title": "Not specified",
+          "publishingYear": "Not specified",
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Frances Ya-Chu Cowhig",
+          "title": "Not specified",
+          "publishingYear": "Not specified",
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Javier Zamora",
+          "title": "Not specified",
+          "publishingYear": "Not specified",
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Elisa Gonzalez",
+          "title": "Not specified",
+          "publishingYear": "Not specified",
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Taylor Johnson",
+          "title": "Not specified",
+          "publishingYear": "Not specified",
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Charif Shanahan",
+          "title": "Not specified",
+          "publishingYear": "Not specified",
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        }
+      ],
+      "latestDateOfSubmission": "Not applicable for Whiting Awards",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not specified",
+          "title": "Not specified"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Willie Morris Award",
+    "registration_url": "",
+    "categories": [],
+    "organization": "",
+    "enriched_data": {
+      "registrationUrl": "https://www.creativewritingnews.com/the-willie-morris-awards-for-southern-writing-how-to-apply3000-12000/",
+      "categories": [
+        "Fiction",
+        "Non-Fiction",
+        "Poetry"
+      ],
+      "organization": "University of Mississippi",
+      "lastWinningBooks": [
+        {
+          "author": "Not Available",
+          "title": "Not Available",
+          "publishingYear": "Not Available",
+          "publisher": "Not Available",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        }
+      ],
+      "latestDateOfSubmission": "2023-09-30",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        },
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Willie Morris Award for Southern Fiction",
+    "registration_url": "https://libarts.olemiss.edu/willie-morris-award/",
+    "categories": [
+      "Southern Fiction"
+    ],
+    "organization": "University of Mississippi",
+    "enriched_data": {
+      "registrationUrl": "https://www.williemorrisawards.org/submissions",
+      "categories": [
+        "Fiction",
+        "Non-Fiction",
+        "Poetry"
+      ],
+      "organization": "University of Mississippi's Department of Writing & Rhetoric",
+      "lastWinningBooks": [
+        {
+          "author": "Not specified in the search results",
+          "title": "Not specified in the search results",
+          "publishingYear": "Not specified in the search results",
+          "publisher": "Not specified in the search results",
+          "isbn": "Not specified in the search results",
+          "link": "Not specified in the search results"
+        }
+      ],
+      "latestDateOfSubmission": "2025-09-30",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not specified in the search results",
+          "title": "Not specified in the search results"
+        },
+        {
+          "author": "Not specified in the search results",
+          "title": "Not specified in the search results"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Women's Prize for Fiction",
+    "registration_url": "",
+    "categories": [],
+    "organization": "",
+    "enriched_data": {
+      "registrationUrl": "https://www.womensprize.com/prizes/womens-prize-for-fiction/",
+      "categories": [
+        "Fiction"
+      ],
+      "organization": "Women's Prize for Fiction",
+      "lastWinningBooks": [
+        {
+          "author": "V. V. Ganeshananthan",
+          "title": "Brotherless Night",
+          "publishingYear": 2023,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Barbara Kingsolver",
+          "title": "Demon Copperhead",
+          "publishingYear": 2022,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Ruth Ozeki",
+          "title": "The Book of Form & Emptiness",
+          "publishingYear": 2021,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        }
+      ],
+      "latestDateOfSubmission": "Not specified",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not specified",
+          "title": "Not specified"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Women's Prize for Fiction (U.S. Component)",
+    "registration_url": "https://www.womensprizeforfiction.co.uk/enter",
+    "categories": [
+      "Fiction by Women"
+    ],
+    "organization": "Women's Prize Trust",
+    "enriched_data": {
+      "registrationUrl": "https://womensprize.com/prizes/womens-prize-for-fiction/",
+      "categories": [
+        "Fiction"
+      ],
+      "organization": "Women's Prize for Fiction",
+      "lastWinningBooks": [
+        {
+          "author": "V. V. Ganeshananthan",
+          "title": "Brotherless Night",
+          "publishingYear": 2023,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "https://womensprize.com/prizes/womens-prize-for-fiction/"
+        },
+        {
+          "author": "Barbara Kingsolver",
+          "title": "Demon Copperhead",
+          "publishingYear": 2022,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "https://womensprize.com/prizes/womens-prize-for-fiction/"
+        },
+        {
+          "author": "Ruth Ozeki",
+          "title": "The Book of Form & Emptiness",
+          "publishingYear": 2021,
+          "publisher": "Not specified",
+          "isbn": "Not specified",
+          "link": "https://womensprize.com/prizes/womens-prize-for-fiction/"
+        }
+      ],
+      "latestDateOfSubmission": "Not specified",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Aube Rey Lescure",
+          "title": "River East, River West"
+        },
+        {
+          "author": "Anne Enright",
+          "title": "The Wren, The Wren"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "World Fantasy Awards",
+    "registration_url": "https://www.worldfantasy.org/awards/",
+    "categories": [
+      "Novel",
+      "Novella",
+      "Short Fiction",
+      "Collection",
+      "Anthology",
+      "Artist",
+      "Special Award"
+    ],
+    "organization": "World Fantasy Convention",
+    "enriched_data": {
+      "registrationUrl": "http://www.WFC2024.org/",
+      "categories": [
+        "Novel",
+        "Novella",
+        "Short Fiction",
+        "Collection",
+        "Anthology",
+        "Artist",
+        "Special Award—Professional",
+        "Special Award—Non-professional",
+        "Convention Award",
+        "Life Achievement"
+      ],
+      "organization": "World Fantasy Convention Board",
+      "lastWinningBooks": [
+        {
+          "author": "Jenn Lyons",
+          "title": "The House of Shattered Wings",
+          "publishingYear": 2023,
+          "publisher": "Tor Books",
+          "isbn": "9781250868706",
+          "link": "https://www.tor.com/books/the-house-of-shattered-wings-jenn-lyons/"
+        },
+        {
+          "author": "Caitlín R. Kiernan",
+          "title": "The Tindalos Asset",
+          "publishingYear": 2023,
+          "publisher": "Subterranean Press",
+          "isbn": "9781647101426",
+          "link": "https://www.subterraneanpress.com/the-tindalos-asset"
+        }
+      ],
+      "latestDateOfSubmission": "2025-06-01",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Neil Gaiman",
+          "title": "The Annotated American Gods"
+        },
+        {
+          "author": "N.K. Jemisin",
+          "title": "The City We Became"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "Writing Award",
+    "registration_url": "",
+    "categories": [],
+    "organization": "",
+    "enriched_data": {
+      "registrationUrl": "https://www.writersdigest.com/writers-digest-competitions/annual-writing-competition",
+      "categories": [
+        "Inspirational/Spiritual",
+        "Memoirs/Personal Essay",
+        "Nonfiction Essay or Article",
+        "Genre Short Story (Mystery, Romance, etc.)",
+        "Mainstream/Literary Short Story",
+        "Rhyming Poetry",
+        "Non-rhyming Poetry",
+        "Humor",
+        "Children’s/Young Adult Fiction"
+      ],
+      "organization": "Writer's Digest",
+      "lastWinningBooks": [
+        {
+          "author": "Not Available",
+          "title": "Not Available",
+          "publishingYear": "Not Available",
+          "publisher": "Not Available",
+          "isbn": "Not Available",
+          "link": "Not Available"
+        }
+      ],
+      "latestDateOfSubmission": "2024-05-06",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        },
+        {
+          "author": "Not Available",
+          "title": "Not Available"
+        }
+      ]
+    }
+  },
+  {
+    "award_name": "YALSA Award for Excellence in Nonfiction",
+    "registration_url": "http://www.ala.org/yalsa/nonfiction-award",
+    "categories": [
+      "Young Adult Nonfiction"
+    ],
+    "organization": "Young Adult Library Services Association",
+    "enriched_data": {
+      "registrationUrl": "https://www.ala.org/yalsa/nonfiction-award-suggestion-form",
+      "categories": [
+        "Nonfiction",
+        "Graphic Nonfiction",
+        "Memoirs",
+        "Biographies",
+        "History",
+        "Science",
+        "Current Events"
+      ],
+      "organization": "Young Adult Library Services Association (YALSA)",
+      "lastWinningBooks": [
+        {
+          "author": "Paula Yoo",
+          "title": "Rising from the Ashes: Los Angeles, 1992. Edward Jae Song Lee, Latasha Harlins, Rodney King, and a City on Fire",
+          "publishingYear": 2024,
+          "publisher": "Norton Young Readers, an imprint of W.W. Norton & Company",
+          "isbn": "Not specified",
+          "link": "Not specified"
+        },
+        {
+          "author": "Dashka Slater",
+          "title": "Accountable: The True Story of a Racist Social Media Account and the Teenagers Whose Lives It Changed",
+          "publishingYear": 2023,
+          "publisher": "Farrar Straus Giroux Books for Young Readers, an imprint of Macmillan Children’s Publishing Group",
+          "isbn": "9780374314347",
+          "link": "Not specified"
+        }
+      ],
+      "latestDateOfSubmission": "2024-11-01",
+      "possibleStrongestCompetitionThisYear": [
+        {
+          "author": "Elizabeth Rusch",
+          "title": "A Greater Goal: The Epic Battle for Equal Pay in Women's Soccer—and Beyond"
+        },
+        {
+          "author": "Theo Parish",
+          "title": "Homebody"
+        },
+        {
+          "author": "Candy J. Cooper",
+          "title": "Shackled: A Tale of Wronged Kids, Rogue Judges, and a Town that Looked Away"
+        }
+      ]
+    }
   }
 ]
