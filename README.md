@@ -288,113 +288,22 @@ For optimal data structure in Airtable:
 - **Date fields**: Award dates, submission deadlines
 - **Long text fields**: Extended descriptions, eligibility details
 
-### Working Directly with Airtable API
+### Read Airtable Awards Script Details
 
-For more advanced Airtable integration, you can use the Airtable Python API directly:
+The `read_airtable_awards.py` script is a powerful tool for extracting award data from your Airtable base. It implements full pagination support to retrieve all records, regardless of how many there are (Airtable's API limits each page to 100 records).
 
-1. **Install the Airtable Python wrapper**:
+#### How It Works
 
-   ```bash
-   pip install pyairtable
-   ```
+The script connects to the Airtable API and retrieves all records from a specified table, extracting the award names from a specified field. The script handles pagination automatically, making multiple API requests as needed to retrieve all records.
 
-2. **Read data from Airtable**:
+- Airtable API key
+- Airtable base ID
 
-   ```python
-   from pyairtable import Table
-   import os
-   from dotenv import load_dotenv
-   
-   # Load API key from .env file
-   load_dotenv()
-   api_key = os.getenv("AIRTABLE_API_KEY")
-   
-   # Connect to your table
-   base_id = "appNLda8uMnN5ZJPb"  # Your base ID
-   table_name = "Awards Overview"  # Your table name
-   table = Table(api_key, base_id, table_name)
-   
-   # Fetch all records
-   records = table.all()
-   
-   # Process records
-   for record in records:
-       award_name = record['fields'].get('Award Name', 'Unknown')
-       print(f"Processing: {award_name}")
-   ```
-
-3. **Create new records in Airtable**:
-
-   ```python
-   # Create a new record
-   new_record = {
-       "Award Name": "Hugo Award",
-       "Organization": "World Science Fiction Society",
-       "Website": "https://www.thehugoawards.org/",
-       "Description": "Annual awards for science fiction and fantasy works"
-   }
-   
-   created_record = table.create(new_record)
-   print(f"Created record ID: {created_record['id']}")
-   ```
-
-4. **Update existing records**:
-
-   ```python
-   # Update a record
-   record_id = "rec123456789"  # ID of the record to update
-   updated_data = {
-       "Last Updated": "2025-03-18",
-       "Status": "Verified"
-   }
-   
-   table.update(record_id, updated_data)
-   ```
-
-5. **Query with filtering**:
-
-   ```python
-   # Get records with formula filtering
-   sci_fi_awards = table.all(formula="FIND('science fiction', {Categories})")
-   print(f"Found {len(sci_fi_awards)} science fiction awards")
-   ```
-
-### Airtable Best Practices
-
-#### Organizing Your Book Awards Base
-
-Consider structuring your Airtable base with these tables:
-
-- **Awards Overview**: Main table with award names and basic information
-- **Categories**: Linked table for award categories with one-to-many relationship
-- **Winning Books**: Linked table for winning books with details
-- **Submission Requirements**: Linked table for eligibility criteria
-
-#### Using Views Effectively
-
-Create different views in Airtable to manage your awards data:
-
-- **Grid view**: For complete data review and editing
-- **Calendar view**: For tracking submission deadlines and award ceremonies
-- **Kanban view**: For tracking award processing status
-- **Form view**: For collaborators to add new award information
-
-#### Automations Within Airtable
-
-Use Airtable's built-in automation features:
-
-- Set up notifications for upcoming deadlines
-- Auto-populate fields based on criteria
-- Create records in linked tables automatically
-- Send email notifications when new awards are added
-
-#### Bidirectional Data Flow
-
-Create a complete data workflow:
+The `read_airtable_awards.py` script supports a complete bidirectional workflow:
 
 1. **Extract data** from Airtable using `read_airtable_awards.py`
 2. **Process and enrich** the data with the Perplexity API
 3. **Transform to Excel** for review and modifications
-4. **Import back to Airtable** to update or create new records
+4. **Import back to Airtable** for data persistence
 
 This creates a powerful cycle where data can flow between systems while maintaining data integrity.
