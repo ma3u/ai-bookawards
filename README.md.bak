@@ -88,6 +88,59 @@ python transformJSON2excel.py
 python read_airtable_awards.py
 ```
 
+## 5. Read from Airtable
+
+The `read_airtable_awards.py` script extracts award names from your Airtable database and saves them to a JSON file.
+
+### Script Features
+
+- Connects to Airtable using your API key
+- Extracts award names from a specified table and field
+- Saves the data as a structured JSON file
+- Shows all award entries in the output
+- Supports quiet mode for use in automated workflows
+
+### Airtable Script Usage
+
+```bash
+python read_airtable_awards.py [options]
+```
+
+### Airtable Command Line Options
+
+| Option | Description |
+|--------|-------------|
+| `-k`, `--api-key` | Airtable API key (will use AIRTABLE_API_KEY from .env file if not provided) |
+| `-b`, `--base-id` | Airtable base ID (default: appNLda8uMnN5ZJPb) |
+| `-t`, `--table-name` | Table name to read from (default: Awards Overview) |
+| `-f`, `--field-name` | Field name to extract (default: Award Name) |
+| `-o`, `--output` | Output JSON file path (default: airtable_awards.json) |
+| `-q`, `--quiet` | Suppress verbose output |
+
+### Airtable Script Examples
+
+```bash
+# Use default settings
+python read_airtable_awards.py
+
+# Specify custom table and field
+python read_airtable_awards.py --table-name "My Table" --field-name "Award Title"
+
+# Use in automated workflows
+python read_airtable_awards.py --quiet
+```
+
+The script will output a JSON file containing the award names, which can be used in subsequent steps of the workflow. The script now displays all award entries in the console output, making it easier to verify the data.
+
+#### Troubleshooting
+
+If the script fails to retrieve data:
+
+1. Verify your API key is correct
+2. Confirm the base ID matches your Airtable base
+3. Check that the table name and field name exactly match what's in your Airtable base
+4. Try running with different options as suggested in the error message
+
 ## 1. Merge JSON Files
 
 The `merge_json_files.py` script combines two JSON files containing book award data.
@@ -171,13 +224,13 @@ python transformJSON2excel.py [options]
 python transformJSON2excel.py
 ```
 
-2. Use a custom input JSON file and output Excel file:
+1. Use a custom input JSON file and output Excel file:
 
 ```bash
 python transformJSON2excel.py --input custom_enriched_awards.json --output custom_bookawards.xlsx
 ```
 
-3. Display help and available options:
+1. Display help and available options:
 
 ```bash
 python transformJSON2excel.py --help
@@ -220,59 +273,6 @@ For optimal data structure in Airtable:
 - **Number fields**: Years, counts
 - **Date fields**: Award dates, submission deadlines
 - **Long text fields**: Extended descriptions, eligibility details
-
-## 5. Read from Airtable
-
-The `read_airtable_awards.py` script extracts award names from your Airtable database and saves them to a JSON file.
-
-### Script Features
-
-- Connects to Airtable using your API key
-- Extracts award names from a specified table and field
-- Saves the data as a structured JSON file
-- Shows all award entries in the output
-- Supports quiet mode for use in automated workflows
-
-### Airtable Script Usage
-
-```bash
-python read_airtable_awards.py [options]
-```
-
-### Airtable Command Line Options
-
-| Option | Description |
-|--------|-------------|
-| `-k`, `--api-key` | Airtable API key (will use AIRTABLE_API_KEY from .env file if not provided) |
-| `-b`, `--base-id` | Airtable base ID (default: appNLda8uMnN5ZJPb) |
-| `-t`, `--table-name` | Table name to read from (default: Awards Overview) |
-| `-f`, `--field-name` | Field name to extract (default: Award Name) |
-| `-o`, `--output` | Output JSON file path (default: airtable_awards.json) |
-| `-q`, `--quiet` | Suppress verbose output |
-
-### Airtable Script Examples
-
-```bash
-# Use default settings
-python read_airtable_awards.py
-
-# Specify custom table and field
-python read_airtable_awards.py --table-name "My Table" --field-name "Award Title"
-
-# Use in automated workflows
-python read_airtable_awards.py --quiet
-```
-
-The script will output a JSON file containing the award names, which can be used in subsequent steps of the workflow. The script now displays all award entries in the console output, making it easier to verify the data.
-
-#### Troubleshooting
-
-If the script fails to retrieve data:
-
-1. Verify your API key is correct
-2. Confirm the base ID matches your Airtable base
-3. Check that the table name and field name exactly match what's in your Airtable base
-4. Try running with different options as suggested in the error message
 
 ### Read Airtable Awards Script Details
 
