@@ -23,7 +23,7 @@ def parse_arguments() -> argparse.Namespace:
         argparse.Namespace: Parsed command line arguments
     """
     parser = argparse.ArgumentParser(
-        description="Read award names from Airtable base and save to JSON"
+        description="Read award names and categories from Airtable base and save to JSON"
     )
     
     parser.add_argument(
@@ -50,7 +50,14 @@ def parse_arguments() -> argparse.Namespace:
         '--field-name', '-f',
         type=str,
         default='Award Name',
-        help='Field name to extract (default: Award Name)'
+        help='Field name for award names (default: Award Name)'
+    )
+    
+    parser.add_argument(
+        '--category-field', '-c',
+        type=str,
+        default='Categories',
+        help='Field name for award categories (default: Categories)'
     )
     
     parser.add_argument(
@@ -95,7 +102,7 @@ def get_api_key(args: argparse.Namespace) -> str:
     raise ValueError("No Airtable API key provided. Please set AIRTABLE_API_KEY in .env file or use --api-key")
 
 
-def read_airtable_award_names(api_key: str, base_id: str, table_name: str, field_name: str, verbose: bool = True) -> List[str]:
+def read_airtable_award_names(api_key: str, base_id: str, table_name: str, field_name: str, category_field: str, verbose: bool = True) -> Dict[str, Dict[str, Any]]:
     """
 Read award names from Airtable, handling pagination to get all records
     
@@ -138,7 +145,7 @@ Read award names from Airtable, handling pagination to get all records
                 if verbose:
                     print(f"Error: HTTP {response.status_code}")
                     print(response.text)
-                return []
+                return {}
             
             data = response.json()
             page_records = data.get('records', [])
@@ -149,35 +156,51 @@ Read award names from Airtable, handling pagination to get all records
             if not offset:
                 break
         
-        # Extract award names from all records
-        award_names = []
+        # Extract award names and categories from all records
+        awards_data = {}
         for record in all_records:
             if 'fields' in record and field_name in record['fields']:
-                award_names.append(record['fields'][field_name])
+                award_name = record['fields'][field_name]
+                
+                # Get categories if available
+                categories = []
+                if category_field in record['fields']:
+                    # Categories might be a string or a list in Airtable
+                    cat_data = record['fields'][category_field]
+                    if isinstance(cat_data, list):
+                        categories = cat_data
+                    elif isinstance(cat_data, str):
+                        categories = [cat.strip() for cat in cat_data.split(',')]
+                    
+                awards_data[award_name] = {
+                    "name": award_name,
+                    "categories": categories,
+                    "record_id": record.get('id', '')
+                }
         
         if verbose:
-            print(f"Successfully read {len(award_names)} award names from Airtable (from {len(all_records)} total records)")
-        return award_names
+            print(f"Successfully read {len(awards_data)} awards from Airtable (from {len(all_records)} total records)")
+        return awards_data
     
     except requests.exceptions.Timeout:
         if verbose:
             print("Error: Connection to Airtable timed out")
-        return []
+        return {}
     except requests.exceptions.ConnectionError:
         if verbose:
             print("Error: Failed to connect to Airtable")
-        return []
+        return {}
     except Exception as e:
         if verbose:
             print(f"Error reading from Airtable: {str(e)}")
-        return []
+        return {}
 
 
-def save_to_json(data: List[str], output_file: str, verbose: bool = True) -> bool:
+def save_to_json(data: Dict[str, Dict[str, Any]], output_file: str, verbose: bool = True) -> bool:
     """Save data to JSON file
     
     Args:
-        data: Data to save
+        data: Award data dictionary to save
         output_file: Path to output file
         verbose: Whether to print status messages
         
@@ -257,45 +280,52 @@ def main():
         print(f"Using Airtable API key: {api_key[:5]}...{api_key[-5:]}")
         print(f"Using Airtable base ID: {args.base_id}")
         print(f"Table name: {args.table_name}")
-        print(f"Field name: {args.field_name}")
+        print(f"Award field name: {args.field_name}")
+        print(f"Category field name: {args.category_field}")
         print(f"Output file: {args.output}")
     
     # Try to read from the base ID
     if verbose:
         print(f"\nAttempting to read from base: {args.base_id}")
     
-    award_names = read_airtable_award_names(
+    awards_data = read_airtable_award_names(
         api_key=api_key,
         base_id=args.base_id,
         table_name=args.table_name,
         field_name=args.field_name,
+        category_field=args.category_field,
         verbose=verbose
     )
     
     # If failed, provide a simple error message without interactive troubleshooting
-    if not award_names and verbose:
-        print("\nFailed to read award names. This could be due to:")
+    if not awards_data and verbose:
+        print("\nFailed to read award data. This could be due to:")
         print("  1. The API key doesn't have access to this base")
         print("  2. The table name might be different than expected")
-        print("  3. The field name might be different than expected")
+        print("  3. The field name or category field name might be different than expected")
         print("\nTry running the script with different options:")
-        print("  python read_airtable_awards.py --table-name \"TABLE_NAME\" --field-name \"FIELD_NAME\"")
+        print("  python read_airtable_awards.py --table-name \"TABLE_NAME\" --field-name \"FIELD_NAME\" --category-field \"CATEGORY_FIELD\"")
     
     # Save results if we have any
-    if award_names:
-        success = save_to_json(award_names, args.output, verbose=verbose)
+    if awards_data:
+        success = save_to_json(awards_data, args.output, verbose=verbose)
         if not success:
             sys.exit(1)
             
         if verbose:
-            print(f"Total awards found: {len(award_names)}")
-            # Print all award names
-            if award_names:
-                print("\nAll award names:")
-                for i, name in enumerate(award_names):
-                    print(f"  {i+1}. {name}")
+            print(f"Total awards found: {len(awards_data)}")
+            # Print all award names with their categories
+            if awards_data:
+                print("\nAll awards with categories:")
+                for i, (award_name, award_info) in enumerate(awards_data.items()):
+                    categories = award_info.get('categories', [])
+                    if categories:
+                        category_text = ", ".join(categories)
+                        print(f"  {i+1}. {award_name} - Categories: {category_text}")
+                    else:
+                        print(f"  {i+1}. {award_name} - No categories found")
     elif verbose:
-        print("\nNo award names were retrieved. Please check your Airtable credentials and base information.")
+        print("\nNo award data was retrieved. Please check your Airtable credentials and base information.")
         sys.exit(1)
     
 

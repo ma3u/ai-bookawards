@@ -1,153 +1,1316 @@
-[
-  "Hugo Award",
-  "Andrew Carnegie Medal for Excellence",
-  "World Fantasy Awards",
-  "Tomás Rivera Mexican American Children's Book Award",
-  "Dublin Literary Award",
-  "Edgar Allan Poe Awards",
-  "Ruth Lilly Poetry Prize",
-  "Lincoln Prize",
-  "Printz Award",
-  "Nebula Prize",
-  "Lenore Marshall Poetry Prize",
-  "Edgar Award",
-  "Lambda Literary Award",
-  "Thriller Awards",
-  "National Book Critics Circle Award",
-  "National Book Critics Circle Awards",
-  "Hugo Awards",
-  "PEN/Hemingway Award",
-  "Independent Publisher Book Awards (IPBA)",
-  "PEN Award",
-  "Margaret A. Edwards Award",
-  "Robert F. Sibert Informational Book Medal",
-  "Coretta Scott King Book Awards",
-  "PEN/Faulkner Award",
-  "INDIES Editor's Choice Award",
-  "John W. Campbell Memorial Award",
-  "National Translation Award",
-  "Whiting Awards",
-  "PEN/Diamonstein-Spielvogel Award",
-  "Marfield Prize",
-  "Agatha Awards",
-  "Pushcart Prize",
-  "Otherwise Award",
-  "Walt Whitman Award",
-  "Caldecott",
-  "Philip K. Dick Award",
-  "YALSA Award for Excellence in Nonfiction",
-  "Western Heritage Awards",
-  "Firecracker Award",
-  "NAACP Image Awards (Literary)",
-  "Scott O'Dell Award for Historical Fiction",
-  "Balcones Fiction Prize",
-  "The Center for Fiction First Novel Prize",
-  "IACP Cookbook Awards",
-  "Science + Literature Selected Title",
-  "Willie Morris Award",
-  "National Indie Excellence Awards",
-  "Cundill History Prize",
-  "Griffin Poetry Prize (U.S. component)",
-  "PEN America Literary Awards",
-  "American Book Award",
-  "Prometheus Award",
-  "National Outdoor Book Awards",
-  "IPPY Awards",
-  "Writing Award",
-  "Academy of American Poets Prizes",
-  "Caldecott Medal",
-  "Locus Awards",
-  "ForeWord INDIES Book of the Year",
-  "Next Generation Indie Book Awards",
-  "Ferro-Grumley Award",
-  "Giller Prize",
-  "Chautauqua Prize",
-  "Los Angeles Times Book Prize",
-  "Charlotte Zolotow Award",
-  "Janet Heidinger Kafka Prize",
-  "Women's Prize for Fiction (U.S. Component)",
-  "Walter Dean Myers Award",
-  "Spur Awards",
-  "Bancroft Prize",
-  "James Laughlin Award",
-  "Kate Tufts Discovery Award",
-  "National Jewish Book Awards",
-  "Aspen Words Literary Prize",
-  "Booker Prize",
-  "Flannery O'Connor Award for Short Fiction",
-  "Nautilus Book Awards",
-  "American Book Awards",
-  "Katherine Anne Porter Prize",
-  "Wallace Stevens Award",
-  "Kingsley Tufts Poetry Award",
-  "Macavity Awards",
-  "The Best American Series",
-  "Frederick Douglass Prize",
-  "Triangle Award",
-  "Shirley Jackson Awards",
-  "Pura Belpré Award",
-  "First Novel Prize (from The Center)",
-  "Mark Twain Prize for American Humor",
-  "Nebula Awards",
-  "Orbis Pictus Award",
-  "Benjamin Franklin Awards",
-  "PEN/Faulkner Award for Fiction",
-  "Cave Canem Poetry Prize",
-  "Pulitzer Prize",
-  "Theodore Sturgeon Memorial Award",
-  "James Beard Foundation Book Awards",
-  "O. Henry Prize",
-  "Women's Prize for Fiction",
-  "Mythopoeic Awards",
-  "AWP Award Series",
-  "Hayek Book Prize",
-  "Shamus Awards",
-  "Ernest J. Gaines Award for Literary Excellence",
-  "Christopher Award",
-  "Michael L. Printz Award",
-  "Anisfield-Wolf Book Awards",
-  "Asian/Pacific American Award for Literature",
-  "The Believer Book Award",
-  "Arthur C. Clarke Award",
-  "Goldsmiths Prize",
-  "LA Times Book Prize",
-  "Newberry Medal",
-  "Story Prize",
-  "Arab American Book Award",
-  "The Story Prize",
-  "Believer Book Award",
-  "Lambda Literary Awards",
-  "Iowa Short Fiction Award",
-  "NCTE Award for Excellence in Poetry for Children",
-  "Anthony Awards",
-  "E.B. White Read Aloud Award",
-  "T.S. Eliot Prize (U.S. component)",
-  "International Booker Prize",
-  "Phoenix Award",
-  "Willie Morris Award for Southern Fiction",
-  "Eugene and Marilyn Glick Indiana Authors Award",
-  "Hurston/Wright Legacy Award",
-  "John Burroughs Medal",
-  "Boston Globe-Horn Book Award",
-  "American Indian Youth Literature Award",
-  "PEN/Robert W. Bingham Prize",
-  "Langston Hughes Medal",
-  "Albertine Prize",
-  "Bram Stoker Awards",
-  "Francis Parkman Prize",
-  "Newbery Medal",
-  "Theodor Seuss Geisel Award",
-  "Dayton Literary Peace Prize",
-  "Neustadt Prize",
-  "Southern Book Prize",
-  "Library of Congress Prize",
-  "Carnegie Medal",
-  "Kirkus Prize",
-  "Schneider Family Book Award",
-  "Jane Addams Children's Book Award",
-  "Nobel Prize",
-  "Cercador Prize",
-  "Eric Hoffer Book Award",
-  "National Book Award",
-  "Joyce Carol Oates Prize"
-]
+{
+  "Hugo Award": {
+    "name": "Hugo Award",
+    "categories": [],
+    "record_id": "rec1NqQjoHVjEjJh1"
+  },
+  "Andrew Carnegie Medal for Excellence": {
+    "name": "Andrew Carnegie Medal for Excellence",
+    "categories": [
+      "Fiction",
+      "Nonfiction"
+    ],
+    "record_id": "rec1fGLMfFBDmfOg6"
+  },
+  "World Fantasy Awards": {
+    "name": "World Fantasy Awards",
+    "categories": [
+      "Novel",
+      "Novella",
+      "Short Fiction",
+      "Collection",
+      "Anthology",
+      "Artist",
+      "Special Award"
+    ],
+    "record_id": "rec1qBezrqVUaTZ7o"
+  },
+  "Tomás Rivera Mexican American Children's Book Award": {
+    "name": "Tomás Rivera Mexican American Children's Book Award",
+    "categories": [
+      "Works for Younger Readers",
+      "Works for Older Readers"
+    ],
+    "record_id": "rec1y8d3g2TDUxOFa"
+  },
+  "Dublin Literary Award": {
+    "name": "Dublin Literary Award",
+    "categories": [],
+    "record_id": "rec2uDANmK1RNKfXw"
+  },
+  "Edgar Allan Poe Awards": {
+    "name": "Edgar Allan Poe Awards",
+    "categories": [
+      "Best Novel",
+      "Best First Novel",
+      "Best Paperback Original",
+      "Best Fact Crime",
+      "Best Critical/Biographical",
+      "Best Short Story"
+    ],
+    "record_id": "rec33MAnWmNcezoAy"
+  },
+  "Ruth Lilly Poetry Prize": {
+    "name": "Ruth Lilly Poetry Prize",
+    "categories": [
+      "Lifetime Achievement in Poetry"
+    ],
+    "record_id": "rec34T8BAuCR0HYV6"
+  },
+  "Lincoln Prize": {
+    "name": "Lincoln Prize",
+    "categories": [
+      "American Civil War History"
+    ],
+    "record_id": "rec3KtP36ZfNuyygN"
+  },
+  "Printz Award": {
+    "name": "Printz Award",
+    "categories": [],
+    "record_id": "rec3NlnmryHgGtwT0"
+  },
+  "Nebula Prize": {
+    "name": "Nebula Prize",
+    "categories": [],
+    "record_id": "rec3t3zNk8fsgJDuL"
+  },
+  "Lenore Marshall Poetry Prize": {
+    "name": "Lenore Marshall Poetry Prize",
+    "categories": [
+      "Poetry Collection"
+    ],
+    "record_id": "rec4ehHmsv4z4F1Ar"
+  },
+  "Edgar Award": {
+    "name": "Edgar Award",
+    "categories": [],
+    "record_id": "rec4pUyMG1csyVZEj"
+  },
+  "Lambda Literary Award": {
+    "name": "Lambda Literary Award",
+    "categories": [],
+    "record_id": "rec4x8vrfhPxjFBBj"
+  },
+  "Thriller Awards": {
+    "name": "Thriller Awards",
+    "categories": [
+      "Best Hardcover Novel",
+      "Best Paperback Original Novel",
+      "Best First Novel",
+      "Best Short Story",
+      "Best Young Adult Novel",
+      "Best E-Book Original Novel"
+    ],
+    "record_id": "rec4y9kZWi3QliPLM"
+  },
+  "National Book Critics Circle Award": {
+    "name": "National Book Critics Circle Award",
+    "categories": [],
+    "record_id": "rec61zLuHwu17nKUk"
+  },
+  "National Book Critics Circle Awards": {
+    "name": "National Book Critics Circle Awards",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Biography",
+      "Autobiography",
+      "Poetry",
+      "Criticism"
+    ],
+    "record_id": "rec6LD8tKUNAMLdr6"
+  },
+  "Hugo Awards": {
+    "name": "Hugo Awards",
+    "categories": [
+      "Best Novel",
+      "Best Novella",
+      "Best Novelette",
+      "Best Short Story",
+      "Best Series",
+      "Best Graphic Story"
+    ],
+    "record_id": "rec6nTPq56YPR5oHP"
+  },
+  "PEN/Hemingway Award": {
+    "name": "PEN/Hemingway Award",
+    "categories": [
+      "Debut Novel"
+    ],
+    "record_id": "rec7S4PHtFVOzCExK"
+  },
+  "Independent Publisher Book Awards (IPBA)": {
+    "name": "Independent Publisher Book Awards (IPBA)",
+    "categories": [
+      "Over 85 Categories Including Regional and Subject Categories"
+    ],
+    "record_id": "rec7yKHHg6KIvaIAa"
+  },
+  "PEN Award": {
+    "name": "PEN Award",
+    "categories": [],
+    "record_id": "rec8KpPH2060nfEpu"
+  },
+  "Margaret A. Edwards Award": {
+    "name": "Margaret A. Edwards Award",
+    "categories": [
+      "Lifetime Contribution to Young Adult Literature"
+    ],
+    "record_id": "rec8TE6eb8FcfNyEH"
+  },
+  "Robert F. Sibert Informational Book Medal": {
+    "name": "Robert F. Sibert Informational Book Medal",
+    "categories": [
+      "Informational Books for Children"
+    ],
+    "record_id": "rec9a6jGgGN2jftyb"
+  },
+  "Coretta Scott King Book Awards": {
+    "name": "Coretta Scott King Book Awards",
+    "categories": [
+      "Author Award",
+      "Illustrator Award",
+      "John Steptoe Award for New Talent",
+      "Virginia Hamilton Award for Lifetime Achievement"
+    ],
+    "record_id": "rec9ibzAi9hlZZy0d"
+  },
+  "PEN/Faulkner Award": {
+    "name": "PEN/Faulkner Award",
+    "categories": [],
+    "record_id": "recA1vgUIUq8MeITt"
+  },
+  "INDIES Editor's Choice Award": {
+    "name": "INDIES Editor's Choice Award",
+    "categories": [],
+    "record_id": "recAFmfiwnZ4M9FBp"
+  },
+  "John W. Campbell Memorial Award": {
+    "name": "John W. Campbell Memorial Award",
+    "categories": [
+      "Best Science Fiction Novel"
+    ],
+    "record_id": "recAakHVml6edevXk"
+  },
+  "National Translation Award": {
+    "name": "National Translation Award",
+    "categories": [
+      "Poetry",
+      "Prose"
+    ],
+    "record_id": "recAoU3UUClslNEde"
+  },
+  "Whiting Awards": {
+    "name": "Whiting Awards",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Poetry",
+      "Drama"
+    ],
+    "record_id": "recBONd4IsSZxT4j9"
+  },
+  "PEN/Diamonstein-Spielvogel Award": {
+    "name": "PEN/Diamonstein-Spielvogel Award",
+    "categories": [
+      "Art of the Essay"
+    ],
+    "record_id": "recBmwA0ymhAA04UV"
+  },
+  "Marfield Prize": {
+    "name": "Marfield Prize",
+    "categories": [
+      "Arts Writing"
+    ],
+    "record_id": "recC9WnBPsVP5QUHo"
+  },
+  "Agatha Awards": {
+    "name": "Agatha Awards",
+    "categories": [
+      "Best Contemporary Novel",
+      "Best Historical Novel",
+      "Best First Novel",
+      "Best Short Story",
+      "Best Nonfiction",
+      "Best Children's/YA"
+    ],
+    "record_id": "recCprO50snQkMhZt"
+  },
+  "Pushcart Prize": {
+    "name": "Pushcart Prize",
+    "categories": [
+      "Poetry",
+      "Fiction",
+      "Essays",
+      "Memoirs"
+    ],
+    "record_id": "recDgMwxLDfnkM7e1"
+  },
+  "Otherwise Award": {
+    "name": "Otherwise Award",
+    "categories": [
+      "Science Fiction or Fantasy that Explores Gender"
+    ],
+    "record_id": "recDgZzurffsH7YhW"
+  },
+  "Walt Whitman Award": {
+    "name": "Walt Whitman Award",
+    "categories": [
+      "First Book of Poetry"
+    ],
+    "record_id": "recE7TEkhuJGf9lkj"
+  },
+  "Caldecott": {
+    "name": "Caldecott",
+    "categories": [],
+    "record_id": "recEcxWG4dFwglEwV"
+  },
+  "Philip K. Dick Award": {
+    "name": "Philip K. Dick Award",
+    "categories": [
+      "Distinguished Science Fiction Published in Paperback Original"
+    ],
+    "record_id": "recEfmBew4Qf2be0N"
+  },
+  "YALSA Award for Excellence in Nonfiction": {
+    "name": "YALSA Award for Excellence in Nonfiction",
+    "categories": [
+      "Young Adult Nonfiction"
+    ],
+    "record_id": "recEhUylyxTiYXYb4"
+  },
+  "Western Heritage Awards": {
+    "name": "Western Heritage Awards",
+    "categories": [
+      "Western Novel",
+      "Nonfiction Book",
+      "Art Book",
+      "Photography Book",
+      "Juvenile Book",
+      "Poetry Book"
+    ],
+    "record_id": "recFezKdoewEkYlQd"
+  },
+  "Firecracker Award": {
+    "name": "Firecracker Award",
+    "categories": [],
+    "record_id": "recHfFHEdZPqi4jKd"
+  },
+  "NAACP Image Awards (Literary)": {
+    "name": "NAACP Image Awards (Literary)",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Debut Author",
+      "Biography/Autobiography",
+      "Instructional",
+      "Poetry",
+      "Children",
+      "Youth/Teens"
+    ],
+    "record_id": "recIg1Qjmim1s8oVJ"
+  },
+  "Scott O'Dell Award for Historical Fiction": {
+    "name": "Scott O'Dell Award for Historical Fiction",
+    "categories": [
+      "Historical Fiction for Young Readers"
+    ],
+    "record_id": "recIuabCmqiD7PMLY"
+  },
+  "Balcones Fiction Prize": {
+    "name": "Balcones Fiction Prize",
+    "categories": [
+      "Fiction"
+    ],
+    "record_id": "recJ6Pe40ouoCRURD"
+  },
+  "The Center for Fiction First Novel Prize": {
+    "name": "The Center for Fiction First Novel Prize",
+    "categories": [
+      "First Novel"
+    ],
+    "record_id": "recJANN4pzndzYD7m"
+  },
+  "IACP Cookbook Awards": {
+    "name": "IACP Cookbook Awards",
+    "categories": [
+      "American",
+      "Baking",
+      "Beverage",
+      "Chefs and Restaurants",
+      "Children",
+      "Youth and Family",
+      "Compilations",
+      "Culinary Travel",
+      "Food Photography & Styling",
+      "Food Writing",
+      "General",
+      "Health & Special Diet",
+      "International",
+      "Reference & Technical",
+      "Single Subject"
+    ],
+    "record_id": "recJHqAXODPT4WEHU"
+  },
+  "Science + Literature Selected Title": {
+    "name": "Science + Literature Selected Title",
+    "categories": [],
+    "record_id": "recKlb04lXbX8hFnS"
+  },
+  "Willie Morris Award": {
+    "name": "Willie Morris Award",
+    "categories": [],
+    "record_id": "recKsbpJlK8AQKF1l"
+  },
+  "National Indie Excellence Awards": {
+    "name": "National Indie Excellence Awards",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Business",
+      "Self-Help",
+      "Health",
+      "Memoir",
+      "Poetry",
+      "Spirituality",
+      "Children's Books",
+      "Art",
+      "Photography",
+      "Coffee Table Books"
+    ],
+    "record_id": "recKuofFJ4GFZ4jVo"
+  },
+  "Cundill History Prize": {
+    "name": "Cundill History Prize",
+    "categories": [],
+    "record_id": "recLF2osYATWSfOMw"
+  },
+  "Griffin Poetry Prize (U.S. component)": {
+    "name": "Griffin Poetry Prize (U.S. component)",
+    "categories": [
+      "Poetry Collection"
+    ],
+    "record_id": "recLWyKrFGS6AbGn3"
+  },
+  "PEN America Literary Awards": {
+    "name": "PEN America Literary Awards",
+    "categories": [
+      "Fiction",
+      "Essay",
+      "Poetry",
+      "Biography",
+      "Science Writing",
+      "Translation",
+      "Debut Fiction"
+    ],
+    "record_id": "recMTr07Z0Yw9UxzA"
+  },
+  "American Book Award": {
+    "name": "American Book Award",
+    "categories": [],
+    "record_id": "recMXxfQ5100VmCoD"
+  },
+  "Prometheus Award": {
+    "name": "Prometheus Award",
+    "categories": [
+      "Best Novel",
+      "Hall of Fame"
+    ],
+    "record_id": "recNPSJbv6WAejZsw"
+  },
+  "National Outdoor Book Awards": {
+    "name": "National Outdoor Book Awards",
+    "categories": [
+      "History/Biography",
+      "Outdoor Literature",
+      "Natural History Literature",
+      "Children's",
+      "Design & Artistic Merit",
+      "Classic",
+      "Nature and Environment",
+      "Outdoor Adventure Guidebook",
+      "Instructional"
+    ],
+    "record_id": "recNRAEg73h2iHz0Y"
+  },
+  "IPPY Awards": {
+    "name": "IPPY Awards",
+    "categories": [
+      "Popular Fiction",
+      "Literary Fiction",
+      "Mystery/Suspense",
+      "Multicultural Fiction",
+      "Historical Fiction",
+      "Science Fiction",
+      "Fantasy",
+      "Horror",
+      "Young Adult Fiction",
+      "Juvenile Fiction",
+      "Biography",
+      "Autobiography/Memoir",
+      "History",
+      "Religion",
+      "Science",
+      "Business/Career",
+      "Self-Help",
+      "Health/Medicine",
+      "Sports/Fitness",
+      "Home/Garden",
+      "Cookbooks",
+      "Animals/Pets",
+      "Crafts/Hobbies",
+      "Fine Art",
+      "Photography",
+      "Architecture",
+      "Design",
+      "Reference",
+      "Travel",
+      "Humor",
+      "Children's Picture Books",
+      "Graphic Novels/Comics",
+      "Poetry",
+      "Essay",
+      "Anthology",
+      "Coffee Table Books"
+    ],
+    "record_id": "recO7Awp9NO7FynMe"
+  },
+  "Writing Award": {
+    "name": "Writing Award",
+    "categories": [],
+    "record_id": "recOPUeeNfHK2rsFp"
+  },
+  "Academy of American Poets Prizes": {
+    "name": "Academy of American Poets Prizes",
+    "categories": [
+      "Various Poetry Awards"
+    ],
+    "record_id": "recOReTT7DYPHjlA5"
+  },
+  "Caldecott Medal": {
+    "name": "Caldecott Medal",
+    "categories": [
+      "Picture Books"
+    ],
+    "record_id": "recOTRbKzcQhgSLkh"
+  },
+  "Locus Awards": {
+    "name": "Locus Awards",
+    "categories": [
+      "Science Fiction Novel",
+      "Fantasy Novel",
+      "Horror Novel",
+      "Young Adult Book",
+      "First Novel",
+      "Novella",
+      "Novelette",
+      "Short Story"
+    ],
+    "record_id": "recOo334hc6AH8qpR"
+  },
+  "ForeWord INDIES Book of the Year": {
+    "name": "ForeWord INDIES Book of the Year",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Poetry",
+      "Children's"
+    ],
+    "record_id": "recP1fcl2xhTJvOVj"
+  },
+  "Next Generation Indie Book Awards": {
+    "name": "Next Generation Indie Book Awards",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Autobiography/Memoir",
+      "Business",
+      "Children's/Juvenile Fiction",
+      "General Fiction",
+      "Graphic Novel",
+      "Health/Wellness",
+      "Historical Fiction",
+      "Inspirational",
+      "Literary Fiction",
+      "Mystery",
+      "New Age",
+      "Novella",
+      "Poetry",
+      "Regional Fiction",
+      "Religious Fiction",
+      "Romance",
+      "Science Fiction",
+      "Self-Help",
+      "Spirituality",
+      "Thriller",
+      "Young Adult",
+      "Visionary Fiction"
+    ],
+    "record_id": "recP7SYZfqSH6PwCs"
+  },
+  "Ferro-Grumley Award": {
+    "name": "Ferro-Grumley Award",
+    "categories": [],
+    "record_id": "recPLxQPIKOgbjKjR"
+  },
+  "Giller Prize": {
+    "name": "Giller Prize",
+    "categories": [],
+    "record_id": "recPgwbgcMLBA4Mgx"
+  },
+  "Chautauqua Prize": {
+    "name": "Chautauqua Prize",
+    "categories": [
+      "Fiction and Nonfiction"
+    ],
+    "record_id": "recPrSvb1xPgCZWuK"
+  },
+  "Los Angeles Times Book Prize": {
+    "name": "Los Angeles Times Book Prize",
+    "categories": [
+      "Biography",
+      "Current Interest",
+      "Fiction",
+      "First Fiction",
+      "History",
+      "Mystery/Thriller",
+      "Poetry",
+      "Science & Technology",
+      "Young Adult Literature"
+    ],
+    "record_id": "recQDTQ8Jt691Mqbx"
+  },
+  "Charlotte Zolotow Award": {
+    "name": "Charlotte Zolotow Award",
+    "categories": [
+      "Picture Book Text"
+    ],
+    "record_id": "recQhIIZu9uHUHctM"
+  },
+  "Janet Heidinger Kafka Prize": {
+    "name": "Janet Heidinger Kafka Prize",
+    "categories": [
+      "Fiction by American Women"
+    ],
+    "record_id": "recRHBjGuXHpzzg0M"
+  },
+  "Women's Prize for Fiction (U.S. Component)": {
+    "name": "Women's Prize for Fiction (U.S. Component)",
+    "categories": [
+      "Fiction by Women"
+    ],
+    "record_id": "recRfTfcIrlXalzzN"
+  },
+  "Walter Dean Myers Award": {
+    "name": "Walter Dean Myers Award",
+    "categories": [],
+    "record_id": "recRrGWf0o2huedNW"
+  },
+  "Spur Awards": {
+    "name": "Spur Awards",
+    "categories": [
+      "Traditional Western Novel",
+      "Contemporary Western Novel",
+      "Western Romance Novel",
+      "Historical Novel",
+      "Biography",
+      "Short Fiction",
+      "Poetry"
+    ],
+    "record_id": "recRrSF5aaaarElq9"
+  },
+  "Bancroft Prize": {
+    "name": "Bancroft Prize",
+    "categories": [
+      "American History and Diplomacy"
+    ],
+    "record_id": "recS5auxRyBtRyXeB"
+  },
+  "James Laughlin Award": {
+    "name": "James Laughlin Award",
+    "categories": [
+      "Second Book of Poetry"
+    ],
+    "record_id": "recSg2zjq38xupVmn"
+  },
+  "Kate Tufts Discovery Award": {
+    "name": "Kate Tufts Discovery Award",
+    "categories": [
+      "First Book of Poetry"
+    ],
+    "record_id": "recSlTBHpBLGQXmhZ"
+  },
+  "National Jewish Book Awards": {
+    "name": "National Jewish Book Awards",
+    "categories": [
+      "Fiction",
+      "Autobiography/Memoir",
+      "Biography",
+      "Book Club",
+      "Contemporary Jewish Life",
+      "Education and Jewish Identity",
+      "History",
+      "Holocaust",
+      "Poetry",
+      "Scholarship",
+      "Women's Studies"
+    ],
+    "record_id": "recT0COazkMvB5vUa"
+  },
+  "Aspen Words Literary Prize": {
+    "name": "Aspen Words Literary Prize",
+    "categories": [],
+    "record_id": "recTBGKR5LAjJXWG9"
+  },
+  "Booker Prize": {
+    "name": "Booker Prize",
+    "categories": [],
+    "record_id": "recTM1ac4GvsuNN7b"
+  },
+  "Flannery O'Connor Award for Short Fiction": {
+    "name": "Flannery O'Connor Award for Short Fiction",
+    "categories": [
+      "Short Story Collection"
+    ],
+    "record_id": "recURRt6dFX33H84l"
+  },
+  "Nautilus Book Awards": {
+    "name": "Nautilus Book Awards",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Children's",
+      "Young Adult",
+      "Gift/Specialty",
+      "Art",
+      "Business",
+      "Ecology & Environment",
+      "Green Living",
+      "Health & Healing",
+      "Journalism",
+      "Memoir",
+      "Multicultural",
+      "Psychology",
+      "Science",
+      "Spirituality",
+      "Women"
+    ],
+    "record_id": "recUgk4V0PbvUpvYL"
+  },
+  "American Book Awards": {
+    "name": "American Book Awards",
+    "categories": [
+      "Multiple Categories Without Restriction"
+    ],
+    "record_id": "recUre52SytttrpMN"
+  },
+  "Katherine Anne Porter Prize": {
+    "name": "Katherine Anne Porter Prize",
+    "categories": [
+      "Short Fiction"
+    ],
+    "record_id": "recVBlUoShNW4OJ2D"
+  },
+  "Wallace Stevens Award": {
+    "name": "Wallace Stevens Award",
+    "categories": [
+      "Lifetime Achievement in Poetry"
+    ],
+    "record_id": "recVRHGZW2QEDANWI"
+  },
+  "Kingsley Tufts Poetry Award": {
+    "name": "Kingsley Tufts Poetry Award",
+    "categories": [
+      "Poetry Collection"
+    ],
+    "record_id": "recVUTIJJqKziy8Vk"
+  },
+  "Macavity Awards": {
+    "name": "Macavity Awards",
+    "categories": [
+      "Best Mystery Novel",
+      "Best First Mystery Novel",
+      "Best Mystery Short Story",
+      "Best Critical/Biographical",
+      "Sue Feder Memorial Award for Best Historical Mystery"
+    ],
+    "record_id": "recVogpAj3GHJMq3k"
+  },
+  "The Best American Series": {
+    "name": "The Best American Series",
+    "categories": [
+      "Short Stories",
+      "Essays",
+      "Science/Nature Writing",
+      "Mystery Stories",
+      "Poetry",
+      "Comics"
+    ],
+    "record_id": "recWTXIhiR2QiWFK5"
+  },
+  "Frederick Douglass Prize": {
+    "name": "Frederick Douglass Prize",
+    "categories": [
+      "History of Slavery or Abolition"
+    ],
+    "record_id": "recWVJoxNB6bCNJt5"
+  },
+  "Triangle Award": {
+    "name": "Triangle Award",
+    "categories": [],
+    "record_id": "recWlnInP0WbjmhzU"
+  },
+  "Shirley Jackson Awards": {
+    "name": "Shirley Jackson Awards",
+    "categories": [
+      "Novel",
+      "Novella",
+      "Novelette",
+      "Short Fiction",
+      "Single-Author Collection",
+      "Edited Anthology"
+    ],
+    "record_id": "recX2p8O5ghYRE1vP"
+  },
+  "Pura Belpré Award": {
+    "name": "Pura Belpré Award",
+    "categories": [
+      "Latino/Latina Writer",
+      "Latino/Latina Illustrator"
+    ],
+    "record_id": "recXJgQsiDAaQVHX2"
+  },
+  "First Novel Prize (from The Center)": {
+    "name": "First Novel Prize (from The Center)",
+    "categories": [],
+    "record_id": "recXY8iJTcBRrRH46"
+  },
+  "Mark Twain Prize for American Humor": {
+    "name": "Mark Twain Prize for American Humor",
+    "categories": [
+      "American Humor"
+    ],
+    "record_id": "recY8gORqJU8ZeyKW"
+  },
+  "Nebula Awards": {
+    "name": "Nebula Awards",
+    "categories": [
+      "Novel",
+      "Novella",
+      "Novelette",
+      "Short Story",
+      "Game Writing",
+      "Middle Grade/Young Adult Fiction"
+    ],
+    "record_id": "recYIyZHLEurd7Nrf"
+  },
+  "Orbis Pictus Award": {
+    "name": "Orbis Pictus Award",
+    "categories": [
+      "Nonfiction for Children"
+    ],
+    "record_id": "recYtIvbUzNLVQWmZ"
+  },
+  "Benjamin Franklin Awards": {
+    "name": "Benjamin Franklin Awards",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Poetry",
+      "Children's",
+      "Young Adult",
+      "Art",
+      "Business",
+      "Biography",
+      "Crafts/Hobbies",
+      "Cookbooks",
+      "Health/Fitness",
+      "History",
+      "Home/Garden",
+      "Humor",
+      "Inspirational",
+      "Memoir",
+      "Nature/Environment",
+      "New Age",
+      "Parenting",
+      "Psychology",
+      "Religion",
+      "Sports",
+      "Travel",
+      "Reference"
+    ],
+    "record_id": "recZ6mqWAXfo3gIb3"
+  },
+  "PEN/Faulkner Award for Fiction": {
+    "name": "PEN/Faulkner Award for Fiction",
+    "categories": [
+      "Fiction"
+    ],
+    "record_id": "recZCRNqnC5IVf6Hw"
+  },
+  "Cave Canem Poetry Prize": {
+    "name": "Cave Canem Poetry Prize",
+    "categories": [
+      "First Book by African American Poet"
+    ],
+    "record_id": "recZbUV0FJXbImvll"
+  },
+  "Pulitzer Prize": {
+    "name": "Pulitzer Prize",
+    "categories": [
+      "Fiction",
+      "Drama",
+      "History",
+      "Biography",
+      "Poetry",
+      "General Nonfiction",
+      "Music"
+    ],
+    "record_id": "recZfezShltlx87qo"
+  },
+  "Theodore Sturgeon Memorial Award": {
+    "name": "Theodore Sturgeon Memorial Award",
+    "categories": [
+      "Best Short Science Fiction"
+    ],
+    "record_id": "recZlh3WcXqLwCAHI"
+  },
+  "James Beard Foundation Book Awards": {
+    "name": "James Beard Foundation Book Awards",
+    "categories": [
+      "American",
+      "Baking and Desserts",
+      "Beverage",
+      "General Cooking",
+      "International",
+      "Health and Special Diets",
+      "Reference",
+      "History",
+      "and Scholarship",
+      "Single Subject",
+      "Vegetable-Focused Cooking",
+      "Writing"
+    ],
+    "record_id": "recZr5hxyNr8h4UDc"
+  },
+  "O. Henry Prize": {
+    "name": "O. Henry Prize",
+    "categories": [
+      "Short Fiction"
+    ],
+    "record_id": "recZrY3nJxkkmbvHN"
+  },
+  "Women's Prize for Fiction": {
+    "name": "Women's Prize for Fiction",
+    "categories": [],
+    "record_id": "recaVQmGJUYDL6dWG"
+  },
+  "Mythopoeic Awards": {
+    "name": "Mythopoeic Awards",
+    "categories": [
+      "Adult Literature",
+      "Children's Literature",
+      "Scholarship (Inklings Studies)",
+      "Scholarship (Myth and Fantasy Studies)"
+    ],
+    "record_id": "recaWOiUqzWAznxbb"
+  },
+  "AWP Award Series": {
+    "name": "AWP Award Series",
+    "categories": [
+      "Novel",
+      "Short Fiction",
+      "Creative Nonfiction",
+      "Poetry"
+    ],
+    "record_id": "recaj4OGH6P5CEhM3"
+  },
+  "Hayek Book Prize": {
+    "name": "Hayek Book Prize",
+    "categories": [],
+    "record_id": "recbdw2X0AqMvt7tz"
+  },
+  "Shamus Awards": {
+    "name": "Shamus Awards",
+    "categories": [
+      "Best Hardcover PI Novel",
+      "Best First PI Novel",
+      "Best Original Paperback PI Novel",
+      "Best PI Short Story"
+    ],
+    "record_id": "recbjt8JaAMFeC2FZ"
+  },
+  "Ernest J. Gaines Award for Literary Excellence": {
+    "name": "Ernest J. Gaines Award for Literary Excellence",
+    "categories": [
+      "Fiction by African American Authors"
+    ],
+    "record_id": "recbvP4WEZKJlTJsf"
+  },
+  "Christopher Award": {
+    "name": "Christopher Award",
+    "categories": [
+      "Books for Adults",
+      "Books for Young People"
+    ],
+    "record_id": "reccDJq3ULVdJdziU"
+  },
+  "Michael L. Printz Award": {
+    "name": "Michael L. Printz Award",
+    "categories": [
+      "Young Adult Literature"
+    ],
+    "record_id": "reccEh8z39vfLuCyd"
+  },
+  "Anisfield-Wolf Book Awards": {
+    "name": "Anisfield-Wolf Book Awards",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Poetry",
+      "Lifetime Achievement"
+    ],
+    "record_id": "reccK6Ydp75xM48it"
+  },
+  "Asian/Pacific American Award for Literature": {
+    "name": "Asian/Pacific American Award for Literature",
+    "categories": [
+      "Picture Book",
+      "Children's Literature",
+      "Young Adult Literature",
+      "Adult Fiction",
+      "Adult Non-Fiction"
+    ],
+    "record_id": "reccRSMNEKKK6PGO9"
+  },
+  "The Believer Book Award": {
+    "name": "The Believer Book Award",
+    "categories": [
+      "Fiction"
+    ],
+    "record_id": "recciGU8NTBnbv9OJ"
+  },
+  "Arthur C. Clarke Award": {
+    "name": "Arthur C. Clarke Award",
+    "categories": [],
+    "record_id": "recd7NHI2h7TKRy0e"
+  },
+  "Goldsmiths Prize": {
+    "name": "Goldsmiths Prize",
+    "categories": [],
+    "record_id": "recdZlUNJNLATJwKG"
+  },
+  "LA Times Book Prize": {
+    "name": "LA Times Book Prize",
+    "categories": [],
+    "record_id": "recfBsfkxwKecfseV"
+  },
+  "Newberry Medal": {
+    "name": "Newberry Medal",
+    "categories": [],
+    "record_id": "recfG6brJ4yJuo2Dt"
+  },
+  "Story Prize": {
+    "name": "Story Prize",
+    "categories": [],
+    "record_id": "recfGOsoqgGHdwLui"
+  },
+  "Arab American Book Award": {
+    "name": "Arab American Book Award",
+    "categories": [
+      "Fiction",
+      "Non-Fiction",
+      "Poetry",
+      "Children's/Young Adult"
+    ],
+    "record_id": "recfLG2XYgeQ8mxri"
+  },
+  "The Story Prize": {
+    "name": "The Story Prize",
+    "categories": [
+      "Short Story Collections"
+    ],
+    "record_id": "recgFkrlWweZe3lyZ"
+  },
+  "Believer Book Award": {
+    "name": "Believer Book Award",
+    "categories": [],
+    "record_id": "reciA74OXmwnhHdbA"
+  },
+  "Lambda Literary Awards": {
+    "name": "Lambda Literary Awards",
+    "categories": [
+      "Lesbian Fiction",
+      "Gay Fiction",
+      "Bisexual Fiction",
+      "Transgender Fiction",
+      "LGBTQ Nonfiction",
+      "Gay Poetry",
+      "Lesbian Poetry"
+    ],
+    "record_id": "recinQ8oEgV7RT9Te"
+  },
+  "Iowa Short Fiction Award": {
+    "name": "Iowa Short Fiction Award",
+    "categories": [
+      "Short Story Collection"
+    ],
+    "record_id": "recipz3ddpuRMHQWo"
+  },
+  "NCTE Award for Excellence in Poetry for Children": {
+    "name": "NCTE Award for Excellence in Poetry for Children",
+    "categories": [
+      "Poetry for Children"
+    ],
+    "record_id": "recjuqNekI7pSS2Ls"
+  },
+  "Anthony Awards": {
+    "name": "Anthony Awards",
+    "categories": [
+      "Best Novel",
+      "Best First Novel",
+      "Best Paperback Original",
+      "Best Short Story",
+      "Best Critical Nonfiction"
+    ],
+    "record_id": "recksShI2pmaTBXOQ"
+  },
+  "E.B. White Read Aloud Award": {
+    "name": "E.B. White Read Aloud Award",
+    "categories": [
+      "Picture Books",
+      "Middle Reader"
+    ],
+    "record_id": "reclfuZLV4fDBJevQ"
+  },
+  "T.S. Eliot Prize (U.S. component)": {
+    "name": "T.S. Eliot Prize (U.S. component)",
+    "categories": [
+      "Poetry Collection"
+    ],
+    "record_id": "reclgTwuxtGQGcPk5"
+  },
+  "International Booker Prize": {
+    "name": "International Booker Prize",
+    "categories": [],
+    "record_id": "recn67jpyQua1LJu0"
+  },
+  "Phoenix Award": {
+    "name": "Phoenix Award",
+    "categories": [
+      "Children's Books Published 20 Years Previously"
+    ],
+    "record_id": "recnHd1BgvF4mYcrk"
+  },
+  "Willie Morris Award for Southern Fiction": {
+    "name": "Willie Morris Award for Southern Fiction",
+    "categories": [
+      "Southern Fiction"
+    ],
+    "record_id": "recnVQEJvwZevbMCM"
+  },
+  "Eugene and Marilyn Glick Indiana Authors Award": {
+    "name": "Eugene and Marilyn Glick Indiana Authors Award",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Poetry",
+      "Genre",
+      "Children's",
+      "Young Adult",
+      "Drama"
+    ],
+    "record_id": "recnovLqX6LdY9fFY"
+  },
+  "Hurston/Wright Legacy Award": {
+    "name": "Hurston/Wright Legacy Award",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Poetry",
+      "Debut Fiction"
+    ],
+    "record_id": "reco8Chgj4NMCQ5Sf"
+  },
+  "John Burroughs Medal": {
+    "name": "John Burroughs Medal",
+    "categories": [
+      "Natural History Writing"
+    ],
+    "record_id": "recoPIrU2TNxYFceH"
+  },
+  "Boston Globe-Horn Book Award": {
+    "name": "Boston Globe-Horn Book Award",
+    "categories": [
+      "Fiction and Poetry",
+      "Nonfiction",
+      "Picture Book"
+    ],
+    "record_id": "recpb2vlL5cDzq3V9"
+  },
+  "American Indian Youth Literature Award": {
+    "name": "American Indian Youth Literature Award",
+    "categories": [
+      "Picture Book",
+      "Middle Grade",
+      "Young Adult"
+    ],
+    "record_id": "recqzMXigDGEaWROI"
+  },
+  "PEN/Robert W. Bingham Prize": {
+    "name": "PEN/Robert W. Bingham Prize",
+    "categories": [
+      "Debut Short Story Collection"
+    ],
+    "record_id": "recr7YxC7GndYmE8A"
+  },
+  "Langston Hughes Medal": {
+    "name": "Langston Hughes Medal",
+    "categories": [
+      "Lifetime Achievement in Literature"
+    ],
+    "record_id": "recrStSz1NcvLp2OI"
+  },
+  "Albertine Prize": {
+    "name": "Albertine Prize",
+    "categories": [],
+    "record_id": "recrbZOtnhStXUU6X"
+  },
+  "Bram Stoker Awards": {
+    "name": "Bram Stoker Awards",
+    "categories": [
+      "Novel",
+      "First Novel",
+      "Young Adult Novel",
+      "Graphic Novel",
+      "Long Fiction",
+      "Short Fiction",
+      "Collection",
+      "Poetry Collection"
+    ],
+    "record_id": "recssepShpcipN3dm"
+  },
+  "Francis Parkman Prize": {
+    "name": "Francis Parkman Prize",
+    "categories": [
+      "American History"
+    ],
+    "record_id": "rect8GgIlOcgpnLtm"
+  },
+  "Newbery Medal": {
+    "name": "Newbery Medal",
+    "categories": [
+      "Children's Literature"
+    ],
+    "record_id": "rectX5fedoZdpOQgh"
+  },
+  "Theodor Seuss Geisel Award": {
+    "name": "Theodor Seuss Geisel Award",
+    "categories": [
+      "Beginning Reader Books"
+    ],
+    "record_id": "recuJltDgHAWvVwiE"
+  },
+  "Dayton Literary Peace Prize": {
+    "name": "Dayton Literary Peace Prize",
+    "categories": [],
+    "record_id": "recuQhA9siRjfx8EY"
+  },
+  "Neustadt Prize": {
+    "name": "Neustadt Prize",
+    "categories": [],
+    "record_id": "recuVxhDxBL5m2dJc"
+  },
+  "Southern Book Prize": {
+    "name": "Southern Book Prize",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Children's"
+    ],
+    "record_id": "recwjUa8Db8dkzHaM"
+  },
+  "Library of Congress Prize": {
+    "name": "Library of Congress Prize",
+    "categories": [],
+    "record_id": "recwrlq3kGXjme6Kd"
+  },
+  "Carnegie Medal": {
+    "name": "Carnegie Medal",
+    "categories": [],
+    "record_id": "recxeK7D2FKc3IQ4D"
+  },
+  "Kirkus Prize": {
+    "name": "Kirkus Prize",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Young Readers' Literature"
+    ],
+    "record_id": "recy5xbp4v3t8IOdv"
+  },
+  "Schneider Family Book Award": {
+    "name": "Schneider Family Book Award",
+    "categories": [
+      "Books Portraying Disability Experience"
+    ],
+    "record_id": "recyA2aAB3Zn9UJLm"
+  },
+  "Jane Addams Children's Book Award": {
+    "name": "Jane Addams Children's Book Award",
+    "categories": [
+      "Children's Books for Peace and Social Justice"
+    ],
+    "record_id": "recybTKKjdZamMgqC"
+  },
+  "Nobel Prize": {
+    "name": "Nobel Prize",
+    "categories": [],
+    "record_id": "recyrF06gdbIUvAzW"
+  },
+  "Cercador Prize": {
+    "name": "Cercador Prize",
+    "categories": [],
+    "record_id": "reczAdGPk6q1ztvbW"
+  },
+  "Eric Hoffer Book Award": {
+    "name": "Eric Hoffer Book Award",
+    "categories": [
+      "Art",
+      "Business",
+      "Culture",
+      "Education",
+      "Fiction",
+      "Health",
+      "History",
+      "Home",
+      "Humor",
+      "Legacy",
+      "Memoir",
+      "Poetry",
+      "Psychology",
+      "Reference",
+      "Religion",
+      "Science",
+      "Self-Help",
+      "Spiritual"
+    ],
+    "record_id": "reczSFnM1JtuRUfhB"
+  },
+  "National Book Award": {
+    "name": "National Book Award",
+    "categories": [
+      "Fiction",
+      "Nonfiction",
+      "Poetry",
+      "Translated Literature",
+      "Young People's Literature"
+    ],
+    "record_id": "reczYCsKsswq8vCts"
+  },
+  "Joyce Carol Oates Prize": {
+    "name": "Joyce Carol Oates Prize",
+    "categories": [],
+    "record_id": "reczcAQdI1v7hBijs"
+  }
+}
